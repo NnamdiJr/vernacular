@@ -2,6 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import config from './config';
+const io = require("socket.io-client");
 
 
 const letters = 'vernacular'.split('').map((x, i) => `${x}-${i}`);
@@ -81,14 +82,8 @@ export default class Header extends React.Component {
     }
 
     componentDidMount() {
-        this._source = new WebSocket(`${config.socket}/noise`);
-        this._source.onopen = () => {
-            console.log('open');
-            setInterval(_ => this._source.send('ping'), 10000);
-        };
-        this._source.onerror = (e) => console.log('ws err', e);
-        
-        this._source.onmessage = e => this.updateText(e.data);
+        this._source = io.connect(`${config.host}`, {transports: ['websocket']});
+        this._source.on('word', word => this.updateText(word));
     }
 
     updateText(phrase) {

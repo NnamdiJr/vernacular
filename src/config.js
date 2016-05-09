@@ -1,8 +1,9 @@
 "use strict";
 
-const server = 'most-vernacular.azurewebsites.net'
+const host = 'localhost:3000'//'most-vernacular.azurewebsites.net'
 
 export default {
-    server: `http://${server}`,
-    socket: `ws://${server}`
+    host: host,
+    server: `http://${host}`,
+    socket: `ws://${host}`
 };

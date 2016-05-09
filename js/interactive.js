@@ -68,15 +68,15 @@
 
 	var chroma = _interopRequireWildcard(_chromaJs);
 
-	var _config = __webpack_require__(186);
+	var _config = __webpack_require__(172);
 
 	var _config2 = _interopRequireDefault(_config);
 
-	var _urban = __webpack_require__(172);
+	var _urban = __webpack_require__(173);
 
 	var _urban2 = _interopRequireDefault(_urban);
 
-	var _output = __webpack_require__(181);
+	var _output = __webpack_require__(182);
 
 	var _output2 = _interopRequireDefault(_output);
 
@@ -24639,6 +24639,23 @@
 
 /***/ },
 /* 172 */
+/***/ function(module, exports) {
+
+	"use strict";
+
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+	var host = 'localhost:3000'; //'most-vernacular.azurewebsites.net'
+
+	exports.default = {
+	    host: host,
+	    server: "http://" + host,
+	    socket: "ws://" + host
+	};
+
+/***/ },
+/* 173 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -24651,7 +24668,7 @@
 
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-	var xhr = __webpack_require__(173);
+	var xhr = __webpack_require__(174);
 
 	var API = 'http://api.urbandictionary.com/v0/define';
 
@@ -24726,16 +24743,16 @@
 	});
 
 /***/ },
-/* 173 */
+/* 174 */
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
 
-	var window = __webpack_require__(174);
-	var once = __webpack_require__(175);
-	var isFunction = __webpack_require__(176);
-	var parseHeaders = __webpack_require__(177);
-	var xtend = __webpack_require__(180);
+	var window = __webpack_require__(175);
+	var once = __webpack_require__(176);
+	var isFunction = __webpack_require__(177);
+	var parseHeaders = __webpack_require__(178);
+	var xtend = __webpack_require__(181);
 
 	module.exports = createXHR;
 	createXHR.XMLHttpRequest = window.XMLHttpRequest || noop;
@@ -24947,7 +24964,7 @@
 	function noop() {}
 
 /***/ },
-/* 174 */
+/* 175 */
 /***/ function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
@@ -24964,7 +24981,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 175 */
+/* 176 */
 /***/ function(module, exports) {
 
 	'use strict';
@@ -24990,7 +25007,7 @@
 	}
 
 /***/ },
-/* 176 */
+/* 177 */
 /***/ function(module, exports) {
 
 	'use strict';
@@ -25007,13 +25024,13 @@
 	};
 
 /***/ },
-/* 177 */
+/* 178 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
 
-	var trim = __webpack_require__(178),
-	    forEach = __webpack_require__(179),
+	var trim = __webpack_require__(179),
+	    forEach = __webpack_require__(180),
 	    isArray = function isArray(arg) {
 	  return Object.prototype.toString.call(arg) === '[object Array]';
 	};
@@ -25041,7 +25058,7 @@
 	};
 
 /***/ },
-/* 178 */
+/* 179 */
 /***/ function(module, exports) {
 
 	'use strict';
@@ -25061,12 +25078,12 @@
 	};
 
 /***/ },
-/* 179 */
+/* 180 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
 
-	var isFunction = __webpack_require__(176);
+	var isFunction = __webpack_require__(177);
 
 	module.exports = forEach;
 
@@ -25109,7 +25126,7 @@
 	}
 
 /***/ },
-/* 180 */
+/* 181 */
 /***/ function(module, exports) {
 
 	"use strict";
@@ -25135,7 +25152,7 @@
 	}
 
 /***/ },
-/* 181 */
+/* 182 */
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -25154,11 +25171,11 @@
 
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 
-	var _definition_pane = __webpack_require__(182);
+	var _definition_pane = __webpack_require__(183);
 
 	var _definition_pane2 = _interopRequireDefault(_definition_pane);
 
-	var _urban = __webpack_require__(172);
+	var _urban = __webpack_require__(173);
 
 	var _urban2 = _interopRequireDefault(_urban);
 
@@ -25343,7 +25360,7 @@
 	;
 
 /***/ },
-/* 182 */
+/* 183 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -25411,25 +25428,6 @@
 	}(_react2.default.Component);
 
 	exports.default = DefinitionPane;
-
-/***/ },
-/* 183 */,
-/* 184 */,
-/* 185 */,
-/* 186 */
-/***/ function(module, exports) {
-
-	"use strict";
-
-	Object.defineProperty(exports, "__esModule", {
-	    value: true
-	});
-	var server = 'most-vernacular.azurewebsites.net';
-
-	exports.default = {
-	    server: "http://" + server,
-	    socket: "ws://" + server
-	};
 
 /***/ }
 /******/ ]);
