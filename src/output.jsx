@@ -43,7 +43,7 @@ class Token extends React.Component {
     onSelect(e) {
         if (this._hasEntry()) {
             this.props.onSelect(this.props.token.synonym);
-            e.stopPropogation();
+            e.stopPropagation();
         }
     }
     

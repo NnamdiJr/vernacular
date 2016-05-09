@@ -25235,7 +25235,7 @@
 	        value: function onSelect(e) {
 	            if (this._hasEntry()) {
 	                this.props.onSelect(this.props.token.synonym);
-	                e.stopPropogation();
+	                e.stopPropagation();
 	            }
 	        }
 	    }, {
