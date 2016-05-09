@@ -22509,6 +22509,10 @@
 
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 
+	var _config = __webpack_require__(186);
+
+	var _config2 = _interopRequireDefault(_config);
+
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -22516,8 +22520,6 @@
 	function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
 
 	function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
-
-	var SERVER = "http://localhost:3000";
 
 	var letters = 'vernacular'.split('').map(function (x, i) {
 	    return x + '-' + i;
@@ -22664,7 +22666,7 @@
 	        value: function componentDidMount() {
 	            var _this4 = this;
 
-	            this._source = new EventSource(SERVER + '/noise');
+	            this._source = new EventSource(_config2.default.server + '/noise');
 	            this._source.addEventListener('message', function (e) {
 	                return _this4.updateText(e.data);
 	            }, false);
@@ -22972,6 +22974,19 @@
 
 	exports.default = Example;
 	;
+
+/***/ },
+/* 186 */
+/***/ function(module, exports) {
+
+	"use strict";
+
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+	exports.default = {
+	    server: 'http://most-vernacular.azurewebsites.net'
+	};
 
 /***/ }
 /******/ ]);

@@ -68,6 +68,10 @@
 
 	var chroma = _interopRequireWildcard(_chromaJs);
 
+	var _config = __webpack_require__(186);
+
+	var _config2 = _interopRequireDefault(_config);
+
 	var _urban = __webpack_require__(172);
 
 	var _urban2 = _interopRequireDefault(_urban);
@@ -86,8 +90,7 @@
 
 	function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-	var SERVER = "http://localhost:3000";
-	var API = SERVER + '/api/tokens';
+	var API = _config2.default.server + '/api/tokens';
 	var WORD_RE = /([\w']+)/g;
 
 	/**
@@ -25408,6 +25411,22 @@
 	}(_react2.default.Component);
 
 	exports.default = DefinitionPane;
+
+/***/ },
+/* 183 */,
+/* 184 */,
+/* 185 */,
+/* 186 */
+/***/ function(module, exports) {
+
+	"use strict";
+
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+	exports.default = {
+	    server: 'http://most-vernacular.azurewebsites.net'
+	};
 
 /***/ }
 /******/ ]);

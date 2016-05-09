@@ -1,8 +1,8 @@
 "use strict";
 import React from 'react';
 import ReactDOM from 'react-dom';
+import config from './config';
 
-const SERVER = "http://localhost:3000";
 
 const letters = 'vernacular'.split('').map((x, i) => `${x}-${i}`);
 
@@ -81,7 +81,7 @@ export default class Header extends React.Component {
     }
 
     componentDidMount() {
-        this._source = new EventSource(`${SERVER}/noise`);
+        this._source = new EventSource(`${config.server}/noise`);
         this._source.addEventListener('message', e => this.updateText(e.data), false);
     }
 

@@ -4,12 +4,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import $ from 'jquery';
 import * as chroma from 'chroma-js';
+import config from './config';
 
 import Urban from './urban';
 import Output from './output';
 
-const SERVER = "http://localhost:3000";
-const API = `${SERVER}/api/tokens`;
+const API = `${config.server}/api/tokens`;
 const WORD_RE = /([\w']+)/g;
 
 /**
