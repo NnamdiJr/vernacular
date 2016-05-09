@@ -1,6 +1,6 @@
 "use strict";
 
-const host = 'localhost:3000'//'most-vernacular.azurewebsites.net'
+const host = 'most-vernacular.azurewebsites.net'
 
 export default {
     host: host,

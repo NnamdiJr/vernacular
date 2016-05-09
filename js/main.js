@@ -21999,7 +21999,7 @@
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
 	});
-	var host = 'localhost:3000'; //'most-vernacular.azurewebsites.net'
+	var host = 'most-vernacular.azurewebsites.net';
 
 	exports.default = {
 	    host: host,
