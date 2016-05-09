@@ -12,7 +12,6 @@ const MAX_LENGTH = 10000;
 
 
 const app = express();
-const  expressWs = require('express-ws')(app);
 
 app.use(bodyParser.json())
 app.use(logErrors);
@@ -77,12 +76,18 @@ app.post('/api/tokens', (req, res) => {
 });
 
 
+const server = require('http').createServer(app);
+const io = require('socket.io')(server);
+
+io.configure(function() {
+    io.set('transports', ['websocket']);
+});
+
 const noise = new Noise();
 
-
-app.ws('/noise', (ws, req) => {
-    const handle = word => ws.send(word);
-    req.on("close",  () => {
+io.on('connection', (socket) => {
+    const handle = word => ws.emit(word);
+    socket.on("disconnect", () => {
         noise.removeListener(handle);
     });
     noise.addListener(handle);
