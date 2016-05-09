@@ -77,9 +77,6 @@ app.post('/api/tokens', (req, res) => {
 });
 
 
-const server = require('http').Server(app);
-const io = require('socket.io')(server);
-
 const noise = new Noise();
 
 
