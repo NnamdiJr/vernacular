@@ -1,0 +1,15 @@
+title: "Vernacular"
+
+description: "Finding Urban Dictionary entries in text."
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    "node_modules",
+    "server",
+    "src"
+]

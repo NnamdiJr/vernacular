@@ -1,0 +1,3 @@
+[submodule "urban-dictionary-word-list"]
+	path = urban-dictionary-word-list
+	url = git@github.com:mattbierner/urban-dictionary-word-list.git

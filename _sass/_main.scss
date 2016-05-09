@@ -1,0 +1,52 @@
+#main .content {
+    max-width: 600px;
+    opacity: 0;
+    animation: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-delay: 1.5s
+}
+
+$font-size: 16px;
+$line-height: 1.4;
+$lines-to-show: 3;
+
+.example {
+    margin: 2em 0;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #eee;
+    
+    .synonym {
+        text-align: center;
+        font-size: 1.4em;
+        font-weight: 300;
+    }
+    
+    .excerpt {
+        font-family: Cambria, Georgia, serif;
+        font-style: italic;
+        font-size: 1.1em;
+        border-left: 4px solid #aaa;
+        padding-left: 1em;
+    }
+    
+    .definition {
+        padding: 0 1em;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        box-orient: vertical;
+        font-size: $font-size;
+        line-height: $line-height;
+        -webkit-line-clamp: $lines-to-show;
+        line-clamp: $lines-to-show;
+        max-height: $font-size * $line-height * $lines-to-show;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .definition.active {
+        max-height: none;
+        -webkit-line-clamp: initial;
+        line-clamp: initial;
+    }
+}
