@@ -12,6 +12,7 @@ const MAX_LENGTH = 10000;
 
 
 const app = express();
+const server = require('http').createServer(app);
 
 app.use(bodyParser.json())
 app.use(logErrors);
@@ -76,23 +77,21 @@ app.post('/api/tokens', (req, res) => {
 });
 
 
-const server = require('http').createServer(app);
 const io = require('socket.io')(server);
 
-io.configure(function() {
-    io.set('transports', ['websocket']);
-});
+io.set('transports', ['websocket']);
+
 
 const noise = new Noise();
 
 io.on('connection', (socket) => {
-    const handle = word => ws.emit(word);
+    const handle = word => socket.emit('word', word);
     socket.on("disconnect", () => {
         noise.removeListener(handle);
     });
     noise.addListener(handle);
 });
 
-app.listen(PORT, () => {
+server.listen(PORT, () => {
     console.log('Listening on port ' + PORT);
 });
