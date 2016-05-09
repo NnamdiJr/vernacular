@@ -22666,10 +22666,17 @@
 	        value: function componentDidMount() {
 	            var _this4 = this;
 
-	            this._source = new EventSource(_config2.default.server + '/noise');
-	            this._source.addEventListener('message', function (e) {
-	                return _this4.updateText(e.data);
-	            }, false);
+	            this._source = new WebSocket(_config2.default.socket + '/noise');
+	            this._source.onopen = function () {
+	                return console.log('open');
+	            };
+	            this._source.onerror = function (e) {
+	                return console.log('ws err', e);
+	            };
+
+	            this._source.onmessage = function (e) {
+	                console.log(e);_this4.updateText(e.data);
+	            };
 	        }
 	    }, {
 	        key: 'updateText',
@@ -22984,8 +22991,11 @@
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
 	});
+	var server = 'most-vernacular.azurewebsites.net';
+
 	exports.default = {
-	    server: 'http://most-vernacular.azurewebsites.net'
+	    server: "http://" + server,
+	    socket: "ws://" + server
 	};
 
 /***/ }

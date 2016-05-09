@@ -25424,8 +25424,11 @@
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
 	});
+	var server = 'most-vernacular.azurewebsites.net';
+
 	exports.default = {
-	    server: 'http://most-vernacular.azurewebsites.net'
+	    server: "http://" + server,
+	    socket: "ws://" + server
 	};
 
 /***/ }

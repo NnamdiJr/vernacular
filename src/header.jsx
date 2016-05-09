@@ -81,8 +81,11 @@ export default class Header extends React.Component {
     }
 
     componentDidMount() {
-        this._source = new EventSource(`${config.server}/noise`);
-        this._source.addEventListener('message', e => this.updateText(e.data), false);
+        this._source = new WebSocket(`${config.socket}/noise`);
+        this._source.onopen = () => console.log('open');
+        this._source.onerror = (e) => console.log('ws err', e);
+        
+        this._source.onmessage = e => { console.log(e) ;this.updateText(e.data); }
     }
 
     updateText(phrase) {
