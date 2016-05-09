@@ -3,14 +3,17 @@
 Vernacular is an experiment that finds occurrences of Urban Dictionary entries in text. This provides a fun new reading experiance and alters text in ways the authors probably never imagined.
 
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/mattbierner/vernacular/master/documentation/in-that-way.png" alt="" />
     <p align="center">Example from <i>Pride and Prejudice</i></p>
+    <img src="https://raw.githubusercontent.com/mattbierner/vernacular/master/documentation/in-that-way.png" alt="" />
 </div>
 
+-------
+
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/mattbierner/vernacular/master/documentation/huck-finn.png" alt="" />
     <p align="center">All entries found in the opening of <i>Huckleberry Finn</i></p>
+    <img src="https://raw.githubusercontent.com/mattbierner/vernacular/master/documentation/huck-finn.png" alt="" />
 </div>
+
 
 **Links**
 
