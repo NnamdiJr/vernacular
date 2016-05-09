@@ -122,7 +122,7 @@ class Site extends React.Component {
             <div id="interactive">
                 <header className="interative-header">
                     <h1>
-                        <a href=".."><div>vern</div><div>ac</div><div>ular</div></a>
+                        <a href="http://mattbierner.github.io/vernacular"><div>vern</div><div>ac</div><div>ular</div></a>
                     </h1>
                     <h2>(interactive)</h2>
                 </header>

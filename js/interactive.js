@@ -234,7 +234,7 @@
 	                        null,
 	                        _react2.default.createElement(
 	                            'a',
-	                            { href: '..' },
+	                            { href: 'http://mattbierner.github.io/vernacular' },
 	                            _react2.default.createElement(
 	                                'div',
 	                                null,
