@@ -97,27 +97,6 @@ const thesurusizeTokens = module.exports.tokens = (trie, tokens) => {
     // const tokenValues = tokens.map(x => x.token);
     //  const taggedWords = _.zip(tagger.tag(tokenValues), tokens);
     return Promise.resolve(sub(trie, tokens));
-    return new Promise((resolve, reject) =>
-        async.map(taggedWords, (pair, callback) => {
-            const tagged = pair[0];
-            const token = pair[1];
-
-            if (!tagged)
-                return callback(null, synonymResponse(token, null));
-
-            const word = tagged[0];
-            const tag = tagged[1];
-
-            if (!word.match(WORD_RE) || goodTags.indexOf(tag) === -1)
-                return callback(null, synonymResponse(token, null));
-
-            let newWord = thesurusizeWord(search, word, selector);
-            return callback(null, synonymResponse(token, newWord));
-        }, (err, results) => {
-            if (err)
-                return reject(err);
-            return resolve(results);
-        }));
 };
 
 /**

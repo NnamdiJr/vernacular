@@ -6,7 +6,7 @@ const trie = require('./server/build');
 const Noise = require('./server/noise');
 const sub = require('./server/sub');
 
-const PORT = 3000;
+const PORT = process.env.port || 3000;
 const MAX_LENGTH = 10000;
 
 
