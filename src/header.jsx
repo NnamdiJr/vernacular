@@ -82,10 +82,13 @@ export default class Header extends React.Component {
 
     componentDidMount() {
         this._source = new WebSocket(`${config.socket}/noise`);
-        this._source.onopen = () => console.log('open');
+        this._source.onopen = () => {
+            console.log('open');
+            setInterval(_ => this._source.send('ping'), 10000);
+        };
         this._source.onerror = (e) => console.log('ws err', e);
         
-        this._source.onmessage = e => { console.log(e) ;this.updateText(e.data); }
+        this._source.onmessage = e => this.updateText(e.data);
     }
 
     updateText(phrase) {

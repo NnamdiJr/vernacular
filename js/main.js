@@ -22668,14 +22668,17 @@
 
 	            this._source = new WebSocket(_config2.default.socket + '/noise');
 	            this._source.onopen = function () {
-	                return console.log('open');
+	                console.log('open');
+	                setInterval(function (_) {
+	                    return _this4._source.send('ping');
+	                }, 10000);
 	            };
 	            this._source.onerror = function (e) {
 	                return console.log('ws err', e);
 	            };
 
 	            this._source.onmessage = function (e) {
-	                console.log(e);_this4.updateText(e.data);
+	                return _this4.updateText(e.data);
 	            };
 	        }
 	    }, {
