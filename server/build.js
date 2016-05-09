@@ -15,12 +15,15 @@ const build = (file) => {
     
     return new Promise((resolve, reject) => {
         lineReader.on('line', line => {
+            if (!line || line.length === 0)
+                return;
+            
             const normalizedLine = words.normalizeLine(line);
             
             const keys = words.getWords(normalizedLine);
             
             // Skip non-exact 1 word entries
-            if (keys.length === 1 && keys[0] !== normalizedLine)
+            if (keys.length === 0 || (keys.length === 1 && keys[0] !== normalizedLine))
                 return;
             
             let d = data;

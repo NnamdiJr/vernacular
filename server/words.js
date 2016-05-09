@@ -12,6 +12,6 @@ const normalizeWord = module.exports.normalizeWord = word =>
     word.toLowerCase().trim();
 
 const getWords = module.exports.getWords = line =>
-    line.match(word_re)
+    (line.match(word_re) || [])
         .map(normalizeWord)
         .filter(x => x.length);
