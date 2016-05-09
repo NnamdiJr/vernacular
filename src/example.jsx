@@ -18,7 +18,7 @@ class Definition extends React.Component {
     render() {
         return (
             <pre className={"definition " + (this.state.expanded ? 'active' : '') } onClick={this.onClick.bind(this) }>
-                {this.props.definition}
+                {(this.props.definition || '').trim()}
             </pre>
         );
     }

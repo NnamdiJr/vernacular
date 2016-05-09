@@ -43,7 +43,7 @@
     
     .col {
         position: absolute;
-        width: 50%;
+        width: 2000px;
         top: 0;
         opacity: 0;
         vertical-align: bottom;
@@ -59,12 +59,13 @@
     }
     
     .pre {
-        left: 0;
+        left: 50%;
+        margin-left: -2000px;
         text-align: right;
     }
     
     .post {
-        right: 0;
+        left: 50%;
         text-align: left;
         span {
             margin-left: 1em;

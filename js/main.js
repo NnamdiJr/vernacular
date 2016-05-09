@@ -135,7 +135,8 @@
 	        _this.state = {
 	            active_examples: [],
 	            choice: '',
-	            example: null
+	            example: null,
+	            i: 0
 	        };
 	        return _this;
 	    }
@@ -165,7 +166,9 @@
 	                _this2.setState({
 	                    choice: choice,
 	                    example: example,
-	                    active_examples: _this2.getExamples(example)
+	                    active_examples: _this2.getExamples(example),
+	                    i: _this2.state.i + 1
+
 	                });
 	            });
 	        }
@@ -184,12 +187,17 @@
 	        key: 'onRandom',
 	        value: function onRandom() {
 	            this.setState({
-	                active_examples: this.getExamples(this.state.example)
+	                active_examples: this.getExamples(this.state.example),
+	                i: this.state.i + 1
 	            });
+	            location.href = "#";
+	            location.href = "#pre-text-choices";
 	        }
 	    }, {
 	        key: 'render',
 	        value: function render() {
+	            var _this3 = this;
+
 	            var choices = Object.keys(this.props.choices || {}).map(function (title) {
 	                return _react2.default.createElement(
 	                    'option',
@@ -199,7 +207,7 @@
 	            });
 
 	            var examples = this.state.active_examples.map(function (example) {
-	                return _react2.default.createElement(_example2.default, _extends({ key: example.i }, example));
+	                return _react2.default.createElement(_example2.default, _extends({ key: _this3.state.i + '-' + example.i }, example));
 	            });
 
 	            return _react2.default.createElement(
@@ -30225,7 +30233,7 @@
 	                    _react2.default.createElement(
 	                        'a',
 	                        { href: 'interactive' },
-	                        'Vernacular Your Own Text'
+	                        'Vernacular Custom Text'
 	                    ),
 	                    _react2.default.createElement(
 	                        'a',
@@ -30236,13 +30244,13 @@
 	                _react2.default.createElement(
 	                    'p',
 	                    null,
-	                    'This page has a few fully processed samples texts to investigate. To keep download sizes reasonable, only matches of three words or more are included in these examples. Check out the ',
+	                    'This page has a few fully processed samples texts to investigate. Only matches of three words or more are included in these examples. Check out the ',
 	                    _react2.default.createElement(
 	                        'a',
-	                        null,
+	                        { href: 'interactive' },
 	                        'interative page'
 	                    ),
-	                    ' to lookup all entries.'
+	                    ' to lookup all entries in some text.'
 	                )
 	            );
 	        }
@@ -30312,7 +30320,7 @@
 	            return _react2.default.createElement(
 	                'pre',
 	                { className: "definition " + (this.state.expanded ? 'active' : ''), onClick: this.onClick.bind(this) },
-	                this.props.definition
+	                (this.props.definition || '').trim()
 	            );
 	        }
 	    }]);

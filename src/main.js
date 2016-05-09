@@ -56,7 +56,8 @@ class Site extends React.Component {
         this.state = {
             active_examples: [],
             choice: '',
-            example: null
+            example: null,
+            i: 0
         };
     }
 
@@ -80,7 +81,9 @@ class Site extends React.Component {
             this.setState({
                 choice: choice,
                 example: example,
-                active_examples: this.getExamples(example)
+                active_examples: this.getExamples(example),
+                i: this.state.i + 1
+
             });
         });
     }
@@ -96,8 +99,11 @@ class Site extends React.Component {
 
     onRandom() {
         this.setState({
-            active_examples: this.getExamples(this.state.example)
+            active_examples: this.getExamples(this.state.example),
+            i: this.state.i + 1
         });
+        location.href = "#";
+        location.href = "#pre-text-choices";
     }
 
     render() {
@@ -106,7 +112,7 @@ class Site extends React.Component {
         );
 
         const examples = this.state.active_examples.map(example =>
-            <Example key={example.i} {...example} />
+            <Example key={this.state.i + '-' + example.i} {...example} />
         );
 
         return (
