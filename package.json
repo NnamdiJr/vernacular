@@ -18,10 +18,13 @@
     "url": "https://github.com/mattbierner/vernacular/issues"
   },
   "homepage": "https://github.com/mattbierner/vernacular#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "yargs": "^4.7.0"
+  },
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
+    "express-ws": "^2.0.0-rc.1",
     "natural": "^0.4.0",
     "shuffle-array": "^1.0.0"
   }

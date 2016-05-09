@@ -17,14 +17,14 @@ Vernacular is an experiment that finds occurrences of Urban Dictionary entries i
 
 **Links**
 
-* [Main site]() - Shows example matches from various texts. Only matches of three words or more are shown. 
-* [Interactive]() - Enter your own text, shows all matches.
-
+* [Main site](http://mattbierner.github.io/vernacular/) - Shows example matches from various texts. Only matches of three words or more are shown. 
+* [Interactive](http://mattbierner.github.io/vernacular/interactive) - Enter your own text, shows all matches.
+* [Urban Dictionary Word List](https://github.com/mattbierner/urban-dictionary-word-list) - Entry data from *Urban Dictionary* used for this experiment.
 
 ## Building
-The `master` branch has the main server code, while the website code is stored in the `gh-pages` branch.
+The `master` branch has the main server code, while the website code is stored in the `gh-pages` branch. See the `gh-pages` branch for information about deplying the website.
 
-### Server
+### Running the Server
 Very simple server that uses express. Start using:
 
 ```bash
@@ -34,25 +34,4 @@ $ npm install
 $ node server.js
 ```
 
-### Website
-The website uses [Jekyll](http://jekyllrb.com/) and [Webpack](http://webpack.github.io/) for buildings
-
-```bash
-$ cd vernacular
-$ git checkout gh-pages
-$ npm install
-```
-
-Start Jekyll with:
-
-```bash
-$ jekyll serve -w
-```
-
-Start webpack with:
-
-```bash
-$ webpack --watch
-```
-
-Main Javascript is stored in `src` and output to `js`.
+### Command Line

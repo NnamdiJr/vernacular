@@ -35,12 +35,9 @@ class Noise {
         this.words.then(words => {
             ++this.index;
             this.index %= words.length;
-            
             const word = words[this.index];
-            for (const res of this.listeners) {
-                res.write('id: ' + this.index + '\n');
-                res.write("data: " + word + '\n\n');
-            }
+            for (const res of this.listeners)
+                res(word);
         });
     }
 }

@@ -2,6 +2,7 @@
 
 const bodyParser = require('body-parser')
 const express = require('express');
+
 const trie = require('./server/build');
 const Noise = require('./server/noise');
 const sub = require('./server/sub');
@@ -10,7 +11,9 @@ const PORT = process.env.port || 3000;
 const MAX_LENGTH = 10000;
 
 
-var app = express();
+const app = express();
+const  expressWs = require('express-ws')(app);
+
 app.use(bodyParser.json())
 app.use(logErrors);
 
@@ -74,22 +77,18 @@ app.post('/api/tokens', (req, res) => {
 });
 
 
+const server = require('http').Server(app);
+const io = require('socket.io')(server);
+
 const noise = new Noise();
 
-app.get('/noise', (req, res) => {
-    req.socket.setTimeout(99999999);
-    
-    res.writeHead(200, {
-        'Content-Type': 'text/event-stream',
-        'Cache-Control': 'no-cache',
-        'Connection': 'keep-alive'
+
+app.ws('/noise', (ws, req) => {
+    const handle = word => ws.send(word);
+    req.on("close",  () => {
+        noise.removeListener(handle);
     });
-    res.write('\n');
-    
-    req.on("close", () => {
-        noise.removeListener(res);
-    });
-    noise.addListener(res);
+    noise.addListener(handle);
 });
 
 app.listen(PORT, () => {
