@@ -27,14 +27,24 @@ class Token extends React.Component {
     }
     
     onMouseEnter() {
-        if (this._hasEntry()) {
+        if (this._hasEntry())
             this.props.onActivate(this.props.token.synonym);
-        }
+        
         this.setState({ active: true });
     }
     
     onMouseLeave() {
+        if (this._hasEntry())
+            this.props.onDeactivate(this.props.token.synonym);
+        
         this.setState({ active: false });
+    }
+    
+    onSelect(e) {
+        if (this._hasEntry()) {
+            this.props.onSelect(this.props.token.synonym);
+            e.stopPropogation();
+        }
     }
     
     render() {
@@ -48,6 +58,7 @@ class Token extends React.Component {
         return (
             <span className="token"
                 style={style}
+                onClick={this.onSelect.bind(this)}
                 onMouseEnter={this.onMouseEnter.bind(this)}
                 onMouseLeave={this.onMouseLeave.bind(this)}>{token.tokens.map(x => x.token).join('')}</span>
         );
@@ -56,42 +67,71 @@ class Token extends React.Component {
 
 
 /**
- * 
+ * Set of output tokens.
  */
 export default class Output extends React.Component {
     constructor(props) {
         super(props);
         
         this.state = {
-            outputCache: this.getOuputData(this.props.tokens)
+            outputCache: this.getOuputData(this.props.tokens),
+            selected: null
         };
     }
     
     componentWillReceiveProps(newProps) {
         this.setState({
-            outputCache: this.getOuputData(newProps.tokens || [])
+            outputCache: this.getOuputData(newProps.tokens || []),
+            selected: null
         });
     }
     
     getOuputData(tokens) {
-        let outputLength = 0;
-        const nodes = tokens.map(token => {
-            const word = token.synonym || token.token;
-            outputLength += word.length;
-            return <Token key={token.id} token={token} onActivate={this.onActivate.bind(this)} />;
-        });
-        return { nodes: nodes, length: outputLength };
+        return tokens.map(token => 
+            <Token key={token.id} token={token}
+                onActivate={this.onActivate.bind(this)}
+                onDeactivate={this.onDeactivate.bind(this)}
+                onSelect={this.onSelect.bind(this)} />);
     }
     
     onActivate(word) {
-        Urban.instance.lookup(word).then(def => {
-            if (def) {
-                this.setState({
-                    word: word,
-                    definition: def
-                });
-            }
+        this.setWord(word);
+    }
+    
+    onSelect(word) {
+        this.setWord(word, (word, def) => {
+            this.setState({ selected: word});
         });
+    }
+    
+    onDeactivate(word) {
+        if (!this.state.selected) {
+            this.setState({ selected: null, word: null, definition: null });
+        } else {
+            this.onActivate(this.state.selected);
+        }
+    }
+    
+    setWord(word, selected) {
+        Urban.instance.lookup(word).then(def => {
+            const update = {};
+            if (def) {
+                update.word = word;
+                update.definition = def;
+                
+                if (selected)
+                    update.selected = word;
+            }
+            this.setState(update);
+        });
+    }
+    
+    onDefinitionClose() {
+        this.setState({ selected: null, word: null, definition: null });
+    }
+    
+    onClickContent() {
+        this.setState({ selected: null, word: null, definition: null });
     }
     
     render() {
@@ -101,7 +141,7 @@ export default class Output extends React.Component {
         if (this.props.error) {
             outputElement = <p style={{color: 'red' }}>{this.props.error}</p>;
         } else {
-            outputElement = <pre className="tokens">{output.nodes}</pre>;
+            outputElement = <pre className="tokens">{output}</pre>;
         }
         
         return (
@@ -109,11 +149,11 @@ export default class Output extends React.Component {
                 <header className="result-header">
                     <h1>Output</h1>
                 </header>
-                <div className="output-content">
+                <div className="output-content" onClick={this.onClickContent.bind(this)}>
                     {outputElement}
                 </div>
                 
-                <DefinitionPane word={this.state.word} definition={this.state.definition} />
+                <DefinitionPane word={this.state.word} definition={this.state.definition} onClose={this.onDefinitionClose.bind(this)} />
             </div>);
     }
 };

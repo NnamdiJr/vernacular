@@ -25219,15 +25219,24 @@
 	    }, {
 	        key: 'onMouseEnter',
 	        value: function onMouseEnter() {
-	            if (this._hasEntry()) {
-	                this.props.onActivate(this.props.token.synonym);
-	            }
+	            if (this._hasEntry()) this.props.onActivate(this.props.token.synonym);
+
 	            this.setState({ active: true });
 	        }
 	    }, {
 	        key: 'onMouseLeave',
 	        value: function onMouseLeave() {
+	            if (this._hasEntry()) this.props.onDeactivate(this.props.token.synonym);
+
 	            this.setState({ active: false });
+	        }
+	    }, {
+	        key: 'onSelect',
+	        value: function onSelect(e) {
+	            if (this._hasEntry()) {
+	                this.props.onSelect(this.props.token.synonym);
+	                e.stopPropogation();
+	            }
 	        }
 	    }, {
 	        key: 'render',
@@ -25246,6 +25255,7 @@
 	                'span',
 	                { className: 'token',
 	                    style: style,
+	                    onClick: this.onSelect.bind(this),
 	                    onMouseEnter: this.onMouseEnter.bind(this),
 	                    onMouseLeave: this.onMouseLeave.bind(this) },
 	                token.tokens.map(function (x) {
@@ -25259,7 +25269,7 @@
 	}(_react2.default.Component);
 
 	/**
-	 * 
+	 * Set of output tokens.
 	 */
 
 
@@ -25272,7 +25282,8 @@
 	        var _this2 = _possibleConstructorReturn(this, Object.getPrototypeOf(Output).call(this, props));
 
 	        _this2.state = {
-	            outputCache: _this2.getOuputData(_this2.props.tokens)
+	            outputCache: _this2.getOuputData(_this2.props.tokens),
+	            selected: null
 	        };
 	        return _this2;
 	    }
@@ -25281,7 +25292,8 @@
 	        key: 'componentWillReceiveProps',
 	        value: function componentWillReceiveProps(newProps) {
 	            this.setState({
-	                outputCache: this.getOuputData(newProps.tokens || [])
+	                outputCache: this.getOuputData(newProps.tokens || []),
+	                selected: null
 	            });
 	        }
 	    }, {
@@ -25289,27 +25301,61 @@
 	        value: function getOuputData(tokens) {
 	            var _this3 = this;
 
-	            var outputLength = 0;
-	            var nodes = tokens.map(function (token) {
-	                var word = token.synonym || token.token;
-	                outputLength += word.length;
-	                return _react2.default.createElement(Token, { key: token.id, token: token, onActivate: _this3.onActivate.bind(_this3) });
+	            return tokens.map(function (token) {
+	                return _react2.default.createElement(Token, { key: token.id, token: token,
+	                    onActivate: _this3.onActivate.bind(_this3),
+	                    onDeactivate: _this3.onDeactivate.bind(_this3),
+	                    onSelect: _this3.onSelect.bind(_this3) });
 	            });
-	            return { nodes: nodes, length: outputLength };
 	        }
 	    }, {
 	        key: 'onActivate',
 	        value: function onActivate(word) {
+	            this.setWord(word);
+	        }
+	    }, {
+	        key: 'onSelect',
+	        value: function onSelect(word) {
 	            var _this4 = this;
 
-	            _urban2.default.instance.lookup(word).then(function (def) {
-	                if (def) {
-	                    _this4.setState({
-	                        word: word,
-	                        definition: def
-	                    });
-	                }
+	            this.setWord(word, function (word, def) {
+	                _this4.setState({ selected: word });
 	            });
+	        }
+	    }, {
+	        key: 'onDeactivate',
+	        value: function onDeactivate(word) {
+	            if (!this.state.selected) {
+	                this.setState({ selected: null, word: null, definition: null });
+	            } else {
+	                this.onActivate(this.state.selected);
+	            }
+	        }
+	    }, {
+	        key: 'setWord',
+	        value: function setWord(word, selected) {
+	            var _this5 = this;
+
+	            _urban2.default.instance.lookup(word).then(function (def) {
+	                var update = {};
+	                if (def) {
+	                    update.word = word;
+	                    update.definition = def;
+
+	                    if (selected) update.selected = word;
+	                }
+	                _this5.setState(update);
+	            });
+	        }
+	    }, {
+	        key: 'onDefinitionClose',
+	        value: function onDefinitionClose() {
+	            this.setState({ selected: null, word: null, definition: null });
+	        }
+	    }, {
+	        key: 'onClickContent',
+	        value: function onClickContent() {
+	            this.setState({ selected: null, word: null, definition: null });
 	        }
 	    }, {
 	        key: 'render',
@@ -25327,7 +25373,7 @@
 	                outputElement = _react2.default.createElement(
 	                    'pre',
 	                    { className: 'tokens' },
-	                    output.nodes
+	                    output
 	                );
 	            }
 
@@ -25345,10 +25391,10 @@
 	                ),
 	                _react2.default.createElement(
 	                    'div',
-	                    { className: 'output-content' },
+	                    { className: 'output-content', onClick: this.onClickContent.bind(this) },
 	                    outputElement
 	                ),
-	                _react2.default.createElement(_definition_pane2.default, { word: this.state.word, definition: this.state.definition })
+	                _react2.default.createElement(_definition_pane2.default, { word: this.state.word, definition: this.state.definition, onClose: this.onDefinitionClose.bind(this) })
 	            );
 	        }
 	    }]);
@@ -25406,6 +25452,11 @@
 	            return _react2.default.createElement(
 	                'div',
 	                { className: 'definition-panel', style: { visible: !!this.props.word } },
+	                _react2.default.createElement(
+	                    'button',
+	                    { className: 'close-button', onClick: this.props.onClose },
+	                    'X'
+	                ),
 	                _react2.default.createElement(
 	                    'div',
 	                    null,
