@@ -1,7 +1,6 @@
 "use strict";
-const mapCase = require('map-case');
-const words = require('./words');
 const natural = require('natural');
+const words = require('./words');
 
 const nounInflector = new natural.NounInflector();
 
