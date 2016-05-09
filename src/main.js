@@ -121,14 +121,16 @@ class Site extends React.Component {
                 <div className="content container-fluid">
                     <Description />
 
-                    <div id="pre-text-choices" >
+                    <div id="pre-text-choices">
                         <select onChange={this.onSelect.bind(this) }>{choices}</select><br/>
-                        <button onClick={this.onRandom.bind(this) }>Shuffle</button>
+                        <button className="shuffle-button" onClick={this.onRandom.bind(this) }>Shuffle</button>
                     </div>
 
                     <div id="ouput-container" className="container-fluid">{examples}</div>
                     
-                    <button onClick={this.onRandom.bind(this) }>Shuffle</button>
+                    <div className="centered">
+                        <button className="shuffle-button" onClick={this.onRandom.bind(this) }>Shuffle</button>
+                    </div>
                 </div>
             </div>);
     }

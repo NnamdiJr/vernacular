@@ -229,7 +229,7 @@
 	                        _react2.default.createElement('br', null),
 	                        _react2.default.createElement(
 	                            'button',
-	                            { onClick: this.onRandom.bind(this) },
+	                            { className: 'shuffle-button', onClick: this.onRandom.bind(this) },
 	                            'Shuffle'
 	                        )
 	                    ),
@@ -239,9 +239,13 @@
 	                        examples
 	                    ),
 	                    _react2.default.createElement(
-	                        'button',
-	                        { onClick: this.onRandom.bind(this) },
-	                        'Shuffle'
+	                        'div',
+	                        { className: 'centered' },
+	                        _react2.default.createElement(
+	                            'button',
+	                            { className: 'shuffle-button', onClick: this.onRandom.bind(this) },
+	                            'Shuffle'
+	                        )
 	                    )
 	                )
 	            );
