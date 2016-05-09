@@ -108,20 +108,19 @@ export default class Output extends React.Component {
         if (!this.state.selected) {
             this.setState({ selected: null, word: null, definition: null });
         } else {
-            this.onActivate(this.state.selected);
+            this.onActivate(this.state.selected.word);
         }
     }
     
     setWord(word, selected) {
         Urban.instance.lookup(word).then(def => {
             const update = {};
-            if (def) {
-                update.word = word;
-                update.definition = def;
-                
-                if (selected)
-                    update.selected = word;
-            }
+            update.word = def ? word : this.state.selected.word;
+            update.definition = def ? def : this.state.selected.def;
+            
+            if (selected)
+                update.selected = { word: word, def: def };
+
             this.setState(update);
         });
     }

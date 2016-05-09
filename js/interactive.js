@@ -25328,7 +25328,7 @@
 	            if (!this.state.selected) {
 	                this.setState({ selected: null, word: null, definition: null });
 	            } else {
-	                this.onActivate(this.state.selected);
+	                this.onActivate(this.state.selected.word);
 	            }
 	        }
 	    }, {
@@ -25338,12 +25338,11 @@
 
 	            _urban2.default.instance.lookup(word).then(function (def) {
 	                var update = {};
-	                if (def) {
-	                    update.word = word;
-	                    update.definition = def;
+	                update.word = def ? word : _this5.state.selected.word;
+	                update.definition = def ? def : _this5.state.selected.def;
 
-	                    if (selected) update.selected = word;
-	                }
+	                if (selected) update.selected = { word: word, def: def };
+
 	                _this5.setState(update);
 	            });
 	        }
