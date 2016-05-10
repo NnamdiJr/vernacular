@@ -4,210 +4,217 @@
         "word": "a\r\nmember of the family",
         "post": ".",
         "synonym": "a member of the family",
-        "i": 32331
+        "i": 32191
     },
     {
         "pre": "Idleness, to them, is peculiarly ",
         "word": "the root of all evil",
         "post": ", for,\r\nif their time is not spent in vicious amusements, it is often passed in\r\nslander, discontent, or vanity.",
         "synonym": "The Root Of All Evil",
-        "i": 111423
-    },
-    {
-        "pre": "They\r\nbow or courtesy with a decent grace; shake hands with the precise degree\r\nof vigor which the circumstances of the case require; speak just ",
-        "word": "at the\r\nright time",
-        "post": ", and in the required manner, and smile with elegant\r\npropriety.",
-        "synonym": "At the right time",
-        "i": 66329
-    },
-    {
-        "pre": "If you are not sick, be very careful not to keep the\r\nchambermaid from those who are suffering; should you require her\r\nservices, dismiss her ",
-        "word": "as soon as possible",
-        "post": ".",
-        "synonym": "as soon as possible",
-        "i": 15595
-    },
-    {
-        "pre": "Wait for your turn, then perform the\r\nneedful arrangements of your toilette quickly, and re-join your escort\r\n",
-        "word": "as soon as possible",
-        "post": ".",
-        "synonym": "as soon as possible",
-        "i": 23565
-    },
-    {
-        "pre": "If you have no escort, you may with perfect propriety send for the\r\n",
-        "word": "master of the house",
-        "post": ", to wait upon you from the dressing-room to the\r\nparlor, and as soon as you have spoken to the hostess, thank your host\r\nand",
-        "synonym": "Master of the House",
-        "i": 23807
-    },
-    {
-        "pre": "Inquire, ",
-        "word": "as soon as possible",
-        "post": " after your arrival, what are the regular\r\nhabits of the family; the hours for rising, for meals, and for retiring,\r\nand then be punctual in",
-        "synonym": "as soon as possible",
-        "i": 29841
-    },
-    {
-        "pre": "Its business office is located at\r\n809 North 1500 West, ",
-        "word": "Salt Lake City, UT",
-        "post": " 84116, (801) 596-1887, email\r\nbusiness@pglaf.",
-        "synonym": "Salt Lake City, UT",
-        "i": 167939
-    },
-    {
-        "pre": "As each visitor arrives, rise, and advance ",
-        "word": "part of the way",
-        "post": " to meet her.",
-        "synonym": "part of the way",
-        "i": 33767
-    },
-    {
-        "pre": "One should take\r\nthe guests at the right of the hostess, and the left of the host; the\r\nother the guests ",
-        "word": "on the other side",
-        "post": ".",
-        "synonym": "on the other side",
-        "i": 39937
-    },
-    {
-        "pre": "",
-        "word": "What are you doing",
-        "post": ".",
-        "synonym": "What are you doing?",
-        "i": 49211
-    },
-    {
-        "pre": "not stop abruptly, when you perceive that\r\nit causes pain, and, above all, do not make the matter worse by\r\napologizing; turn to another subject ",
-        "word": "as soon as possible",
-        "post": ", and pay no\r\nattention to the agitation your unfortunate remark may have excited.",
-        "synonym": "as soon as possible",
-        "i": 3061
+        "i": 111029
     },
     {
         "pre": "As in every other case where hospitality is extended to you by\r\ninvitation, you must send your answer ",
         "word": "as soon as possible",
         "post": ", accepting or\r\ndeclining the civility.",
         "synonym": "as soon as possible",
-        "i": 74647
+        "i": 74343
+    },
+    {
+        "pre": "If you are not sick, be very careful not to keep the\r\nchambermaid from those who are suffering; should you require her\r\nservices, dismiss her ",
+        "word": "as soon as possible",
+        "post": ".",
+        "synonym": "as soon as possible",
+        "i": 15559
+    },
+    {
+        "pre": "Wait for your turn, then perform the\r\nneedful arrangements of your toilette quickly, and re-join your escort\r\n",
+        "word": "as soon as possible",
+        "post": ".",
+        "synonym": "as soon as possible",
+        "i": 23469
+    },
+    {
+        "pre": "If you have no escort, you may with perfect propriety send for the\r\n",
+        "word": "master of the house",
+        "post": ", to wait upon you from the dressing-room to the\r\nparlor, and as soon as you have spoken to the hostess, thank your host\r\nand",
+        "synonym": "Master of the House",
+        "i": 23711
+    },
+    {
+        "pre": "Inquire, ",
+        "word": "as soon as possible",
+        "post": " after your arrival, what are the regular\r\nhabits of the family; the hours for rising, for meals, and for retiring,\r\nand then be punctual in",
+        "synonym": "as soon as possible",
+        "i": 29709
+    },
+    {
+        "pre": "If you pass the morning ",
+        "word": "out of the house",
+        "post": ", remember your time is hers,\r\nand have no engagement to interfere with the plans she has laid for\r\nentertaining you.",
+        "synonym": "out of the house",
+        "i": 30433
+    },
+    {
+        "pre": "Its business office is located at\r\n809 North 1500 West, ",
+        "word": "Salt Lake City, UT",
+        "post": " 84116, (801) 596-1887, email\r\nbusiness@pglaf.",
+        "synonym": "Salt Lake City, UT",
+        "i": 167291
+    },
+    {
+        "pre": "As each visitor arrives, rise, and advance ",
+        "word": "part of the way",
+        "post": " to meet her.",
+        "synonym": "part of the way",
+        "i": 33627
+    },
+    {
+        "pre": "One should take\r\nthe guests at the right of the hostess, and the left of the host; the\r\nother the guests ",
+        "word": "on the other side",
+        "post": ".",
+        "synonym": "on the other side",
+        "i": 39777
+    },
+    {
+        "pre": "",
+        "word": "What are you doing",
+        "post": ".",
+        "synonym": "What are you doing?",
+        "i": 48999
+    },
+    {
+        "pre": "They\r\nbow or courtesy with a decent grace; shake hands with the precise degree\r\nof vigor which the circumstances of the case require; speak just ",
+        "word": "at the\r\nright time",
+        "post": ", and in the required manner, and smile with elegant\r\npropriety.",
+        "synonym": "At the right time",
+        "i": 66053
+    },
+    {
+        "pre": "not stop abruptly, when you perceive that\r\nit causes pain, and, above all, do not make the matter worse by\r\napologizing; turn to another subject ",
+        "word": "as soon as possible",
+        "post": ", and pay no\r\nattention to the agitation your unfortunate remark may have excited.",
+        "synonym": "as soon as possible",
+        "i": 3059
     },
     {
         "pre": "If you play an insignificant part,\r\nplay it well, with all the grace you can, ",
         "word": "make the most of",
         "post": " it, but do\r\nnot try to raise it to the first place.",
         "synonym": "make the most of",
-        "i": 96823
+        "i": 96439
     },
     {
         "pre": "fourth row, at the back, we knit two together, and make one in order to\r\nform a series of holes, or pattern parallel to that ",
         "word": "on the other side",
         "post": "\r\ncaused by enlarging in every fourth row.",
         "synonym": "on the other side",
-        "i": 105025
+        "i": 104625
     },
     {
         "pre": "It is best, in this\r\ncase, to ",
         "word": "take off the dress",
         "post": " only, merely loosening the stays and skirts,\r\nand, unless you are sick, you may sit up to read until quite a late\r\nhour.",
         "synonym": "take off the dress",
-        "i": 15197
+        "i": 15163
     },
     {
         "pre": "The father of the bride gives her his arm\r\nand escorts her to the altar, the bridegroom walking ",
         "word": "on the other side",
         "post": ".",
         "synonym": "on the other side",
-        "i": 121957
+        "i": 121527
     },
     {
         "pre": "No family should be without it, but care\r\nmust be taken to keep it ",
         "word": "out of the way",
         "post": " of young children, as, if\r\nswallowed, it is poisonous.",
         "synonym": "out-of-the-way",
-        "i": 144551
+        "i": 144037
+    },
+    {
+        "pre": "to get underneath the jar, and to prevent its breaking) keep the\r\nwater boiling round the jar till all the ingredients are dissolved; take\r\nit ",
+        "word": "out of the water",
+        "post": ", and pour it into a large pan previously warmed and\r\ncapable of holding 21 pints; then, with a wooden spatula, stir in the\r\nrose-water",
+        "synonym": "Out of the water",
+        "i": 146311
     },
     {
         "pre": "bear's grease, half an\r\nounce of honey, one drachm of laudanum, three drachms of the powder of\r\nsouthernwood, three drachms of the balsam of Peru, ",
         "word": "one and a half",
         "post": "\r\ndrachms of the ashes of the roots of bulrushes, and a small quantity of\r\nthe oil of sweet almonds.",
         "synonym": "One and a half",
-        "i": 149787
+        "i": 149251
+    },
+    {
+        "pre": "White wax, ",
+        "word": "two and a half",
+        "post": " ounces; spermaceti, three\r\nquarters of an ounce; oil of almonds, four ounces.",
+        "synonym": "Two and a half",
+        "i": 151277
     },
     {
         "pre": "Dip a piece of soft linen rag in\r\nturpentine, and wrap it round the toe on which the soft corn is, night\r\nand morning; ",
         "word": "in a few days",
         "post": " the corn will disappear; but the relief is\r\ninstantaneous.",
         "synonym": "In a few days",
-        "i": 152185
+        "i": 151637
     },
     {
         "pre": "Both Spanish and French women--those, at least,\r\nwho are very particular to ",
         "word": "make the most of",
         "post": " these charms--are in the\r\nhabit of sleeping in gloves which are lined or plastered over with a\r\nkind of pomade to improve the delicacy",
         "synonym": "make the most of",
-        "i": 160965
+        "i": 160381
     },
     {
         "pre": "It exists\r\nbecause of the efforts of hundreds of volunteers and donations from\r\npeople in ",
         "word": "all walks of life",
         "post": ".",
         "synonym": "All Walks of Life",
-        "i": 167513
+        "i": 166871
     },
     {
-        "pre": "When asked to play, choose, ",
-        "word": "if you\r\nwill",
-        "post": ", a brilliant, showy piece, but let it be short.",
-        "synonym": "If you will",
-        "i": 85521
+        "pre": "There are hundreds of competent instructors in this country, French\r\n",
+        "word": "ladies and gentlemen",
+        "post": " amongst the number, who form classes for\r\nconversation and familiarizing their pupils with these very idioms.",
+        "synonym": "Ladies and Gentlemen",
+        "i": 88253
     },
     {
-        "pre": "White skirts\r\nare entirely ",
-        "word": "out of place",
-        "post": ", as, if the dress is held up, they will be in\r\na few moments disgracefully dirty.",
-        "synonym": "Out of place",
-        "i": 12205
-    },
-    {
-        "pre": "A conspicuous traveling dress is\r\nin very bad taste, and jewelry or ornaments of any kind are entirely ",
-        "word": "out\r\nof place",
-        "post": ".",
-        "synonym": "Out of place",
-        "i": 12643
-    },
-    {
-        "pre": "An elastic string run through a tuck made ",
-        "word": "in the\r\nmiddle",
-        "post": " of the veil, will allow one half to fall over the face, while the\r\nother half falls back, covering the bonnet, and protecting it from",
-        "synonym": "in the middle",
-        "i": 12711
+        "pre": "Some wear very close black for a long period, for a\r\ndistant relative; whilst others will wear dressy mourning for a short\r\ntime in ",
+        "word": "a case of",
+        "post": " death in the immediate family.",
+        "synonym": "A case of",
+        "i": 13293
     },
     {
         "pre": "Here a straw bonnet, trimmed\r\nwith black ribbon or crape flowers, or a silk bonnet with black flowers\r\non the outside, and white ones ",
         "word": "in the face",
         "post": ", a black silk dress, and gray\r\nshawl or cloak, may be worn.",
         "synonym": "in the face",
-        "i": 13789
+        "i": 13767
     },
     {
         "pre": "In your traveling satchel carry an oil skin bag,\r\ncontaining your sponge, ",
         "word": "tooth and nail",
         "post": " brushes, and some soap; have also\r\na calico bag, with hair brush and comb, some pins, hair pins, a small\r\nmirror, and some towels.",
         "synonym": "tooth and nail",
-        "i": 14293
+        "i": 14265
     },
     {
         "pre": "In this satchel carry also some crackers, or\r\nsandwiches, ",
         "word": "if you will",
         "post": " be long enough upon the road to need a luncheon.",
         "synonym": "If you will",
-        "i": 14359
+        "i": 14331
     },
     {
         "pre": "In your carpet bag, carry a large shawl, and ",
         "word": "if you will",
         "post": " travel by\r\nnight, or stop where it will be inconvenient to open your trunks, carry\r\nyour night clothes, and what clean linen you may require",
         "synonym": "If you will",
-        "i": 14397
+        "i": 14369
     },
     {
         "pre": "You may copy it, ",
@@ -221,959 +228,1057 @@
         "word": "ladies and gentlemen",
         "post": ", and the cabin is for\r\nladies _alone_.",
         "synonym": "Ladies and Gentlemen",
-        "i": 15277
+        "i": 15241
     },
     {
         "pre": "I was about to tell you; last Monday, ",
         "word": "on the train",
         "post": ".",
         "synonym": "On the train",
-        "i": 3377
+        "i": 3375
     },
     {
         "pre": "When ",
         "word": "in the car",
         "post": " if you find the exertion of talking painful, say so\r\nfrankly; your escort cannot be offended.",
         "synonym": "in the car",
-        "i": 15767
+        "i": 15731
     },
     {
-        "pre": "If you are traveling without any escort, speak to the conductor before\r\nyou start, requesting him to attend to you whilst ",
+        "pre": "If you are traveling without any escort, speak to the conductor ",
+        "word": "before\r\nyou start",
+        "post": ", requesting him to attend to you whilst in the car or boat\r\nunder his control.",
+        "synonym": "Before you start...",
+        "i": 15877
+    },
+    {
+        "pre": "If are you traveling without any escort, to speak conductor the before\r\nyou start, requesting him to attend to you whilst ",
         "word": "in the car",
         "post": " or boat\r\nunder his control.",
         "synonym": "in the car",
-        "i": 15935
+        "i": 15891
     },
     {
         "pre": "This\r\nsaves the embarrassment of crossing the room entirely unattended, while\r\nit shows others that ",
         "word": "you are a",
         "post": " resident at the house.",
         "synonym": "You are a...",
-        "i": 17045
+        "i": 16991
     },
     {
         "pre": "Give this order in a low\r\ntone, and do not harass the man by contradicting yourself several\r\ntimes; decide what you want before you ",
         "word": "ask for it",
         "post": ", and then give your\r\norder quietly but distinctly.",
         "synonym": "ask for it",
-        "i": 17113
+        "i": 17059
     },
     {
         "pre": "If you\r\nmeet a friend at table, and converse, ",
         "word": "let it be",
         "post": " in a tone of voice\r\nsufficiently loud for him to hear, but not loud enough to reach ears for\r\nwhich the remarks are not intended",
         "synonym": "Let it Be",
-        "i": 17303
+        "i": 17249
     },
     {
         "pre": "If the number invited is large, and you hire waiters, give\r\nthem notice several days beforehand, and engage them to come ",
         "word": "in the\r\nmorning",
         "post": ".",
         "synonym": "In the morning",
-        "i": 19071
+        "i": 19001
     },
     {
         "pre": "Give them full directions for the supper, appoint one to ",
         "word": "open\r\nthe door",
         "post": ", another to show the guests to the dressing rooms, and a third\r\nto wait in the gentlemen's dressing-room, to attend to them, if their",
         "synonym": "Open The Door",
-        "i": 19093
+        "i": 19023
     },
     {
         "pre": "",
         "word": "In the morning",
         "post": ", see that the fires in your rooms are in good order; and\r\nin the drawing-room, it is best to have it so arranged that",
         "synonym": "In the morning",
-        "i": 19307
+        "i": 19237
     },
     {
         "pre": "order, and if you propose to have music instead of dancing,\r\nor to use your piano for dancing music, have it put in good tune ",
         "word": "in the\r\nmorning",
         "post": ".",
         "synonym": "In the morning",
-        "i": 19453
+        "i": 19383
     },
     {
         "pre": "It is well, also, to have Eau de\r\nCologne, hartshorn, and salts, ",
         "word": "in case of",
         "post": " sudden faintness.",
         "synonym": "in case of",
-        "i": 20235
+        "i": 20159
+    },
+    {
+        "pre": "For the early part of the evening, take a position in your parlor, near\r\nor opposite ",
+        "word": "to the door",
+        "post": ", that each guest may find you easily.",
+        "synonym": "to the door",
+        "i": 20403
     },
     {
         "pre": "To see a hostess fidgeting,\r\nconstantly going ",
         "word": "in and out",
         "post": ", argues ill for her tact in arranging the\r\nhouse for company.",
         "synonym": "In and Out",
-        "i": 20799
+        "i": 20715
     },
     {
         "pre": "waiter in the hall to open the front door, and another at the\r\nhead of the first flight of stairs, to point out to the ",
         "word": "ladies and\r\ngentlemen",
         "post": " their respective dressing-rooms.",
         "synonym": "Ladies and Gentlemen",
-        "i": 20953
+        "i": 20869
     },
     {
         "pre": "Introduce gentlemen to ",
         "word": "ladies, and gentlemen",
         "post": " to gentlemen,\r\nladies to ladies.",
         "synonym": "Ladies and Gentlemen",
-        "i": 21195
+        "i": 21109
     },
     {
         "pre": "It is less troublesome, as well as less expensive, than ",
         "word": "a hot supper",
         "post": ",\r\nand the custom will be a good one to adopt permanently.",
         "synonym": "A Hot Supper",
-        "i": 22335
+        "i": 22243
+    },
+    {
+        "pre": "The gentleman who accompanies you will go ",
+        "word": "to the door",
+        "post": " of the\r\nlady's room, leave you, to remove his own hat and over-coat, and then\r\nreturn to the door to wait for you.",
+        "synonym": "to the door",
+        "i": 23353
+    },
+    {
+        "pre": "who accompanies you will go to the door of the\r\nlady's room, leave you, to remove his own hat and over-coat, and then\r\nreturn ",
+        "word": "to the door",
+        "post": " to wait for you.",
+        "synonym": "to the door",
+        "i": 23387
     },
     {
         "pre": "I will tell you ",
         "word": "all about it",
         "post": ", if you will only let me speak.",
         "synonym": "all about it",
-        "i": 3409
+        "i": 3407
     },
     {
         "pre": "I will tell you all about it, ",
         "word": "if you will",
         "post": " only let me speak.",
         "synonym": "If you will",
-        "i": 3411
+        "i": 3409
     },
     {
         "pre": "If ",
         "word": "you are a",
         "post": " musician, and certain that you will confer pleasure by a\r\ndisplay of your talents, do not make a show of reluctance when invited\r\nto play",
         "synonym": "You are a...",
-        "i": 24225
+        "i": 24125
     },
     {
         "pre": "When you ",
         "word": "go up to",
         "post": " supper, do not accept anything from any gentleman but\r\nthe one who has escorted you from the parlor.",
         "synonym": "go up to",
-        "i": 24871
+        "i": 24767
     },
     {
         "pre": "If it is in winter, ",
         "word": "have a\r\ngood",
         "post": " fire, hot water on the washstand, and see that the windows are\r\ntightly closed, and the room cheerful with sunshine, or plenty of candle\r\nor",
         "synonym": "Have a good",
-        "i": 26377
+        "i": 26257
     },
     {
         "pre": "If in summer, ",
         "word": "draw the curtains",
         "post": ", bow the shutters, open\r\nthe windows, and have a fan upon the table.",
         "synonym": "Draw The Curtains",
-        "i": 26435
+        "i": 26315
     },
     {
         "pre": "If her journey has been ",
         "word": "a long one",
         "post": ", and it is\r\nnot the usual hour for your next meal, have a substantial repast ready\r\nfor her about half an hour after her arrival",
         "synonym": "a long one",
-        "i": 26711
+        "i": 26587
     },
     {
         "pre": "it is\r\nnot the usual hour for your next meal, have a substantial repast ready\r\nfor her about half an hour after her arrival, with ",
         "word": "tea or coffee",
         "post": ".",
         "synonym": "Tea or coffee",
-        "i": 26761
+        "i": 26637
     },
     {
         "pre": "Be careful that she has a hot breakfast ready when she does\r\nrise, and ",
         "word": "take a seat",
         "post": " at the table to wait upon her.",
         "synonym": "Take a seat",
-        "i": 26973
+        "i": 26849
     },
     {
         "pre": "After the chambermaid has arranged the guest-chamber ",
         "word": "in the morning",
         "post": ", go\r\nin yourself and see that all is in order, and comfortable, and that\r\nthere is plenty of fresh water and towels, the bed properly",
         "synonym": "In the morning",
-        "i": 27003
+        "i": 26879
     },
     {
         "pre": "If your household duties will occupy your time for some hours ",
         "word": "in the\r\nmorning",
         "post": ", introduce your guest to the piano, book-case, or picture-folio,\r\nand place all at her service.",
         "synonym": "In the morning",
-        "i": 27277
+        "i": 27151
     },
     {
         "pre": "actually gone\r\nto C---- from their own home, and, with bag and baggage, quartered\r\nthemselves upon the hospitality of their newly made friend, for weeks ",
         "word": "at\r\na time",
         "post": ".",
         "synonym": "at a time",
-        "i": 28451
+        "i": 28325
     },
     {
         "pre": "",
         "word": "In case of",
         "post": " relationship, or long intimate friendship, an unexpected\r\nvisit may be pardoned and give pleasure, but it is better to avoid it,\r\nas the pleasure will",
         "synonym": "in case of",
-        "i": 29379
+        "i": 29249
     },
     {
         "pre": "To linger ",
         "word": "by the way",
         "post": ", for mere pleasure, and make her come\r\nseveral times to meet you, is unkind, as well as ill-bred.",
         "synonym": "by the way",
-        "i": 29633
+        "i": 29503
     },
     {
         "pre": "the subject under discussion, or, where it is a\r\nmere matter of taste or feeling, do not expect that all the world will\r\nfeel exactly ",
         "word": "as you do",
         "post": ".",
         "synonym": "as you do",
-        "i": 5965
+        "i": 5963
     },
     {
         "pre": "Before you leave your room ",
         "word": "in the morning",
         "post": ", take\r\nthe clothes off your bed, throw the upper bed over the foot-board, and\r\nthen open all the windows (unless it storms), that room",
         "synonym": "In the morning",
-        "i": 30019
+        "i": 29887
     },
     {
         "pre": "from what they observe in older\r\nones, that there is some particular manner to be put on, in talking to\r\ngentlemen, and, not knowing exactly ",
         "word": "what it is",
         "post": ", they are embarrassed and\r\nreserved; others observe certain airs and looks, used by their elders in\r\nthis intercourse, and try to imitate them, as a",
         "synonym": "what it is",
-        "i": 6939
-    },
-    {
-        "pre": "Avoid also speaking of any house where you may have been\r\na guest ",
-        "word": "in terms of",
-        "post": " overpraise, giving glowing pictures of its splendor.",
-        "synonym": "in terms of",
-        "i": 32847
-    },
-    {
-        "pre": "Neither\r\ncan you be excused, except ",
-        "word": "in case of",
-        "post": " sickness.",
-        "synonym": "in case of",
-        "i": 33471
+        "i": 6935
     },
     {
         "pre": "She will be more respected with\r\na simple wardrobe, if ",
         "word": "it is known",
         "post": " either that she is dependent upon her\r\nown exertions for support, or is saving a husband or father from\r\nunnecessary outlay, than if she wore",
         "synonym": "It is known.",
-        "i": 7673
+        "i": 7665
     },
     {
-        "pre": "A well-bred lady, who is receiving several visitors ",
-        "word": "at a time",
-        "post": ", pays\r\nequal attention to all, and attempts, as much as possible, to generalize\r\nthe conversation, turning to all in succession.",
-        "synonym": "at a time",
-        "i": 34311
+        "pre": "Avoid also speaking of any house where you may have been\r\na guest ",
+        "word": "in terms of",
+        "post": " overpraise, giving glowing pictures of its splendor.",
+        "synonym": "in terms of",
+        "i": 32707
     },
     {
-        "pre": "If you have but one caller ",
-        "word": "at a time",
-        "post": ", rise when she does, and accompany\r\nher to the vestibule; but, if there are several in the room, rise when\r\neach one does, but only",
-        "synonym": "at a time",
-        "i": 34957
-    },
-    {
-        "pre": "When a gentleman calls ",
-        "word": "in the morning",
-        "post": " he will not remove his outside\r\ncoat, and will hold his hat in his hand.",
-        "synonym": "In the morning",
-        "i": 35271
-    },
-    {
-        "pre": "If your friend is\r\nout or engaged, leave the card, and if she is in, ",
-        "word": "send it up",
-        "post": ".",
-        "synonym": "send it up",
-        "i": 35681
-    },
-    {
-        "pre": "Many denounce the system of\r\nmorning calls as silly, frivolous, and a ",
-        "word": "waste of time",
-        "post": ".",
-        "synonym": "Waste of Time",
-        "i": 36471
-    },
-    {
-        "pre": "Never sit gazing curiously ",
-        "word": "around the room",
-        "post": " when paying a call, as if\r\ntaking a mental inventory of the furniture.",
-        "synonym": "Around the room",
-        "i": 36917
-    },
-    {
-        "pre": "Your friend may not\r\nappear to notice the screams of a child, a noise ",
-        "word": "in the kitchen",
-        "post": ", or the\r\ncry from the nursery that the fire board has caught fire, but you may be\r\nsure she does hear it, and though too",
-        "synonym": "In the Kitchen",
-        "i": 37069
-    },
-    {
-        "pre": "To have a troublesome child\r\nconstantly touching the parlor ornaments, balancing itself ",
-        "word": "on the back",
-        "post": "\r\nof a chair, leaning from a window, or performing any of the thousand\r\ntricks in which children excel, is an annoyance, both to yourself and",
-        "synonym": "On the back",
-        "i": 37205
-    },
-    {
-        "pre": "She will bid you good-morning, and go to her own room; ",
-        "word": "ring the bell",
-        "post": "\r\nafter she leaves you, and send your card by the waiter to your other\r\nfriend.",
-        "synonym": "ring the bell",
-        "i": 38109
-    },
-    {
-        "pre": "card, instead of calling, courtesy requires you to make\r\nthe first call, immediately; the same day that you receive the letter,\r\nif possible, if not, ",
-        "word": "the day after",
-        "post": ".",
-        "synonym": "The day after...",
-        "i": 38385
-    },
-    {
-        "pre": "after dark, have the shutters closed and the lights lit,\r\nbefore the dinner is announced, as nothing can be more awkward than to\r\ndo this ",
-        "word": "in the middle",
-        "post": " of the meal.",
-        "synonym": "in the middle",
-        "i": 39357
-    },
-    {
-        "pre": "The best table is the\r\noval, and the host and hostess should sit ",
-        "word": "in the middle",
-        "post": " of each side,\r\nfacing each other.",
-        "synonym": "in the middle",
-        "i": 39575
-    },
-    {
-        "pre": "The dining room, even ",
-        "word": "in the heat",
-        "post": " of summer, should be carpeted, to\r\ndeaden the noise of the servants' feet.",
-        "synonym": "in the heat",
-        "i": 39595
+        "pre": "Neither\r\ncan you be excused, except ",
+        "word": "in case of",
+        "post": " sickness.",
+        "synonym": "in case of",
+        "i": 33331
     },
     {
         "pre": "Nice dresses should be hung up by a loop ",
         "word": "on the inside",
         "post": " of\r\nthe waistband, with the skirts turned inside out, and the body turned\r\ninside of the skirt.",
         "synonym": "on the inside",
-        "i": 8151
+        "i": 8141
     },
     {
-        "pre": "Let nothing high be placed ",
-        "word": "on the table",
-        "post": ",\r\nthat will effectually separate the guests from each other.",
-        "synonym": "on the table",
-        "i": 40059
+        "pre": "A well-bred lady, who is receiving several visitors ",
+        "word": "at a time",
+        "post": ", pays\r\nequal attention to all, and attempts, as much as possible, to generalize\r\nthe conversation, turning to all in succession.",
+        "synonym": "at a time",
+        "i": 34167
     },
     {
-        "pre": "a handsome centre piece, and this may be of glass, silver, or\r\nchina, and not too high or large, and must be elegant as a ",
-        "word": "work of art",
-        "post": ",\r\nor it is better omitted altogether.",
-        "synonym": "work of art",
-        "i": 40133
+        "pre": "If you have but one caller ",
+        "word": "at a time",
+        "post": ", rise when she does, and accompany\r\nher to the vestibule; but, if there are several in the room, rise when\r\neach one does, but only",
+        "synonym": "at a time",
+        "i": 34813
     },
     {
-        "pre": "Glasses of celery, dishes of clear,\r\ntransparent jellies or preserves, exquisite little glass plates of\r\npickles should stand in order ",
-        "word": "on the table",
+        "pre": "When a gentleman calls ",
+        "word": "in the morning",
+        "post": " he will not remove his outside\r\ncoat, and will hold his hat in his hand.",
+        "synonym": "In the morning",
+        "i": 35123
+    },
+    {
+        "pre": "If your friend is\r\nout or engaged, leave the card, and if she is in, ",
+        "word": "send it up",
         "post": ".",
-        "synonym": "on the table",
-        "i": 40337
+        "synonym": "send it up",
+        "i": 35533
     },
     {
-        "pre": "Your guests may arrive ",
-        "word": "all at once",
-        "post": ",\r\nyet you must make each one feel that he or she is the object of your\r\nindividual attention, and none must be hurt by neglect",
-        "synonym": "All-At-Once",
-        "i": 41657
+        "pre": "Never sit gazing curiously ",
+        "word": "around the room",
+        "post": " when paying a call, as if\r\ntaking a mental inventory of the furniture.",
+        "synonym": "Around the room",
+        "i": 36769
     },
     {
-        "pre": "If ",
-        "word": "you know that",
-        "post": " the whole kitchen is in arms at the\r\ndelay, you must conceal the anguish, as the Spartan boy did his pangs,\r\nto turn a cheerful",
-        "synonym": "you know that",
-        "i": 41793
+        "pre": "Your friend may not\r\nappear to notice the screams of a child, a noise ",
+        "word": "in the kitchen",
+        "post": ", or the\r\ncry from the nursery that the fire board has caught fire, but you may be\r\nsure she does hear it, and though too",
+        "synonym": "In the Kitchen",
+        "i": 36921
     },
     {
-        "pre": "",
-        "word": "Not a word",
-        "post": ", or even a glance, will a\r\nwell-bred hostess bestow upon the servants, nor will she speak to the\r\nguests of the dishes.",
-        "synonym": "NOT A WORD",
-        "i": 42133
+        "pre": "To have a troublesome child\r\nconstantly touching the parlor ornaments, balancing itself ",
+        "word": "on the back",
+        "post": "\r\nof a chair, leaning from a window, or performing any of the thousand\r\ntricks in which children excel, is an annoyance, both to yourself and",
+        "synonym": "On the back",
+        "i": 37057
     },
     {
-        "pre": "note,\r\nif circumstances render it necessary to write it, may be sent with\r\nperfect propriety an hour before the time appointed for dinner, though,\r\nif ",
-        "word": "you are aware",
-        "post": " that you cannot attend, earlier, you must send the\r\ninformation in good season.",
-        "synonym": "You Are Aware",
-        "i": 43215
+        "pre": "She will bid you good-morning, and go to her own room; ",
+        "word": "ring the bell",
+        "post": "\r\nafter she leaves you, and send your card by the waiter to your other\r\nfriend.",
+        "synonym": "ring the bell",
+        "i": 37953
     },
     {
-        "pre": "careful, if dinner is delayed by the tardiness of the guests, or from\r\nany other cause, that you do not show by your manner that ",
-        "word": "you are aware",
-        "post": "\r\nof such delay.",
-        "synonym": "You Are Aware",
-        "i": 43593
-    },
-    {
-        "pre": "Converse cheerfully,\r\nlaugh quietly, but freely, ",
-        "word": "if you will",
-        "post": ", and while you confine your\r\nattention entirely to your neighbor, still avoid any air of secrecy or\r\nmystery.",
-        "synonym": "If you will",
-        "i": 44673
-    },
-    {
-        "pre": "Break off small pieces\r\nand put into your mouth, ",
-        "word": "if you will",
-        "post": ", but neither bite it from the roll\r\nnor break it up, and eat it from your soup-plate with a spoon.",
-        "synonym": "If you will",
-        "i": 44801
-    },
-    {
-        "pre": "In eating bread with meat, never dip it into the gravy ",
-        "word": "on your plate",
-        "post": ",\r\nand then bite the end off.",
-        "synonym": "on your plate",
-        "i": 44857
-    },
-    {
-        "pre": "To put it ",
-        "word": "in your mouth",
-        "post": " is a distinctive mark of\r\nlow-breeding.",
-        "synonym": "in your mouth",
-        "i": 45013
-    },
-    {
-        "pre": "Keep your own\r\nknife, ",
-        "word": "fork, and spoon",
-        "post": " solely for the articles upon your own plate.",
-        "synonym": "fork and spoon",
-        "i": 45333
-    },
-    {
-        "pre": "to bear it, she will find her cheeks, soon after the indulgence,\r\nflushed, hot, and uncomfortable; and if the room is warm, and the dinner\r\n",
-        "word": "a long one",
-        "post": ", she will probably pay the penalty of her folly, by having a\r\nheadache all the evening.",
-        "synonym": "a long one",
-        "i": 45655
-    },
-    {
-        "pre": "After returning to the parlor, remain ",
-        "word": "in the house",
-        "post": " at least an hour\r\nafter dinner is over.",
-        "synonym": "in the house",
-        "i": 46683
-    },
-    {
-        "pre": "You will insult your hostess\r\nby leaving sooner, as it appears that you came only for the dinner, and\r\nthat being over, your interest ",
-        "word": "in the house",
-        "post": ", for the time, has ceased.",
-        "synonym": "in the house",
-        "i": 46777
-    },
-    {
-        "pre": "It is only beggars who \"",
-        "word": "eat and run",
+        "pre": "card, instead of calling, courtesy requires you to make\r\nthe first call, immediately; the same day that you receive the letter,\r\nif possible, if not, ",
+        "word": "the day after",
         "post": ".",
-        "synonym": "eat and run",
-        "i": 46797
+        "synonym": "The day after...",
+        "i": 38229
     },
     {
-        "pre": "At breakfast or tea, if your seat is at the head of the table, you must,\r\nbefore taking anything upon your own plate, ",
-        "word": "fill a cup",
-        "post": " for each one of\r\nthe family, and pass them round, being careful to suit each one in the\r\npreparation of the cup, that none may",
-        "synonym": "fill-a-cup",
-        "i": 47079
+        "pre": "after dark, have the shutters closed and the lights lit,\r\nbefore the dinner is announced, as nothing can be more awkward than to\r\ndo this ",
+        "word": "in the middle",
+        "post": " of the meal.",
+        "synonym": "in the middle",
+        "i": 39197
     },
     {
-        "pre": "If you have a visitor, pass the cup with the ",
-        "word": "tea or\r\ncoffee",
-        "post": " alone in it, and hand with the cup the sugar bowl and cream\r\npitcher, that these may be added in the quantity preferred.",
-        "synonym": "Tea or coffee",
-        "i": 47163
+        "pre": "The best table is the\r\noval, and the host and hostess should sit ",
+        "word": "in the middle",
+        "post": " of each side,\r\nfacing each other.",
+        "synonym": "in the middle",
+        "i": 39415
     },
     {
-        "pre": "To point out any especial part of a dish, and ",
-        "word": "ask for it",
-        "post": ", is ill-bred.",
-        "synonym": "ask for it",
-        "i": 47697
-    },
-    {
-        "pre": "Sit easily in your chair, neither too near the table, nor too far from\r\nit, and avoid such tricks as putting your arms ",
-        "word": "on the table",
-        "post": ", leaning\r\nback lazily in your chair, or playing with your knife, fork, or spoon.",
-        "synonym": "on the table",
-        "i": 48013
-    },
-    {
-        "pre": "Never ",
-        "word": "raise your voice",
-        "post": ", when speaking, any higher than is necessary.",
-        "synonym": "raise your voice",
-        "i": 48045
-    },
-    {
-        "pre": "Never pile up the food ",
-        "word": "on your plate",
-        "post": ".",
-        "synonym": "on your plate",
-        "i": 48171
-    },
-    {
-        "pre": "Let\r\nthe material be rich, ",
-        "word": "if you will",
-        "post": "; the set of each garment faultless;\r\nhave collar and sleeves snowy white, and wear neatly-fitting, whole,\r\nclean gloves and boots.",
-        "synonym": "If you will",
-        "i": 48755
-    },
-    {
-        "pre": "Wear a little of one\r\nbright color, ",
-        "word": "if you will",
-        "post": ", but not more than one.",
-        "synonym": "If you will",
-        "i": 48843
-    },
-    {
-        "pre": "Jewelry\r\nis only suited for full evening dress, when all the other details unite\r\nto ",
-        "word": "set it off",
-        "post": ".",
-        "synonym": "set it off",
-        "i": 49155
+        "pre": "The dining room, even ",
+        "word": "in the heat",
+        "post": " of summer, should be carpeted, to\r\ndeaden the noise of the servants' feet.",
+        "synonym": "in the heat",
+        "i": 39435
     },
     {
         "pre": "Cloaks should hang in smooth folds from a loop ",
         "word": "on\r\nthe inside",
         "post": " of the neck.",
         "synonym": "on the inside",
-        "i": 8201
+        "i": 8189
     },
     {
-        "pre": "but at the same time firmly; now,\r\ncarry your head up, not so; you hang it down as if you feared to look\r\nany one ",
-        "word": "in the face",
+        "pre": "Let nothing high be placed ",
+        "word": "on the table",
+        "post": ",\r\nthat will effectually separate the guests from each other.",
+        "synonym": "on the table",
+        "i": 39899
+    },
+    {
+        "pre": "a handsome centre piece, and this may be of glass, silver, or\r\nchina, and not too high or large, and must be elegant as a ",
+        "word": "work of art",
+        "post": ",\r\nor it is better omitted altogether.",
+        "synonym": "work of art",
+        "i": 39973
+    },
+    {
+        "pre": "Glasses of celery, dishes of clear,\r\ntransparent jellies or preserves, exquisite little glass plates of\r\npickles should stand in order ",
+        "word": "on the table",
         "post": ".",
-        "synonym": "in the face",
-        "i": 49553
+        "synonym": "on the table",
+        "i": 40175
+    },
+    {
+        "pre": "Your guests may arrive ",
+        "word": "all at once",
+        "post": ",\r\nyet you must make each one feel that he or she is the object of your\r\nindividual attention, and none must be hurt by neglect",
+        "synonym": "All-At-Once",
+        "i": 41477
+    },
+    {
+        "pre": "If ",
+        "word": "you know that",
+        "post": " the whole kitchen is in arms at the\r\ndelay, you must conceal the anguish, as the Spartan boy did his pangs,\r\nto turn a cheerful",
+        "synonym": "you know that",
+        "i": 41613
     },
     {
         "pre": "",
-        "word": "You don't know",
-        "post": " what to do with\r\nthem.",
-        "synonym": "you don't know",
-        "i": 49625
+        "word": "Not a word",
+        "post": ", or even a glance, will a\r\nwell-bred hostess bestow upon the servants, nor will she speak to the\r\nguests of the dishes.",
+        "synonym": "NOT A WORD",
+        "i": 41949
     },
     {
-        "pre": "You don't know ",
-        "word": "what to do",
-        "post": " with\r\nthem.",
-        "synonym": "what to do",
-        "i": 49627
+        "pre": "note,\r\nif circumstances render it necessary to write it, may be sent with\r\nperfect propriety an hour before the time appointed for dinner, though,\r\nif ",
+        "word": "you are aware",
+        "post": " that you cannot attend, earlier, you must send the\r\ninformation in good season.",
+        "synonym": "You Are Aware",
+        "i": 43029
     },
     {
-        "pre": "If you take hold of your dress on both sides, ",
-        "word": "in that way",
-        "post": ", and\r\ndrag it up so high, you will be set down as a raw country girl.",
-        "synonym": "in that way",
-        "i": 49723
+        "pre": "You should ",
+        "word": "enter the house",
+        "post": " of your hostess from a quarter to half an\r\nhour earlier than the time appointed for dining.",
+        "synonym": "enter the house",
+        "i": 43057
     },
     {
-        "pre": "You will surely be awkward in making\r\nthe attempt, and probably fail, ",
-        "word": "in spite of",
-        "post": " your efforts.",
-        "synonym": "in spite of",
-        "i": 49985
+        "pre": "careful, if dinner is delayed by the tardiness of the guests, or from\r\nany other cause, that you do not show by your manner that ",
+        "word": "you are aware",
+        "post": "\r\nof such delay.",
+        "synonym": "You Are Aware",
+        "i": 43405
     },
     {
-        "pre": "Don't hold your parasol so close ",
-        "word": "to your face",
-        "post": ", nor so low down.",
-        "synonym": "to your face",
-        "i": 50087
-    },
-    {
-        "pre": "Be careful ",
-        "word": "not to be",
-        "post": " alone in the streets after night fall.",
-        "synonym": "not to be",
-        "i": 51275
-    },
-    {
-        "pre": "Walk slowly, do not turn your head to the ",
-        "word": "right or left",
-        "post": ", unless you wish\r\nto walk that way, and avoid any gesture or word that will attract\r\nattention.",
-        "synonym": "right or left?",
-        "i": 51365
-    },
-    {
-        "pre": "Yet, ",
-        "word": "in spite of",
-        "post": " the universal need, and almost universal habit, there\r\nare really but very few persons who write a _good_ letter; a letter that\r\nis, at the same",
-        "synonym": "in spite of",
-        "i": 51877
-    },
-    {
-        "pre": "",
-        "word": "Why is this",
-        "post": ".",
-        "synonym": "why is this",
-        "i": 52333
-    },
-    {
-        "pre": "If you use a quotation, let\r\nit come into its place naturally, as if flowing in perfect harmony with\r\nyour ideas, and ",
-        "word": "let it be",
-        "post": " short.",
-        "synonym": "Let it Be",
-        "i": 53737
-    },
-    {
-        "pre": "You will err\r\nas much in such an attempt, as if, when seated ",
-        "word": "face to face",
-        "post": " with your\r\ncorrespondent, alone in your own apartment, you were to rise and\r\nconverse with the gestures and language of a minister in his pulpit",
-        "synonym": "face to face",
-        "i": 53791
-    },
-    {
-        "pre": "Say all that is necessary, in plain, distinct\r\nlanguage, and ",
-        "word": "say no more",
-        "post": ".",
-        "synonym": "say no more",
-        "i": 53961
-    },
-    {
-        "pre": "Write, in such a letter, of nothing but the business in\r\nhand; other matters will be ",
-        "word": "out of place",
-        "post": " there.",
-        "synonym": "Out of place",
-        "i": 54055
-    },
-    {
-        "pre": "There are many clouds ",
-        "word": "in the life",
-        "post": " of every\r\none of us.",
-        "synonym": "in the life",
-        "i": 54447
-    },
-    {
-        "pre": "Write words of comfort ",
+        "pre": "Converse cheerfully,\r\nlaugh quietly, but freely, ",
         "word": "if you will",
-        "post": ", but do not appear to\r\nconsider the affliction as a trifle.",
+        "post": ", and while you confine your\r\nattention entirely to your neighbor, still avoid any air of secrecy or\r\nmystery.",
         "synonym": "If you will",
-        "i": 55049
+        "i": 44479
     },
     {
-        "pre": "and a few words of sincere\r\nsympathy will outweigh pages of mere expressions of hope for comfort, or\r\nthe careless lines that show the letter ",
-        "word": "to be one",
-        "post": " of mere duty, not\r\nfeeling.",
-        "synonym": "To Be One",
-        "i": 55143
-    },
-    {
-        "pre": "In your letter gracefully acknowledge the\r\nobligation, and if, at a later day, you can ",
-        "word": "return the favor",
-        "post": ", then let\r\nactions, not words, prove your grateful recollection of the favor\r\nconferred upon you.",
-        "synonym": "return the favor",
-        "i": 57017
-    },
-    {
-        "pre": "The fact that the person bearing the letter ",
-        "word": "is your friend",
-        "post": ", will be\r\nall sufficient reason for cordial reception by the friend to whom the\r\nletter is addressed.",
-        "synonym": "is your friend",
-        "i": 57351
-    },
-    {
-        "pre": "You may, ",
+        "pre": "Break off small pieces\r\nand put into your mouth, ",
         "word": "if you will",
-        "post": ", have your\r\ninitials stamped at the top of the sheet, and on the seal of the\r\nenvelope, but do not have any fancy ornaments in",
+        "post": ", but neither bite it from the roll\r\nnor break it up, and eat it from your soup-plate with a spoon.",
         "synonym": "If you will",
-        "i": 59215
+        "i": 44607
     },
     {
-        "pre": "stamped at the top of the sheet, and on the seal of the\r\nenvelope, but do not have any fancy ornaments in the corners, or ",
-        "word": "on the\r\nback",
-        "post": " of the envelope.",
-        "synonym": "On the back",
-        "i": 59269
+        "pre": "In eating bread with meat, never dip it into the gravy ",
+        "word": "on your plate",
+        "post": ",\r\nand then bite the end off.",
+        "synonym": "on your plate",
+        "i": 44663
     },
     {
-        "pre": "If you use a quotation, never omit to ",
-        "word": "put it in",
-        "post": " quotation marks,\r\notherwise your correspondent may, however unjustly, accuse you of a\r\ndesire to pass off the idea and words of another, for your own",
-        "synonym": "put it in",
-        "i": 60165
+        "pre": "To put it ",
+        "word": "in your mouth",
+        "post": " is a distinctive mark of\r\nlow-breeding.",
+        "synonym": "in your mouth",
+        "i": 44819
     },
     {
-        "pre": "For an officer ",
-        "word": "in the navy",
+        "pre": "Keep your own\r\nknife, ",
+        "word": "fork, and spoon",
+        "post": " solely for the articles upon your own plate.",
+        "synonym": "fork and spoon",
+        "i": 45139
+    },
+    {
+        "pre": "to bear it, she will find her cheeks, soon after the indulgence,\r\nflushed, hot, and uncomfortable; and if the room is warm, and the dinner\r\n",
+        "word": "a long one",
+        "post": ", she will probably pay the penalty of her folly, by having a\r\nheadache all the evening.",
+        "synonym": "a long one",
+        "i": 45459
+    },
+    {
+        "pre": "After returning to the parlor, remain ",
+        "word": "in the house",
+        "post": " at least an hour\r\nafter dinner is over.",
+        "synonym": "in the house",
+        "i": 46483
+    },
+    {
+        "pre": "You will insult your hostess\r\nby leaving sooner, as it appears that you came only for the dinner, and\r\nthat being over, your interest ",
+        "word": "in the house",
+        "post": ", for the time, has ceased.",
+        "synonym": "in the house",
+        "i": 46577
+    },
+    {
+        "pre": "It is only beggars who \"",
+        "word": "eat and run",
         "post": ".",
-        "synonym": "in the navy",
-        "i": 62217
+        "synonym": "eat and run",
+        "i": 46597
     },
     {
-        "pre": "by the still stronger ties\r\nof affection, yet the power of interchanging thoughts, words, feelings,\r\nand sentiments, through the medium of letters, adds a sweetness ",
-        "word": "to the\r\npain",
-        "post": " of separation, renovating to life, and adding to happiness.",
-        "synonym": "To the pain",
-        "i": 62975
+        "pre": "At breakfast or tea, if your seat is at the head of the table, you must,\r\nbefore taking anything upon your own plate, ",
+        "word": "fill a cup",
+        "post": " for each one of\r\nthe family, and pass them round, being careful to suit each one in the\r\npreparation of the cup, that none may",
+        "synonym": "fill-a-cup",
+        "i": 46879
     },
     {
-        "pre": "Though we see not ",
-        "word": "eye to eye",
-        "post": " and face to face, where the soft music of a\r\nloved voice may fall with its richness upon the ear, yet the very soul\r\nand",
-        "synonym": "eye to eye",
-        "i": 63099
+        "pre": "If you have a visitor, pass the cup with the ",
+        "word": "tea or\r\ncoffee",
+        "post": " alone in it, and hand with the cup the sugar bowl and cream\r\npitcher, that these may be added in the quantity preferred.",
+        "synonym": "Tea or coffee",
+        "i": 46961
     },
     {
-        "pre": "Though we see not eye to eye and ",
-        "word": "face to face",
-        "post": ", where the soft music of a\r\nloved voice may fall with its richness upon the ear, yet the very soul\r\nand emotions of the mind",
-        "synonym": "face to face",
-        "i": 63103
+        "pre": "To point out any especial part of a dish, and ",
+        "word": "ask for it",
+        "post": ", is ill-bred.",
+        "synonym": "ask for it",
+        "i": 47489
     },
     {
-        "pre": "heart;\r\nthis cloak may be used to cover defects, but is it not better so to\r\nconceal these defects, than to flaunt and parade them ",
-        "word": "in the eyes",
-        "post": " of all\r\nwhom we may meet.",
-        "synonym": "in the eyes",
-        "i": 63945
+        "pre": "Sit easily in your chair, neither too near the table, nor too far from\r\nit, and avoid such tricks as putting your arms ",
+        "word": "on the table",
+        "post": ", leaning\r\nback lazily in your chair, or playing with your knife, fork, or spoon.",
+        "synonym": "on the table",
+        "i": 47805
     },
     {
-        "pre": "The plainest of truths, ",
-        "word": "let it be",
-        "post": " remembered,\r\ncan be conveyed in civil speech, while the most malignant lies may find\r\nutterance, and often do, in the language of the fishmarket.",
-        "synonym": "Let it Be",
-        "i": 64297
+        "pre": "Never ",
+        "word": "raise your voice",
+        "post": ", when speaking, any higher than is necessary.",
+        "synonym": "raise your voice",
+        "i": 47837
     },
     {
-        "pre": "which manifest themselves by tender and affectionate looks,\r\nand little, kind acts of attention, giving others the preference in\r\nevery little enjoyment at the table, ",
-        "word": "in the field",
-        "post": ", walking, sitting, or\r\nstanding.",
-        "synonym": "In the field",
-        "i": 64931
+        "pre": "Never pile up the food ",
+        "word": "on your plate",
+        "post": ".",
+        "synonym": "on your plate",
+        "i": 47961
     },
     {
-        "pre": "It is ",
-        "word": "not a thing",
-        "post": " that can be laid aside and put on\r\nat pleasure.",
-        "synonym": "Not a thing",
-        "i": 65317
+        "pre": "Let\r\nthe material be rich, ",
+        "word": "if you will",
+        "post": "; the set of each garment faultless;\r\nhave collar and sleeves snowy white, and wear neatly-fitting, whole,\r\nclean gloves and boots.",
+        "synonym": "If you will",
+        "i": 48543
     },
     {
-        "pre": "",
-        "word": "Let it\r\nbe",
-        "post": " the rule in the homeliest duties, and then it will set easily when in\r\npublic, not in a stiff manner, like a garment seldom worn",
-        "synonym": "Let it Be",
-        "i": 65551
+        "pre": "Wear a little of one\r\nbright color, ",
+        "word": "if you will",
+        "post": ", but not more than one.",
+        "synonym": "If you will",
+        "i": 48631
+    },
+    {
+        "pre": "Jewelry\r\nis only suited for full evening dress, when all the other details unite\r\nto ",
+        "word": "set it off",
+        "post": ".",
+        "synonym": "set it off",
+        "i": 48943
     },
     {
         "pre": "bonnet should always rest upon a stand in the\r\nband-box, as the shape and trimming will both be injured by letting it\r\nlie either ",
         "word": "on the face",
         "post": ", sides, or crown.",
         "synonym": "on the face",
-        "i": 8371
+        "i": 8359
     },
     {
-        "pre": "Not a tone, look, or gesture, is ",
-        "word": "out of place",
-        "post": "; not a habit\r\nindulged which etiquette forbids; and yet, there will be wanting, after\r\nall, the secret charm of sincerity and heart kindness, which those",
-        "synonym": "Out of place",
-        "i": 66365
-    },
-    {
-        "pre": "If they were taught to speak\r\nrespectfully to parents, and ",
-        "word": "brothers, and sisters",
-        "post": ", to friends,\r\nneighbors, and strangers, what bawlings, and snarlings would be stilled.",
-        "synonym": "Brothers and Sisters",
-        "i": 66949
-    },
-    {
-        "pre": "Let the feet, in walking or\r\ndancing, be turned out slightly; when you are seated, rest them both ",
-        "word": "on\r\nthe floor",
-        "post": " or a footstool.",
-        "synonym": "on the floor",
-        "i": 68449
-    },
-    {
-        "pre": "Beware of such vulgar interpolations ",
-        "word": "as \"You know",
-        "post": ",\" \"You see,\" \"I'll\r\ntell you what.",
-        "synonym": "As You Know",
-        "i": 69405
-    },
-    {
-        "pre": "It is not required of you to bow to any friend you may see in\r\npassing ",
-        "word": "up the aisle",
-        "post": ", as you are supposed yourself to be, and suppose\r\nher to be entirely absorbed in thought proper for the occasion.",
-        "synonym": "Up the aisle",
-        "i": 69859
-    },
-    {
-        "pre": "If you invite a friend to ",
-        "word": "take a seat",
-        "post": " in your pew, call for her\r\nearly, give her the most comfortable place, and be sure she has a prayer\r\nand hymn-book.",
-        "synonym": "Take a seat",
-        "i": 70389
+        "pre": "but at the same time firmly; now,\r\ncarry your head up, not so; you hang it down as if you feared to look\r\nany one ",
+        "word": "in the face",
+        "post": ".",
+        "synonym": "in the face",
+        "i": 49341
     },
     {
         "pre": "",
-        "word": "By the way",
-        "post": ", I do not agree with the\r\nstraight-laced people, who condemn all such amusements.",
-        "synonym": "by the way",
-        "i": 71397
+        "word": "You don't know",
+        "post": " what to do with\r\nthem.",
+        "synonym": "you don't know",
+        "i": 49413
     },
     {
-        "pre": "You are talking of ",
-        "word": "what you do",
-        "post": " not understand.",
-        "synonym": "what you do?",
-        "i": 71481
+        "pre": "You don't know ",
+        "word": "what to do",
+        "post": " with\r\nthem.",
+        "synonym": "what to do",
+        "i": 49415
     },
     {
-        "pre": "The light dresses, worn upon such occasions, suffer severely in passing\r\n",
-        "word": "up and down",
-        "post": " a crowded staircase.",
-        "synonym": "up and down",
-        "i": 72465
+        "pre": "If you take hold of your dress on both sides, ",
+        "word": "in that way",
+        "post": ", and\r\ndrag it up so high, you will be set down as a raw country girl.",
+        "synonym": "in that way",
+        "i": 49509
+    },
+    {
+        "pre": "You will surely be awkward in making\r\nthe attempt, and probably fail, ",
+        "word": "in spite of",
+        "post": " your efforts.",
+        "synonym": "in spite of",
+        "i": 49771
+    },
+    {
+        "pre": "Don't hold your parasol so close ",
+        "word": "to your face",
+        "post": ", nor so low down.",
+        "synonym": "to your face",
+        "i": 49873
+    },
+    {
+        "pre": "Be careful ",
+        "word": "not to be",
+        "post": " alone in the streets after night fall.",
+        "synonym": "not to be",
+        "i": 51059
+    },
+    {
+        "pre": "Walk slowly, do not turn your head to the ",
+        "word": "right or left",
+        "post": ", unless you wish\r\nto walk that way, and avoid any gesture or word that will attract\r\nattention.",
+        "synonym": "right or left?",
+        "i": 51149
+    },
+    {
+        "pre": "Yet, ",
+        "word": "in spite of",
+        "post": " the universal need, and almost universal habit, there\r\nare really but very few persons who write a _good_ letter; a letter that\r\nis, at the same",
+        "synonym": "in spite of",
+        "i": 51659
     },
     {
         "pre": "",
-        "word": "Let it be",
-        "post": " brilliantly lighted, and have\r\nplenty of waiters in attendance.",
+        "word": "Why is this",
+        "post": ".",
+        "synonym": "why is this",
+        "i": 52111
+    },
+    {
+        "pre": "If you use a quotation, let\r\nit come into its place naturally, as if flowing in perfect harmony with\r\nyour ideas, and ",
+        "word": "let it be",
+        "post": " short.",
         "synonym": "Let it Be",
-        "i": 72753
+        "i": 53511
+    },
+    {
+        "pre": "You will err\r\nas much in such an attempt, as if, when seated ",
+        "word": "face to face",
+        "post": " with your\r\ncorrespondent, alone in your own apartment, you were to rise and\r\nconverse with the gestures and language of a minister in his pulpit",
+        "synonym": "face to face",
+        "i": 53565
+    },
+    {
+        "pre": "Say ",
+        "word": "all that is",
+        "post": " necessary, in plain, distinct\r\nlanguage, and say no more.",
+        "synonym": "All that is",
+        "i": 53715
+    },
+    {
+        "pre": "Say all that is necessary, in plain, distinct\r\nlanguage, and ",
+        "word": "say no more",
+        "post": ".",
+        "synonym": "say no more",
+        "i": 53729
+    },
+    {
+        "pre": "Write, in such a letter, of nothing but the business in\r\nhand; other matters will be ",
+        "word": "out of place",
+        "post": " there.",
+        "synonym": "Out of place",
+        "i": 53823
+    },
+    {
+        "pre": "There are many clouds ",
+        "word": "in the life",
+        "post": " of every\r\none of us.",
+        "synonym": "in the life",
+        "i": 54213
+    },
+    {
+        "pre": "Write words of comfort ",
+        "word": "if you will",
+        "post": ", but do not appear to\r\nconsider the affliction as a trifle.",
+        "synonym": "If you will",
+        "i": 54813
+    },
+    {
+        "pre": "and a few words of sincere\r\nsympathy will outweigh pages of mere expressions of hope for comfort, or\r\nthe careless lines that show the letter ",
+        "word": "to be one",
+        "post": " of mere duty, not\r\nfeeling.",
+        "synonym": "To Be One",
+        "i": 54907
+    },
+    {
+        "pre": "In your letter gracefully acknowledge the\r\nobligation, and if, at a later day, you can ",
+        "word": "return the favor",
+        "post": ", then let\r\nactions, not words, prove your grateful recollection of the favor\r\nconferred upon you.",
+        "synonym": "return the favor",
+        "i": 56777
+    },
+    {
+        "pre": "The fact that the person bearing the letter ",
+        "word": "is your friend",
+        "post": ", will be\r\nall sufficient reason for cordial reception by the friend to whom the\r\nletter is addressed.",
+        "synonym": "is your friend",
+        "i": 57111
+    },
+    {
+        "pre": "You may, ",
+        "word": "if you will",
+        "post": ", have your\r\ninitials stamped at the top of the sheet, and on the seal of the\r\nenvelope, but do not have any fancy ornaments in",
+        "synonym": "If you will",
+        "i": 58973
+    },
+    {
+        "pre": "stamped at the top of the sheet, and on the seal of the\r\nenvelope, but do not have any fancy ornaments in the corners, or ",
+        "word": "on the\r\nback",
+        "post": " of the envelope.",
+        "synonym": "On the back",
+        "i": 59025
+    },
+    {
+        "pre": "If you use a quotation, never omit to ",
+        "word": "put it in",
+        "post": " quotation marks,\r\notherwise your correspondent may, however unjustly, accuse you of a\r\ndesire to pass off the idea and words of another, for your own",
+        "synonym": "put it in",
+        "i": 59919
+    },
+    {
+        "pre": "For an officer ",
+        "word": "in the navy",
+        "post": ".",
+        "synonym": "in the navy",
+        "i": 61961
+    },
+    {
+        "pre": "by the still stronger ties\r\nof affection, yet the power of interchanging thoughts, words, feelings,\r\nand sentiments, through the medium of letters, adds a sweetness ",
+        "word": "to the\r\npain",
+        "post": " of separation, renovating to life, and adding to happiness.",
+        "synonym": "To the pain",
+        "i": 62711
+    },
+    {
+        "pre": "Though we see not ",
+        "word": "eye to eye",
+        "post": " and face to face, where the soft music of a\r\nloved voice may fall with its richness upon the ear, yet the very soul\r\nand",
+        "synonym": "eye to eye",
+        "i": 62835
+    },
+    {
+        "pre": "Though we see not eye to eye and ",
+        "word": "face to face",
+        "post": ", where the soft music of a\r\nloved voice may fall with its richness upon the ear, yet the very soul\r\nand emotions of the mind",
+        "synonym": "face to face",
+        "i": 62839
+    },
+    {
+        "pre": "heart;\r\nthis cloak may be used to cover defects, but is it not better so to\r\nconceal these defects, than to flaunt and parade them ",
+        "word": "in the eyes",
+        "post": " of all\r\nwhom we may meet.",
+        "synonym": "in the eyes",
+        "i": 63675
+    },
+    {
+        "pre": "The plainest of truths, ",
+        "word": "let it be",
+        "post": " remembered,\r\ncan be conveyed in civil speech, while the most malignant lies may find\r\nutterance, and often do, in the language of the fishmarket.",
+        "synonym": "Let it Be",
+        "i": 64025
+    },
+    {
+        "pre": "which manifest themselves by tender and affectionate looks,\r\nand little, kind acts of attention, giving others the preference in\r\nevery little enjoyment at the table, ",
+        "word": "in the field",
+        "post": ", walking, sitting, or\r\nstanding.",
+        "synonym": "In the field",
+        "i": 64659
+    },
+    {
+        "pre": "It is ",
+        "word": "not a thing",
+        "post": " that can be laid aside and put on\r\nat pleasure.",
+        "synonym": "Not a thing",
+        "i": 65045
+    },
+    {
+        "pre": "",
+        "word": "Let it\r\nbe",
+        "post": " the rule in the homeliest duties, and then it will set easily when in\r\npublic, not in a stiff manner, like a garment seldom worn",
+        "synonym": "Let it Be",
+        "i": 65279
     },
     {
         "pre": "Never wear a\r\ndress which is ",
         "word": "out of place",
         "post": " or out of season under the impression that\r\n\"it will do for once,\" or \"nobody will notice it.",
         "synonym": "Out of place",
-        "i": 8461
+        "i": 8449
+    },
+    {
+        "pre": "Not a tone, look, or gesture, is ",
+        "word": "out of place",
+        "post": "; not a habit\r\nindulged which etiquette forbids; and yet, there will be wanting, after\r\nall, the secret charm of sincerity and heart kindness, which those",
+        "synonym": "Out of place",
+        "i": 66089
+    },
+    {
+        "pre": "If they were taught to speak\r\nrespectfully to parents, and ",
+        "word": "brothers, and sisters",
+        "post": ", to friends,\r\nneighbors, and strangers, what bawlings, and snarlings would be stilled.",
+        "synonym": "Brothers and Sisters",
+        "i": 66673
+    },
+    {
+        "pre": "Let the feet, in walking or\r\ndancing, be turned out slightly; when you are seated, rest them both ",
+        "word": "on\r\nthe floor",
+        "post": " or a footstool.",
+        "synonym": "on the floor",
+        "i": 68173
+    },
+    {
+        "pre": "Beware of such vulgar interpolations ",
+        "word": "as \"You know",
+        "post": ",\" \"You see,\" \"I'll\r\ntell you what.",
+        "synonym": "As You Know",
+        "i": 69125
+    },
+    {
+        "pre": "It is not required of you to bow to any friend you may see in\r\npassing ",
+        "word": "up the aisle",
+        "post": ", as you are supposed yourself to be, and suppose\r\nher to be entirely absorbed in thought proper for the occasion.",
+        "synonym": "Up the aisle",
+        "i": 69577
+    },
+    {
+        "pre": "If you invite a friend to ",
+        "word": "take a seat",
+        "post": " in your pew, call for her\r\nearly, give her the most comfortable place, and be sure she has a prayer\r\nand hymn-book.",
+        "synonym": "Take a seat",
+        "i": 70105
+    },
+    {
+        "pre": "",
+        "word": "By the way",
+        "post": ", I do not agree with the\r\nstraight-laced people, who condemn all such amusements.",
+        "synonym": "by the way",
+        "i": 71109
+    },
+    {
+        "pre": "You are talking of ",
+        "word": "what you do",
+        "post": " not understand.",
+        "synonym": "what you do?",
+        "i": 71191
+    },
+    {
+        "pre": "The light dresses, worn upon such occasions, suffer severely in passing\r\n",
+        "word": "up and down",
+        "post": " a crowded staircase.",
+        "synonym": "up and down",
+        "i": 72171
+    },
+    {
+        "pre": "",
+        "word": "Let it be",
+        "post": " brilliantly lighted, and have\r\nplenty of waiters in attendance.",
+        "synonym": "Let it Be",
+        "i": 72457
+    },
+    {
+        "pre": "A good, strong\r\nmaterial will be found cheapest ",
+        "word": "in the end",
+        "post": ", though the actual\r\nexpenditure of money may be larger at first.",
+        "synonym": "in the end",
+        "i": 9633
     },
     {
         "pre": "Heavy,\r\ndark silks are ",
         "word": "out of place",
         "post": " in a ball room, and black should be worn in\r\nno material but lace.",
         "synonym": "Out of place",
-        "i": 74687
+        "i": 74383
     },
     {
         "pre": "Satin or velvet are entirely ",
         "word": "out\r\nof place",
         "post": " on a young lady.",
         "synonym": "Out of place",
-        "i": 74857
+        "i": 74553
     },
     {
         "pre": "You may go\r\nmore than once, if you wish for an ice or ",
         "word": "glass of water",
         "post": ", (surely no\r\nlady wants two or three _suppers_,) but do not tax the same gentleman\r\nmore than once, even if he invites you after each",
         "synonym": "glass of water",
-        "i": 76159
+        "i": 75845
     },
     {
         "pre": "unfortunate as, forgetting a prior engagement, to engage\r\nyourself to two gentlemen for the same dance, decline dancing it\r\naltogether, or you will surely offend ",
         "word": "one of them",
         "post": ".",
         "synonym": "One of them",
-        "i": 76325
+        "i": 76009
     },
     {
         "pre": "Never ",
         "word": "stand up to",
         "post": " dance in a quadrille, unless you are perfectly\r\nfamiliar with the figures, depending upon your partner to lead you\r\nthrough.",
         "synonym": "Stand Up To",
-        "i": 76825
+        "i": 76507
     },
     {
         "pre": "the last century, \"having been desired by the Empress of\r\nAustria to bring her three daughters to court, in order that her\r\nImperial Majesty might choose ",
         "word": "one of them",
         "post": " for a wife to one of her sons,\r\ndrove up in her coach to the palace gate.",
         "synonym": "One of them",
-        "i": 77583
+        "i": 77265
     },
     {
         "pre": "'Your eldest daughter stepped on her dress,\r\nand only saved herself from falling by an awkward scramble; the youngest\r\njumped from the coach ",
         "word": "to the ground",
         "post": ", without touching the steps; the\r\nsecond, just lifting her dress in front, so as she descended to show the\r\npoint of her shoe, calmly stepped",
         "synonym": "TO THE GROUND",
-        "i": 77767
+        "i": 77449
     },
     {
         "pre": "the steps; the\r\nsecond, just lifting her dress in front, so as she descended to show the\r\npoint of her shoe, calmly stepped from the carriage ",
         "word": "to the ground",
         "post": ",\r\nneither hurriedly nor stiffly, but with grace and dignity: she is fit to\r\nbe an empress; her eldest sister is too awkward, her youngest too",
         "synonym": "TO THE GROUND",
-        "i": 77819
+        "i": 77501
     },
     {
         "pre": "If you speak to your companion while the curtain is up, ",
         "word": "lower your\r\nvoice",
         "post": ", that you may not disturb others interested in the conversation on\r\nthe stage.",
         "synonym": "lower your voice",
-        "i": 78157
+        "i": 77837
     },
     {
         "pre": "Avoid handling the play bills, as the printing ink will soil your gloves\r\nin ",
         "word": "a few minutes",
         "post": ", making your hands appear very badly for the rest of\r\nthe evening.",
         "synonym": "A few minutes",
-        "i": 78533
+        "i": 78213
     },
     {
         "pre": "In walking ",
         "word": "up and down",
         "post": " in the promenading saloon, you may pass and\r\nrepass friends.",
         "synonym": "up and down",
-        "i": 78863
+        "i": 78541
     },
     {
         "pre": "If you are unavoidably late, enter quietly,\r\nand ",
         "word": "take a seat",
         "post": " near the door.",
         "synonym": "Take a seat",
-        "i": 79083
+        "i": 78759
     },
     {
         "pre": "If he asks permission to call ",
         "word": "in the morning",
         "post": ", you must, unless prevented\r\nby an imperative engagement, remain at home to see him.",
         "synonym": "In the morning",
-        "i": 79457
-    },
-    {
-        "pre": "It is not, as some will assert, a ",
-        "word": "waste of time",
-        "post": " or\r\nmoney.",
-        "synonym": "Waste of Time",
-        "i": 79793
+        "i": 79133
     },
     {
         "pre": "You will\r\nnot have a musical instrument within reach, singing would be ",
         "word": "out of\r\nplace",
         "post": ", your fancy work at home, on many occasions, and then you can\r\nexert your most fascinating as well as useful accomplishment, the art of\r\nconversing",
         "synonym": "Out of place",
-        "i": 80235
+        "i": 79913
     },
     {
         "pre": "There are\r\nmany snares in such topics; not merely the danger of calumniating, but\r\nthat of engendering a slippery conscience in ",
         "word": "matters of fact",
         "post": ".",
         "synonym": "matter-of-fact",
-        "i": 82249
+        "i": 81925
     },
     {
         "pre": "Forth you step, and, with a just apprehension of the\r\ndifficulties of your task, select ",
         "word": "one of those",
         "post": " immortal compositions\r\nwhich the most eminent have made their study; you execute it\r\nwonderfully, only just falling a _little_ short of all the song should",
         "synonym": "One of Those",
-        "i": 84241
+        "i": 83917
+    },
+    {
+        "pre": "When asked to play, choose, ",
+        "word": "if you\r\nwill",
+        "post": ", a brilliant, showy piece, but let it be short.",
+        "synonym": "If you will",
+        "i": 85195
+    },
+    {
+        "pre": "When asked to play, choose, if you\r\nwill, a brilliant, showy piece, but ",
+        "word": "let it be",
+        "post": " short.",
+        "synonym": "Let it Be",
+        "i": 85207
+    },
+    {
+        "pre": "Swinging the body ",
+        "word": "to and fro",
+        "post": ", moving the\r\nhead, rolling the eyes, raising the hands too much, are all bad tricks,\r\nand should be carefully abstained from.",
+        "synonym": "to and fro",
+        "i": 85367
+    },
+    {
+        "pre": "To ride well is undoubtedly an admirable qualification for a lady, as\r\nshe may be as feminine ",
+        "word": "in the saddle",
+        "post": " as in the ball room or home circle.",
+        "synonym": "in the saddle",
+        "i": 85789
+    },
+    {
+        "pre": "A lady, unless she lives in the most retired parts of the country,\r\nshould never ride alone, and even then she will be awkwardly placed, ",
+        "word": "in\r\ncase of",
+        "post": " accident, without an escort.",
+        "synonym": "in case of",
+        "i": 86241
+    },
+    {
+        "pre": "If you be an accomplished equestrian,\r\nyou will prefer being outside, and (as has been said) ",
+        "word": "to the left",
+        "post": ".",
+        "synonym": "to the left",
+        "i": 87163
+    },
+    {
+        "pre": "Sit erect ",
+        "word": "in the middle",
+        "post": " of your saddle, turning your face full towards\r\nthe head of your horse.",
+        "synonym": "in the middle",
+        "i": 87169
+    },
+    {
+        "pre": "Do not wear the skirt too long; it\r\nwill be dangerous ",
+        "word": "in case of",
+        "post": " accident, and it may prove annoying to your\r\nhorse.",
+        "synonym": "in case of",
+        "i": 87499
+    },
+    {
+        "pre": "Your whip should be light and small, tasteful ",
+        "word": "if you will",
+        "post": ", but not\r\nshowy.",
+        "synonym": "If you will",
+        "i": 87923
     },
     {
         "pre": "Entered according to the ",
@@ -1183,1179 +1288,1284 @@
         "i": 501
     },
     {
-        "pre": "When asked to play, choose, if you\r\nwill, a brilliant, showy piece, but ",
-        "word": "let it be",
-        "post": " short.",
-        "synonym": "Let it Be",
-        "i": 85533
-    },
-    {
-        "pre": "Swinging the body ",
-        "word": "to and fro",
-        "post": ", moving the\r\nhead, rolling the eyes, raising the hands too much, are all bad tricks,\r\nand should be carefully abstained from.",
-        "synonym": "to and fro",
-        "i": 85695
-    },
-    {
-        "pre": "To ride well is undoubtedly an admirable qualification for a lady, as\r\nshe may be as feminine ",
-        "word": "in the saddle",
-        "post": " as in the ball room or home circle.",
-        "synonym": "in the saddle",
-        "i": 86117
-    },
-    {
-        "pre": "A lady, unless she lives in the most retired parts of the country,\r\nshould never ride alone, and even then she will be awkwardly placed, ",
-        "word": "in\r\ncase of",
-        "post": " accident, without an escort.",
-        "synonym": "in case of",
-        "i": 86575
-    },
-    {
-        "pre": "If you be an accomplished equestrian,\r\nyou will prefer being outside, and (as has been said) ",
-        "word": "to the left",
-        "post": ".",
-        "synonym": "to the left",
-        "i": 87503
-    },
-    {
-        "pre": "Sit erect ",
-        "word": "in the middle",
-        "post": " of your saddle, turning your face full towards\r\nthe head of your horse.",
-        "synonym": "in the middle",
-        "i": 87509
-    },
-    {
-        "pre": "Do not wear the skirt too long; it\r\nwill be dangerous ",
-        "word": "in case of",
-        "post": " accident, and it may prove annoying to your\r\nhorse.",
-        "synonym": "in case of",
-        "i": 87841
-    },
-    {
-        "pre": "Your whip should be light and small, tasteful ",
-        "word": "if you will",
-        "post": ", but not\r\nshowy.",
-        "synonym": "If you will",
-        "i": 88269
-    },
-    {
-        "pre": "There are hundreds of competent instructors in this country, French\r\n",
-        "word": "ladies and gentlemen",
-        "post": " amongst the number, who form classes for\r\nconversation and familiarizing their pupils with these very idioms.",
-        "synonym": "Ladies and Gentlemen",
-        "i": 88599
+        "pre": "In early life, he wavered; and the besetting\r\nscepticism of the Germans dimmed, for a time, his perceptions of ",
+        "word": "all\r\nthat is",
+        "post": " most sublime, as well as true, in our finite knowledge.",
+        "synonym": "All that is",
+        "i": 89305
     },
     {
         "pre": "and firm upon both her feet, with her limbs quite straight, and the\r\nwhole person perfectly upright, but not stiff; then to lift one foot\r\n",
         "word": "from the ground",
         "post": ", and to keep it so for some time without moving any part\r\nof her body; she then replaced that foot on the ground, and raised",
         "synonym": "from the ground",
-        "i": 91147
+        "i": 90789
     },
     {
         "pre": "one foot\r\nfrom the ground, and to keep it so for some time without moving any part\r\nof her body; she then replaced that foot ",
         "word": "on the ground",
         "post": ", and raised the\r\nother in the same manner.",
         "synonym": "on the ground",
-        "i": 91187
+        "i": 90829
     },
     {
         "pre": "with them; they were then directed to keep\r\nthe body quite erect, but not stiff, and bearing firmly upon one leg, to\r\nraise the other ",
         "word": "from the ground",
         "post": ", gradually and slowly, by bending the\r\nupper joint of the limb, at the same time making the knee straight, and\r\nputting the toe to its",
         "synonym": "from the ground",
-        "i": 91273
+        "i": 90915
     },
     {
         "pre": "The foot, after it\r\nhad been kept in this state for some time, was returned ",
         "word": "to the ground",
         "post": "\r\nfrom whence it was taken, and the other foot treated in the same manner;\r\nwhen quite familiarized to these actions, they were directed to walk",
         "synonym": "TO THE GROUND",
-        "i": 91359
+        "i": 91001
     },
     {
         "pre": "Dancing is really a simple and elegant gliding on the toes, which bend\r\n",
         "word": "more or less",
         "post": " to accommodate the steps, and prevent harsh, ungraceful\r\nmotion.",
         "synonym": "More or less",
-        "i": 92757
+        "i": 92397
     },
     {
         "pre": "Stand a little ",
         "word": "to the right",
         "post": " of your partner,\r\nthat, in clasping your waist, he may draw you upon his arm to his\r\nshoulder, not his breast; the last position is",
         "synonym": "To the Right",
-        "i": 93355
+        "i": 92993
+    },
+    {
+        "pre": "By observing the\r\nfirst, you ",
+        "word": "have your head",
+        "post": " free; turn it a little towards the left\r\nshoulder; need I say, never lay it upon your partner's shoulder.",
+        "synonym": "Have your head",
+        "i": 93053
+    },
+    {
+        "pre": "Throw\r\nthe head and shoulders a little back, ",
+        "word": "not too much",
+        "post": " to be consistent with\r\neasy grace, place one hand upon your partner's shoulder, and the other\r\nin his disengaged hand.",
+        "synonym": "not too much",
+        "i": 93103
     },
     {
         "pre": "The last is\r\nthe most graceful, and there is ",
         "word": "not so much",
         "post": " danger of giddiness.",
         "synonym": "not so much",
-        "i": 93559
+        "i": 93191
     },
     {
         "pre": "The Germans, who\r\ndance for the sake of _dancing_, will only allow a certain number of\r\nwaltzers ",
         "word": "on the floor",
         "post": " at one time, and these waltz in streams, all going\r\ndown one side of the room and up the other, thus rendering collisions\r\nimpossible.",
         "synonym": "on the floor",
-        "i": 93665
+        "i": 93297
     },
     {
         "pre": "is more graceless and absurd, than\r\nto see a man waltzing on the tips of his toes, lifting his partner off\r\nthe ground, or twirling ",
         "word": "round and round",
         "post": " with her like the figures on a\r\nstreet organ.",
         "synonym": "round and round",
-        "i": 94071
+        "i": 93699
     },
     {
         "pre": "if I say\r\none word in favor of private theatricals; yet, as it appears to me,\r\nthere are in these diversions some advantages which are ",
         "word": "not to be",
         "post": " found\r\nto excuse the waltz, or the polka, or the ballet, or the hunting field.",
         "synonym": "not to be",
-        "i": 95489
+        "i": 95107
     },
     {
         "pre": "What we have to do is to raise and direct it; never to let it occupy ",
         "word": "too\r\nmuch time",
         "post": ", nor to become the business of life; never to let it infringe\r\nupon duties; never to allow it to lead us into an unreasonable, and",
         "synonym": "Too Much Time",
-        "i": 95849
+        "i": 95467
     },
     {
         "pre": "the mistakes, the absurd contrasts between character and\r\ncostume, the scenery--a deep, hanging wood, the court of Louis Quatorze\r\nor the deck of a ",
         "word": "man of war",
         "post": ", being improvised at a moment's notice, only\r\nadd to the merry enjoyment.",
         "synonym": "Man of War",
-        "i": 96523
+        "i": 96139
     },
     {
         "pre": "Merry and laughing you may be, yet never\r\nforget ",
         "word": "you are a",
         "post": " lady.",
         "synonym": "You are a...",
-        "i": 96597
-    },
-    {
-        "pre": "A good, strong\r\nmaterial will be found cheapest ",
-        "word": "in the end",
-        "post": ", though the actual\r\nexpenditure of money may be larger at first.",
-        "synonym": "in the end",
-        "i": 9647
-    },
-    {
-        "pre": "case, show between the door-way and the frame; also\r\na piece of dark cloth ought to be put from the bottom of the frame ",
-        "word": "to\r\nthe ground",
-        "post": ", to give the appearance of the picture hanging on the wall.",
-        "synonym": "TO THE GROUND",
-        "i": 98367
-    },
-    {
-        "pre": "piece a of dark cloth ought to be put from bottom the of the frame to\r\nthe ground, to give the appearance of the picture hanging ",
-        "word": "on the wall",
-        "post": ".",
-        "synonym": "On the wall",
-        "i": 98383
-    },
-    {
-        "pre": "Cast ",
-        "word": "on a hundred",
-        "post": " stitches with white wool, and knit and pearl\r\nalternately for four rows.",
-        "synonym": "ON a HUndred",
-        "i": 100635
-    },
-    {
-        "pre": "for the muslin,\r\nwhich, when it has been washed two or three times, becomes full of slits\r\nand holes, though the work is still as ",
-        "word": "good as ever",
-        "post": ".",
-        "synonym": "good as ever",
-        "i": 101659
-    },
-    {
-        "pre": "Four or six threads are then\r\ndrawn from one ",
-        "word": "piece of work",
-        "post": " to another, with a needle and cotton, so as\r\nto attach them together, and the loose threads are then overcast like\r\nbutton-holes, so as",
-        "synonym": "piece of work",
-        "i": 101859
-    },
-    {
-        "pre": "Chain stitch ought to be done rather loosely, as ",
-        "word": "working on it",
-        "post": "\r\nafterwards contracts it, and is apt to give it a puckered appearance.",
-        "synonym": "working on it",
-        "i": 102729
-    },
-    {
-        "pre": "The cord should be run ",
-        "word": "in and out",
-        "post": " through the thirteenth round.",
-        "synonym": "In and Out",
-        "i": 103763
-    },
-    {
-        "pre": "stitches _at least_ half an inch high; two stitches to be put into\r\nevery second or third loop and one in each of the others ",
-        "word": "all the way",
-        "post": "\r\nalong; fasten off.",
-        "synonym": "all the way",
-        "i": 104061
+        "i": 96213
     },
     {
         "pre": "Many a\r\nfair head has been laid ",
         "word": "in a coffin",
         "post": ", a victim to consumption, from\r\nrashly venturing out of a heated ball room, flushed and excited, with\r\nonly a light protection against keen night air",
         "synonym": "in a coffin",
-        "i": 9943
+        "i": 9929
     },
     {
-        "pre": "_5th row_--Knit all; casting off ",
-        "word": "one of each",
-        "post": " of the double made\r\nstitches.",
-        "synonym": "one of each",
-        "i": 106453
+        "pre": "case, show between the door-way and the frame; also\r\na piece of dark cloth ought to be put from the bottom of the frame ",
+        "word": "to\r\nthe ground",
+        "post": ", to give the appearance of the picture hanging on the wall.",
+        "synonym": "TO THE GROUND",
+        "i": 97979
     },
     {
-        "pre": "the leg to the point of the sole;\r\nthen sew the toe; turn it; put on a little rosette of raveled wool; run\r\na ribbon ",
+        "pre": "piece a of dark cloth ought to be put from bottom the of the frame to\r\nthe ground, to give the appearance of the picture hanging ",
+        "word": "on the wall",
+        "post": ".",
+        "synonym": "On the wall",
+        "i": 97995
+    },
+    {
+        "pre": "Cast ",
+        "word": "on a hundred",
+        "post": " stitches with white wool, and knit and pearl\r\nalternately for four rows.",
+        "synonym": "ON a HUndred",
+        "i": 100239
+    },
+    {
+        "pre": "for the muslin,\r\nwhich, when it has been washed two or three times, becomes full of slits\r\nand holes, though the work is still as ",
+        "word": "good as ever",
+        "post": ".",
+        "synonym": "good as ever",
+        "i": 101263
+    },
+    {
+        "pre": "Four or six threads are then\r\ndrawn from one ",
+        "word": "piece of work",
+        "post": " to another, with a needle and cotton, so as\r\nto attach them together, and the loose threads are then overcast like\r\nbutton-holes, so as",
+        "synonym": "piece of work",
+        "i": 101463
+    },
+    {
+        "pre": "Chain stitch ought to be done rather loosely, as ",
+        "word": "working on it",
+        "post": "\r\nafterwards contracts it, and is apt to give it a puckered appearance.",
+        "synonym": "working on it",
+        "i": 102333
+    },
+    {
+        "pre": "The cord should be run ",
         "word": "in and out",
-        "post": " through the holes at rows 4 and 5, of the leg\r\nportion, and it is completed.",
+        "post": " through the thirteenth round.",
         "synonym": "In and Out",
-        "i": 106643
+        "i": 103365
     },
     {
-        "pre": "The sock may also be enlarged by casting on extra stitches in the\r\nbeginning, and adding ",
-        "word": "a couple of",
-        "post": " rows to each of the divisions of the\r\nslipper part, and enough to the toe to preserve its form and symmetry.",
-        "synonym": "a couple of",
-        "i": 106859
-    },
-    {
-        "pre": "friends;\r\nliberty to get the housemaid to clean his candlesticks, and bring up his\r\ncoals; and the housemaid wishes for liberty to lie in bed ",
-        "word": "in the\r\nmorning",
-        "post": ", because she was up so late talking to John in the pantry;\r\nliberty to wear flounces and flowers.",
-        "synonym": "In the morning",
-        "i": 108239
-    },
-    {
-        "pre": "up his\r\ncoals; the and housemaid wishes for liberty to in lie bed in the\r\nmorning, because she was up so late talking to John ",
-        "word": "in the pantry",
-        "post": ";\r\nliberty to wear flounces and flowers.",
-        "synonym": "In The Pantry",
-        "i": 108257
-    },
-    {
-        "pre": "The cook desires liberty ",
-        "word": "too. For\r\nthis",
-        "post": " liberty, if you grant it, they will despise you; if you deny it,\r\nthey will respect you.",
-        "synonym": "Too Δ for this.",
-        "i": 108279
-    },
-    {
-        "pre": "point; for there is now an unhealthy disposition to pass over the\r\nfailings of servants who have left their places, and to make them\r\nperfect ",
-        "word": "in the eyes",
-        "post": " of others.",
-        "synonym": "in the eyes",
-        "i": 109125
-    },
-    {
-        "pre": "The homely housemaid--that invaluable character in her\r\nway--is indeed difficult to be found; and, ",
-        "word": "at a time",
-        "post": " when cleanliness is\r\nat its zenith, the rarity is to discover any one who will clean.",
-        "synonym": "at a time",
-        "i": 109747
-    },
-    {
-        "pre": "An exercise of authority on this point amounts,\r\n",
-        "word": "in my opinion",
-        "post": ", to an act of tyranny, and it can only tend to promote\r\ninsincerity, and, perhaps, engender scepticism in its object.",
-        "synonym": "in my opinion",
-        "i": 111077
+        "pre": "stitches _at least_ half an inch high; two stitches to be put into\r\nevery second or third loop and one in each of the others ",
+        "word": "all the way",
+        "post": "\r\nalong; fasten off.",
+        "synonym": "all the way",
+        "i": 103663
     },
     {
         "pre": "If a lady's domestic duties require her attention for\r\nseveral hours ",
         "word": "in the morning",
         "post": ", whilst her list of acquaintances is large,\r\nand she has frequent morning calls, it is best to dress for callers\r\nbefore breakfast, and wear over",
         "synonym": "In the morning",
-        "i": 10725
+        "i": 10711
     },
     {
-        "pre": "They ought ",
-        "word": "not to be",
-        "post": " the slaves of caprice or the victims of\r\ntemper.",
-        "synonym": "not to be",
-        "i": 111527
+        "pre": "_5th row_--Knit all; casting off ",
+        "word": "one of each",
+        "post": " of the double made\r\nstitches.",
+        "synonym": "one of each",
+        "i": 106067
     },
     {
-        "pre": "In closing these remarks on the management of servants, let me exhort\r\nyou never to forget that they are fellow-laborers, ",
-        "word": "in the life",
-        "post": " of\r\nprobation, with ourselves; let us not embitter their lives by harshness,\r\nor proffer to them temptation from carelessness and over-indulgence.",
-        "synonym": "in the life",
-        "i": 112537
+        "pre": "the leg to the point of the sole;\r\nthen sew the toe; turn it; put on a little rosette of raveled wool; run\r\na ribbon ",
+        "word": "in and out",
+        "post": " through the holes at rows 4 and 5, of the leg\r\nportion, and it is completed.",
+        "synonym": "In and Out",
+        "i": 106257
     },
     {
-        "pre": "us of this world's goods is but in trust, let us\r\nregard our servants as beings for whose conduct, while under our\r\ncontrol, we are ",
-        "word": "more or less",
-        "post": " responsible.",
-        "synonym": "More or less",
-        "i": 112641
+        "pre": "The sock may also be enlarged by casting on extra stitches in the\r\nbeginning, and adding ",
+        "word": "a couple of",
+        "post": " rows to each of the divisions of the\r\nslipper part, and enough to the toe to preserve its form and symmetry.",
+        "synonym": "a couple of",
+        "i": 106471
     },
     {
-        "pre": "pleasing manners, and respectable connections, there exists, in\r\nmodern society, very few young ladies who have not received under\r\nvarious circumstances, some marks of preference, ",
-        "word": "more or less",
-        "post": " decided.",
-        "synonym": "More or less",
-        "i": 114097
+        "pre": "He will thus describe a comfortable place:--'There were very\r\nfew in the family; when they went out of a night, ",
+        "word": "we made it",
+        "post": " up of a\r\nmorning; we had nice hot suppers, and the cook made a good hash for\r\nbreakfast, and we always got luncheon between that",
+        "synonym": "we made it",
+        "i": 107083
     },
     {
-        "pre": "are, however, blessed with guides and guardians of very different\r\ncharacters; with parents, whose lofty natures not only reject such\r\nunworthy notions, but somewhat incline ",
-        "word": "to the extreme",
-        "post": " of repelling all\r\nadvances for their daughters.",
-        "synonym": "to the extreme",
-        "i": 114871
-    },
-    {
-        "pre": "This is the first sentiment of a modest and\r\ningenuous mind, and it is one indication, ",
-        "word": "in my opinion",
-        "post": ", of the\r\nimpropriety of early marriages.",
-        "synonym": "in my opinion",
-        "i": 115179
-    },
-    {
-        "pre": "Many an engagement has been formed under this conviction, and fulfilled\r\nonly to prove its fallacy, ",
-        "word": "for the love",
-        "post": " which was supposed too strong to\r\nsurvive disappointment, has expired in the fruition of its hopes.",
-        "synonym": "for the love",
-        "i": 115911
-    },
-    {
-        "pre": "If she cherishes, ",
-        "word": "in spite of",
-        "post": " her pretended\r\ndisgust, a secret partiality for the individual who distinguishes her,\r\nif she is lowering the esteem of a man whom she prefers, she",
-        "synonym": "in spite of",
-        "i": 116235
-    },
-    {
-        "pre": "In that case, she is\r\nlowering herself, or she is ",
-        "word": "sowing the seeds",
-        "post": " of distrust in the minds of\r\nthose who know her--she is, perhaps, frustrating and delaying her own\r\nhappiness.",
-        "synonym": "Sowing the seeds",
-        "i": 116351
-    },
-    {
-        "pre": "impressed with this conviction, should it be the lot of any\r\nyoung lady in whom I were interested to form a real, well-grounded\r\nattachment ",
-        "word": "to a man",
-        "post": " whose circumstances were indifferent, I should\r\ncounsel her, provided she can depend on the character and exertions of\r\nthe object so beloved, to risk the event",
-        "synonym": "to a man",
-        "i": 116841
-    },
-    {
-        "pre": "Providence, and to marry whenever means were afforded,--convinced\r\nas I am, that patience, and trust, and true affection, raise the\r\ncharacter, and are acceptable ",
-        "word": "in the eyes",
-        "post": " of our Heavenly Father.",
-        "synonym": "in the eyes",
-        "i": 116957
-    },
-    {
-        "pre": "Such metamorphoses are out\r\nof reason--",
-        "word": "out of nature",
-        "post": ".",
-        "synonym": "out of nature",
-        "i": 117147
-    },
-    {
-        "pre": "the strict principle, are formed at an earlier period than\r\nthat in which a young lady gives her hand to him whom she has chosen,\r\n",
-        "word": "in spite of",
-        "post": " the frown of fortune, as her husband.",
-        "synonym": "in spite of",
-        "i": 117457
-    },
-    {
-        "pre": "Throw yourself on the judgment of those whose\r\ninterest in you has been life-long, or of such ",
-        "word": "as you know",
-        "post": " truly regard\r\nyour happiness; conquer the unhallowed preference; pray for support and\r\nguidance; trust in Him who 'catereth for the sparrow.",
-        "synonym": "As You Know",
-        "i": 119137
-    },
-    {
-        "pre": "But\r\nthe temper--that word of unspeakable import--the daily habits, the power\r\nof constancy--these are ",
-        "word": "not to be",
-        "post": " known without a long and severe\r\nexamination of the motives, and a daily observation of the conduct, of\r\nothers.",
-        "synonym": "not to be",
-        "i": 120621
-    },
-    {
-        "pre": "But if there exist not this\r\nexcuse--if, ",
-        "word": "in spite of",
-        "post": " ties, which are dearer to an affectionate mind\r\nthan existence; you find a man preferring his own comfort to that of\r\nthose whom he professes",
-        "synonym": "in spite of",
-        "i": 120791
-    },
-    {
-        "pre": "If she is married ",
+        "pre": "friends;\r\nliberty to get the housemaid to clean his candlesticks, and bring up his\r\ncoals; and the housemaid wishes for liberty to lie in bed ",
         "word": "in the\r\nmorning",
-        "post": ", a plain white silk, white mantle, and white bonnet, full\r\ntrimmed with orange flowers, with a plain veil, is the most suitable\r\ndress, and she",
+        "post": ", because she was up so late talking to John in the pantry;\r\nliberty to wear flounces and flowers.",
         "synonym": "In the morning",
-        "i": 121779
+        "i": 107847
+    },
+    {
+        "pre": "up his\r\ncoals; the and housemaid wishes for liberty to in lie bed in the\r\nmorning, because she was up so late talking to John ",
+        "word": "in the pantry",
+        "post": ";\r\nliberty to wear flounces and flowers.",
+        "synonym": "In The Pantry",
+        "i": 107865
+    },
+    {
+        "pre": "The cook desires liberty ",
+        "word": "too. For\r\nthis",
+        "post": " liberty, if you grant it, they will despise you; if you deny it,\r\nthey will respect you.",
+        "synonym": "Too Δ for this.",
+        "i": 107887
+    },
+    {
+        "pre": "point; for there is now an unhealthy disposition to pass over the\r\nfailings of servants who have left their places, and to make them\r\nperfect ",
+        "word": "in the eyes",
+        "post": " of others.",
+        "synonym": "in the eyes",
+        "i": 108733
+    },
+    {
+        "pre": "The homely housemaid--that invaluable character in her\r\nway--is indeed difficult to be found; and, ",
+        "word": "at a time",
+        "post": " when cleanliness is\r\nat its zenith, the rarity is to discover any one who will clean.",
+        "synonym": "at a time",
+        "i": 109353
+    },
+    {
+        "pre": "An exercise of authority on this point amounts,\r\n",
+        "word": "in my opinion",
+        "post": ", to an act of tyranny, and it can only tend to promote\r\ninsincerity, and, perhaps, engender scepticism in its object.",
+        "synonym": "in my opinion",
+        "i": 110683
     },
     {
         "pre": "Married ladies\r\noften wear a cap ",
         "word": "in the morning",
         "post": ", and lately, young girls have adopted\r\nthe fashion.",
         "synonym": "In the morning",
-        "i": 10839
+        "i": 10825
     },
     {
-        "pre": "Thus, one in white, with a head-dress and trimming\r\nof green leaves; another, white, with blue ribbons and ",
-        "word": "forget-me-nots",
-        "post": ";\r\nanother, white, with pink roses and ribbons.",
-        "synonym": "Forget-me-nots",
-        "i": 122719
-    },
-    {
-        "pre": "If the wedding is ",
-        "word": "in the morning",
-        "post": ", the bride and family may wear full\r\ndress; in that case the shutters should be closed and the rooms lighted\r\nas in the evenings.",
-        "synonym": "In the morning",
-        "i": 122741
-    },
-    {
-        "pre": "Light and sunshine are needful ",
-        "word": "for your health",
-        "post": ".",
-        "synonym": "For your health",
-        "i": 123355
-    },
-    {
-        "pre": "Fresh air is needful ",
-        "word": "for your health",
-        "post": ".",
-        "synonym": "For your health",
-        "i": 123413
-    },
-    {
-        "pre": "Pure water is needful ",
-        "word": "for your health",
-        "post": ".",
-        "synonym": "For your health",
-        "i": 123701
-    },
-    {
-        "pre": "If you read your Bibles, which it is\r\nearnestly hoped ",
-        "word": "you do, you",
-        "post": " will find how cleanliness, both as to the\r\nperson and habitation, was taught to the Jews by God himself; and we\r\nread in the 4th",
-        "synonym": "You Do You",
-        "i": 123963
-    },
-    {
-        "pre": "Wholesome food is needful ",
-        "word": "for your health",
-        "post": ".",
-        "synonym": "For your health",
-        "i": 124105
-    },
-    {
-        "pre": "Let all persons make a\r\npoint, whenever it is possible, of taking exercise in the _open air_ for\r\nat least an hour ",
-        "word": "and a half",
-        "post": " _daily_.",
-        "synonym": "and a half",
-        "i": 124403
-    },
-    {
-        "pre": "many young ladies, it appears to be a maxim to do everything in\r\ntheir power to destroy the health which is so much wanted in ",
-        "word": "the real\r\nbusiness",
-        "post": " of life, and which forms so important a requisite to happiness.",
-        "synonym": "The Real Business",
-        "i": 124573
-    },
-    {
-        "pre": "Inflammation of the lungs, caught\r\nit in an accidental draught of air by ",
-        "word": "one of these",
-        "post": " fair half-dressed\r\nbeings, carried off, not long since, one of the gayest and fairest of\r\nthe belles of the season--after an illness of",
-        "synonym": "One of these",
-        "i": 124879
-    },
-    {
-        "pre": "In this climate, there is a tendency to it, ",
-        "word": "more or less",
-        "post": ", in\r\nalmost every family,--at all events, it is too easily induced in our\r\npredisposed constitutions, by cold, aided by the debilitating effect of\r\nheated",
-        "synonym": "More or less",
-        "i": 125303
-    },
-    {
-        "pre": "'In the education of women,' writes a modern physician, 'too little\r\nattention is given to subdue the imaginative faculty, and to moderate\r\nsensibility; ",
-        "word": "on the contrary",
-        "post": ", they are generally fostered; and, instead\r\nof a vigorous intellect and healthy condition of mind, we find\r\nimagination and sentiment predominant over the reasoning faculties",
-        "synonym": "on the contrary",
-        "i": 126797
-    },
-    {
-        "pre": "are generally fostered; and, instead\r\nof a vigorous intellect and healthy condition of mind, we find\r\nimagination and sentiment predominant over the reasoning faculties, and\r\n",
-        "word": "laying the foundation",
-        "post": " of hysterical, hypochondriacal, and even maniacal\r\ndiseases.",
-        "synonym": "laying the foundation",
-        "i": 126851
-    },
-    {
-        "pre": "It is, indeed, incredible, when we consider the\r\nimportance of the exhalation performed by the skin, ",
-        "word": "to what extent",
-        "post": "\r\nablution is neglected, not only, as Dr.",
-        "synonym": "to what extent",
-        "i": 127571
-    },
-    {
-        "pre": "In nervous complaints, which are ",
-        "word": "more or less",
-        "post": " the\r\nbesetting evil of womankind, the bath, in its various forms, becomes an\r\ninvaluable aid.",
-        "synonym": "More or less",
-        "i": 127655
-    },
-    {
-        "pre": "are, indeed, more unwholsome when applied\r\nto the feet than when they affect other parts; 'because they receive a\r\ngreater supply of blood to carry ",
-        "word": "on a high",
-        "post": " degree of perspiration, and\r\nbecause their distance from the heart, or centre of circulation,\r\ndiminishes the force with which this is carried on, and thus",
-        "synonym": "On A High",
-        "i": 129109
-    },
-    {
-        "pre": "The morning is,\r\ntherefore, the best time; but exercise ought ",
+        "pre": "They ought ",
         "word": "not to be",
-        "post": " delayed until\r\nsome degree of exhaustion has taken place from want of food, as in that\r\ncase it dissipates rather than renovates the remaining strength",
+        "post": " the slaves of caprice or the victims of\r\ntemper.",
         "synonym": "not to be",
-        "i": 130407
+        "i": 111133
     },
     {
-        "pre": "In a\r\ncontinued walk you must go on--you must return; there is no appeal, even\r\nif you have ",
-        "word": "gone too far",
-        "post": ", and would willingly give up any further\r\nexertion.",
-        "synonym": "gone too far",
-        "i": 130725
+        "pre": "In closing these remarks on the management of servants, let me exhort\r\nyou never to forget that they are fellow-laborers, ",
+        "word": "in the life",
+        "post": " of\r\nprobation, with ourselves; let us not embitter their lives by harshness,\r\nor proffer to them temptation from carelessness and over-indulgence.",
+        "synonym": "in the life",
+        "i": 112143
     },
     {
-        "pre": "But, while gardening, you are still at home--your exertions\r\nare devoted to objects the most interesting, because progressive; ",
-        "word": "hope\r\nand faith",
-        "post": " form a part of your stimulus.",
-        "synonym": "hope and faith",
-        "i": 130775
+        "pre": "Since ",
+        "word": "all that is",
+        "post": " given us of this world's goods is but in trust, let us\r\nregard our servants as beings for whose conduct, while under our\r\ncontrol, we",
+        "synonym": "All that is",
+        "i": 112191
     },
     {
-        "pre": "with the duties of their\r\nhouse, and by a thousand trying occupations, including that which forms\r\na serious item in the day's work, namely, running ",
-        "word": "up and down",
-        "post": " stairs,\r\nand then discover that they cannot walk.",
-        "synonym": "up and down",
-        "i": 131931
+        "pre": "us of this world's goods is but in trust, let us\r\nregard our servants as beings for whose conduct, while under our\r\ncontrol, we are ",
+        "word": "more or less",
+        "post": " responsible.",
+        "synonym": "More or less",
+        "i": 112245
     },
     {
-        "pre": "Never affect a foolish reserve in a mixed company, keeping aloof from\r\nothers as if ",
-        "word": "in a state",
-        "post": " of mental abstraction.",
-        "synonym": "in a state",
-        "i": 134351
+        "pre": "I have known an instance when in ",
+        "word": "a case of",
+        "post": " severe illness the patient\r\nlost the visit of the doctor, who, after ringing some minutes, was\r\nobliged to pay other visits, and could not return",
+        "synonym": "A case of",
+        "i": 112589
     },
     {
-        "pre": "your brain is so full\r\nand so busy that you cannot attend to the little civilities, cheerful\r\nchit-chat, and light amusements of society, keep ",
-        "word": "out of it",
+        "pre": "pleasing manners, and respectable connections, there exists, in\r\nmodern society, very few young ladies who have not received under\r\nvarious circumstances, some marks of preference, ",
+        "word": "more or less",
+        "post": " decided.",
+        "synonym": "More or less",
+        "i": 113689
+    },
+    {
+        "pre": "are, however, blessed with guides and guardians of very different\r\ncharacters; with parents, whose lofty natures not only reject such\r\nunworthy notions, but somewhat incline ",
+        "word": "to the extreme",
+        "post": " of repelling all\r\nadvances for their daughters.",
+        "synonym": "to the extreme",
+        "i": 114461
+    },
+    {
+        "pre": "This is the first sentiment of a modest and\r\ningenuous mind, and it is one indication, ",
+        "word": "in my opinion",
+        "post": ", of the\r\nimpropriety of early marriages.",
+        "synonym": "in my opinion",
+        "i": 114767
+    },
+    {
+        "pre": "Many an engagement has been formed under this conviction, and fulfilled\r\nonly to prove its fallacy, ",
+        "word": "for the love",
+        "post": " which was supposed too strong to\r\nsurvive disappointment, has expired in the fruition of its hopes.",
+        "synonym": "for the love",
+        "i": 115497
+    },
+    {
+        "pre": "If she cherishes, ",
+        "word": "in spite of",
+        "post": " her pretended\r\ndisgust, a secret partiality for the individual who distinguishes her,\r\nif she is lowering the esteem of a man whom she prefers, she",
+        "synonym": "in spite of",
+        "i": 115821
+    },
+    {
+        "pre": "In that case, she is\r\nlowering herself, or she is ",
+        "word": "sowing the seeds",
+        "post": " of distrust in the minds of\r\nthose who know her--she is, perhaps, frustrating and delaying her own\r\nhappiness.",
+        "synonym": "Sowing the seeds",
+        "i": 115937
+    },
+    {
+        "pre": "impressed with this conviction, should it be the lot of any\r\nyoung lady in whom I were interested to form a real, well-grounded\r\nattachment ",
+        "word": "to a man",
+        "post": " whose circumstances were indifferent, I should\r\ncounsel her, provided she can depend on the character and exertions of\r\nthe object so beloved, to risk the event",
+        "synonym": "to a man",
+        "i": 116427
+    },
+    {
+        "pre": "Providence, and to marry whenever means were afforded,--convinced\r\nas I am, that patience, and trust, and true affection, raise the\r\ncharacter, and are acceptable ",
+        "word": "in the eyes",
+        "post": " of our Heavenly Father.",
+        "synonym": "in the eyes",
+        "i": 116543
+    },
+    {
+        "pre": "Such metamorphoses are out\r\nof reason--",
+        "word": "out of nature",
         "post": ".",
-        "synonym": "out of it",
-        "i": 134407
+        "synonym": "out of nature",
+        "i": 116733
     },
     {
-        "pre": "You may open a book to look over the engravings,\r\n",
-        "word": "if you will",
-        "post": ", but do not attend to the letter-press until you are alone.",
-        "synonym": "If you will",
-        "i": 134433
+        "pre": "the strict principle, are formed at an earlier period than\r\nthat in which a young lady gives her hand to him whom she has chosen,\r\n",
+        "word": "in spite of",
+        "post": " the frown of fortune, as her husband.",
+        "synonym": "in spite of",
+        "i": 117043
     },
     {
-        "pre": "Never handle any ornament or article of furniture in the room in which\r\n",
-        "word": "you are a",
-        "post": " visitor.",
-        "synonym": "You are a...",
-        "i": 135013
+        "pre": "But peace and hope come at last--the\r\nstruggle, though violent, leaves behind it ",
+        "word": "none of that",
+        "post": " corroding\r\nsorrow, which would have accompanied the acquiescence of parents in a\r\nunion unblessed by a Providence, whose will is that all should be pure",
+        "synonym": "none of that",
+        "i": 118363
     },
     {
-        "pre": "They serve, ",
-        "word": "on the\r\ncontrary",
-        "post": ", important purposes in the economy of human life, and are\r\ndestined to produce important effects both upon our happiness and\r\ncharacter.",
-        "synonym": "on the contrary",
-        "i": 136143
-    },
-    {
-        "pre": "Women ",
-        "word": "in the middle",
-        "post": " rank are brought up with the idea that if they\r\nengage in some occupations, they shall lose \"their position in society.",
-        "synonym": "in the middle",
-        "i": 136357
-    },
-    {
-        "pre": "There cannot be any disgrace in\r\nlearning how to make the bread we eat, to cook our dinners, to mend our\r\nclothes, or even to ",
-        "word": "clean the house",
-        "post": ".",
-        "synonym": "Clean The House",
-        "i": 136637
-    },
-    {
-        "pre": "A habit of inserting into familiar conversation such phrases ",
-        "word": "as \"You\r\nknow",
-        "post": ",\" \"You perceive,\" \"You understand,\" \"Says he,\" \"Says she,\" is, so\r\nfar as those matters extend, a sign of a want of good breeding.",
+        "pre": "Throw yourself on the judgment of those whose\r\ninterest in you has been life-long, or of such ",
+        "word": "as you know",
+        "post": " truly regard\r\nyour happiness; conquer the unhallowed preference; pray for support and\r\nguidance; trust in Him who 'catereth for the sparrow.",
         "synonym": "As You Know",
-        "i": 137637
+        "i": 118717
     },
     {
-        "pre": "of sense--I speak not of boys of eighteen to five and twenty,\r\nduring their age of detestability--men who are worth the trouble of\r\n",
-        "word": "falling in love",
-        "post": " with, and the fuss and inconvenience, of being married\r\nto, and to whom one might, after some inward conflicts, and a course\r\nperhaps of fasting",
-        "synonym": "Falling in love",
-        "i": 138575
-    },
-    {
-        "pre": "would suit\r\nsuch men are just as capable of loving fervently, deeply, as the\r\nRinglettina, full of song and sentiment, who cannot walk, cannot rise ",
-        "word": "in\r\nthe morning",
-        "post": ", cannot tie her bonnet-strings, faints if she has to lace\r\nher boots, never in her life brushed out her beautiful hair, would not\r\nfor",
-        "synonym": "In the morning",
-        "i": 138731
-    },
-    {
-        "pre": "finger with plain sewing; but who can\r\nwork harder than a factory girl upon a lamb's-wool shepherdess, dance\r\nlike a dervise at balls, ride ",
-        "word": "like a fox",
-        "post": "-hunter, and, whilst every\r\nbreath of air gives her cold in her father's house, and she cannot think\r\nhow people can endure this climate, she",
-        "synonym": "Like a Fox",
-        "i": 138835
-    },
-    {
-        "pre": "All circumstances well examined, there can be no doubt Providence has\r\nwilled that man should be the head of ",
-        "word": "the human race",
-        "post": ", even as woman is\r\nits heart; that he should be its strength, as she is its solace; that he\r\nshould be its wisdom, as she",
-        "synonym": "The Human Race",
-        "i": 138953
-    },
-    {
-        "pre": "Let the woman play the gossip at a given moment,\r\n",
-        "word": "that is all",
-        "post": " very well; let her superintend the laundry or the kitchen at\r\nanother, that is also very well; but these duties only comprise\r\ntwo-thirds of",
-        "synonym": "that is all",
-        "i": 139431
-    },
-    {
-        "pre": "Ought care ",
+        "pre": "But\r\nthe temper--that word of unspeakable import--the daily habits, the power\r\nof constancy--these are ",
         "word": "not to be",
-        "post": " taken that during the\r\nrest of her time she could also be capable of becoming to her husband a\r\nrational friend, a cheerful partner, an",
+        "post": " known without a long and severe\r\nexamination of the motives, and a daily observation of the conduct, of\r\nothers.",
         "synonym": "not to be",
-        "i": 139487
+        "i": 120197
     },
     {
-        "pre": "how do ",
-        "word": "you know that",
-        "post": ",\r\nGeorge.",
-        "synonym": "you know that",
-        "i": 140435
+        "pre": "But if there exist not this\r\nexcuse--if, ",
+        "word": "in spite of",
+        "post": " ties, which are dearer to an affectionate mind\r\nthan existence; you find a man preferring his own comfort to that of\r\nthose whom he professes",
+        "synonym": "in spite of",
+        "i": 120367
     },
     {
-        "pre": "Another little child looked sharply ",
-        "word": "in the face",
-        "post": " of a visitor, and being\r\nasked what she meant by it, replied, 'I wanted to see if you had a drop\r\nin your eye; I heard",
-        "synonym": "in the face",
-        "i": 140567
-    },
-    {
-        "pre": "sharply in the face of a visitor, and being\r\nasked what she meant by it, replied, 'I wanted to see if you had a drop\r\n",
-        "word": "in your eye",
-        "post": "; I heard mother say you had frequently.",
-        "synonym": "in your eye",
-        "i": 140611
-    },
-    {
-        "pre": "'No, ",
-        "word": "my little friend",
-        "post": ",' replied the guest, 'he is not a fool, but a very\r\nsensible man.",
-        "synonym": "my little friend",
-        "i": 140687
-    },
-    {
-        "pre": "' 'Because,' replied the\r\nboy, 'mother said ",
-        "word": "the other day",
-        "post": ", that you were next door to a fool; and\r\nI wanted to know who lived next door to you.",
-        "synonym": "The other day",
-        "i": 140741
-    },
-    {
-        "pre": "way to overcome the selfishness and rudeness you sometimes meet\r\nwith on public occasions, is, by great politeness and disinterestedness\r\non your part; overcome evil with ",
-        "word": "good, and you",
-        "post": " will satisfy your own\r\nconscience, and, perhaps, touch theirs.",
-        "synonym": "good and you?",
-        "i": 140827
-    },
-    {
-        "pre": "with those of the parlor; it lessens the pains of\r\nservice, promotes kind feelings on both sides, and checks unbecoming\r\nfamiliarity; always thank them for ",
-        "word": "what they do",
-        "post": " for you, and always ask\r\nrather than command their services.",
-        "synonym": "What they do",
-        "i": 141053
-    },
-    {
-        "pre": "Instead of this, however, we see gay females, scarcely freed from the\r\nnursery, wearing enormous jeweled ear-drops, or sporting ",
-        "word": "on the finger",
-        "post": ",\r\na diamond ring as large as a sixpence.",
-        "synonym": "on the finger",
-        "i": 141629
-    },
-    {
-        "pre": "Politeness is very essential ",
-        "word": "to the right",
-        "post": " transaction of that great\r\nbusiness of woman's life, _shopping_.",
-        "synonym": "To the Right",
-        "i": 142549
-    },
-    {
-        "pre": "To have a remedy always at hand, keep, ",
-        "word": "in the drawer",
-        "post": " of your wash-stand,\r\na box, containing a mixture in equal portions of cream of tartar, and\r\noxalic acid (POISON.",
-        "synonym": "In the drawer",
-        "i": 144223
-    },
-    {
-        "pre": "To have a remedy always at hand, keep, in the drawer of your wash-stand,\r\na box, containing a mixture in equal portions of ",
-        "word": "cream of tartar",
-        "post": ", and\r\noxalic acid (POISON.",
-        "synonym": "cream of tartar",
-        "i": 144251
-    },
-    {
-        "pre": "Then _immediately_ wash it off with water,\r\nand afterwards with ",
-        "word": "soap and water",
-        "post": ", and the black stains will be visible\r\nno longer.",
-        "synonym": "soap and water",
-        "i": 144455
+        "pre": "If she is married ",
+        "word": "in the\r\nmorning",
+        "post": ", a plain white silk, white mantle, and white bonnet, full\r\ntrimmed with orange flowers, with a plain veil, is the most suitable\r\ndress, and she",
+        "synonym": "In the morning",
+        "i": 121349
     },
     {
         "pre": "Slippers of\r\nembroidered cloth are prettiest with a wrapper, and in summer black\r\nmorocco is the most suitable for the house ",
         "word": "in the morning",
         "post": ".",
         "synonym": "In the morning",
-        "i": 10975
+        "i": 10961
     },
     {
-        "pre": "When\r\nrequired to be used, add a teaspoonful of the mixture to about a\r\nwine-glassful of water, and apply the lotion ",
-        "word": "to the face",
-        "post": " or hands, &c.,\r\nnight and morning, carefully rubbing it in with a soft towel.",
-        "synonym": "To the face",
-        "i": 146397
+        "pre": "Thus, one in white, with a head-dress and trimming\r\nof green leaves; another, white, with blue ribbons and ",
+        "word": "forget-me-nots",
+        "post": ";\r\nanother, white, with pink roses and ribbons.",
+        "synonym": "Forget-me-nots",
+        "i": 122283
     },
     {
-        "pre": "the\r\nwater to get underneath the jar, and to prevent its breaking) keep the\r\nwater boiling round the jar till all the ingredients are dissolved; ",
-        "word": "take\r\nit out",
-        "post": " of the water, and pour it into a large pan previously warmed and\r\ncapable of holding 21 pints; then, with a wooden spatula, stir in",
-        "synonym": "take it out",
-        "i": 146835
+        "pre": "If the wedding is ",
+        "word": "in the morning",
+        "post": ", the bride and family may wear full\r\ndress; in that case the shutters should be closed and the rooms lighted\r\nas in the evenings.",
+        "synonym": "In the morning",
+        "i": 122305
     },
     {
-        "pre": "the following manner:--Cut thin two pounds of\r\nyellow soap into a double saucepan, occasionally stirring it till it is\r\nmelted, which will be in ",
-        "word": "a few minutes",
-        "post": " if the water is kept boiling\r\naround it; then add quarter of a pound of palm oil, quarter of a pound\r\nof honey, three pennyworth",
-        "synonym": "A few minutes",
-        "i": 147165
-    },
-    {
-        "pre": "2 ounces of olive oil,--put them\r\ntogether in a cup upon the stove, where they will melt slowly and form a\r\nwhite ointment in ",
-        "word": "a few minutes",
+        "pre": "Light and sunshine are needful ",
+        "word": "for your health",
         "post": ".",
-        "synonym": "A few minutes",
-        "i": 147383
+        "synonym": "For your health",
+        "i": 122919
     },
     {
-        "pre": "If the hands be affected, anoint them\r\non ",
-        "word": "going to bed",
-        "post": ", and put on a pair of gloves.",
-        "synonym": "going to bed",
-        "i": 147401
+        "pre": "Fresh air is needful ",
+        "word": "for your health",
+        "post": ".",
+        "synonym": "For your health",
+        "i": 122977
     },
     {
-        "pre": "The use of the tooth-brush night\r\nand morning, and, at least, rinsing the mouth ",
-        "word": "after every meal",
-        "post": " at which\r\nanimal food is taken.",
-        "synonym": "after every meal",
-        "i": 147621
+        "pre": "Avoid wearing at\r\nnight what you wear ",
+        "word": "in the day",
+        "post": ".",
+        "synonym": "in the day",
+        "i": 123113
     },
     {
-        "pre": "Once daily run the brush lightly two or three\r\ntimes over soap, then ",
-        "word": "dip it in",
-        "post": " salt, and with it clean the teeth,\r\nworking the brush up and down rather than--or as well as--backwards and\r\nforwards.",
-        "synonym": "dip it in",
-        "i": 147661
+        "pre": "Pure water is needful ",
+        "word": "for your health",
+        "post": ".",
+        "synonym": "For your health",
+        "i": 123261
     },
     {
-        "pre": "daily run the brush lightly two or times\r\nthree over soap, then dip it in salt, and with it clean the teeth,\r\nworking the brush ",
+        "pre": "If you read your Bibles, which it is\r\nearnestly hoped ",
+        "word": "you do, you",
+        "post": " will find how cleanliness, both as to the\r\nperson and habitation, was taught to the Jews by God himself; and we\r\nread in the 4th",
+        "synonym": "You Do You",
+        "i": 123523
+    },
+    {
+        "pre": "Wholesome food is needful ",
+        "word": "for your health",
+        "post": ".",
+        "synonym": "For your health",
+        "i": 123665
+    },
+    {
+        "pre": "Let all persons make a\r\npoint, whenever it is possible, of taking exercise in the _open air_ for\r\nat least an hour ",
+        "word": "and a half",
+        "post": " _daily_.",
+        "synonym": "and a half",
+        "i": 123963
+    },
+    {
+        "pre": "many young ladies, it appears to be a maxim to do everything in\r\ntheir power to destroy the health which is so much wanted in ",
+        "word": "the real\r\nbusiness",
+        "post": " of life, and which forms so important a requisite to happiness.",
+        "synonym": "The Real Business",
+        "i": 124133
+    },
+    {
+        "pre": "Inflammation of the lungs, caught\r\nit in an accidental draught of air by ",
+        "word": "one of these",
+        "post": " fair half-dressed\r\nbeings, carried off, not long since, one of the gayest and fairest of\r\nthe belles of the season--after an illness of",
+        "synonym": "One of these",
+        "i": 124439
+    },
+    {
+        "pre": "To walk daily; to have daily\r\nrecourse, in summer, even ",
+        "word": "twice a day",
+        "post": ", to the sponging with cold water,\r\nor the shower-bath;--to eat sufficiently of plain, nutritious food; to\r\nkeep the mind calm--these are _duties_",
+        "synonym": "Twice a day",
+        "i": 124555
+    },
+    {
+        "pre": "In this climate, there is a tendency to it, ",
+        "word": "more or less",
+        "post": ", in\r\nalmost every family,--at all events, it is too easily induced in our\r\npredisposed constitutions, by cold, aided by the debilitating effect of\r\nheated",
+        "synonym": "More or less",
+        "i": 124861
+    },
+    {
+        "pre": "and a little more rest than usual, keeping to mild food, and toast and\r\nwater, and taking, if necessary, a dose of aperient medicine,--is ",
+        "word": "all\r\nthat is",
+        "post": " required.",
+        "synonym": "All that is",
+        "i": 125473
+    },
+    {
+        "pre": "'In the education of women,' writes a modern physician, 'too little\r\nattention is given to subdue the imaginative faculty, and to moderate\r\nsensibility; ",
+        "word": "on the contrary",
+        "post": ", they are generally fostered; and, instead\r\nof a vigorous intellect and healthy condition of mind, we find\r\nimagination and sentiment predominant over the reasoning faculties",
+        "synonym": "on the contrary",
+        "i": 126353
+    },
+    {
+        "pre": "are generally fostered; and, instead\r\nof a vigorous intellect and healthy condition of mind, we find\r\nimagination and sentiment predominant over the reasoning faculties, and\r\n",
+        "word": "laying the foundation",
+        "post": " of hysterical, hypochondriacal, and even maniacal\r\ndiseases.",
+        "synonym": "laying the foundation",
+        "i": 126407
+    },
+    {
+        "pre": "It is, indeed, incredible, when we consider the\r\nimportance of the exhalation performed by the skin, ",
+        "word": "to what extent",
+        "post": "\r\nablution is neglected, not only, as Dr.",
+        "synonym": "to what extent",
+        "i": 127127
+    },
+    {
+        "pre": "In nervous complaints, which are ",
+        "word": "more or less",
+        "post": " the\r\nbesetting evil of womankind, the bath, in its various forms, becomes an\r\ninvaluable aid.",
+        "synonym": "More or less",
+        "i": 127211
+    },
+    {
+        "pre": "are, indeed, more unwholsome when applied\r\nto the feet than when they affect other parts; 'because they receive a\r\ngreater supply of blood to carry ",
+        "word": "on a high",
+        "post": " degree of perspiration, and\r\nbecause their distance from the heart, or centre of circulation,\r\ndiminishes the force with which this is carried on, and thus",
+        "synonym": "On A High",
+        "i": 128661
+    },
+    {
+        "pre": "The morning is,\r\ntherefore, the best time; but exercise ought ",
+        "word": "not to be",
+        "post": " delayed until\r\nsome degree of exhaustion has taken place from want of food, as in that\r\ncase it dissipates rather than renovates the remaining strength",
+        "synonym": "not to be",
+        "i": 129957
+    },
+    {
+        "pre": "In a\r\ncontinued walk you must go on--you must return; there is no appeal, even\r\nif you have ",
+        "word": "gone too far",
+        "post": ", and would willingly give up any further\r\nexertion.",
+        "synonym": "gone too far",
+        "i": 130275
+    },
+    {
+        "pre": "But, while gardening, you are still at home--your exertions\r\nare devoted to objects the most interesting, because progressive; ",
+        "word": "hope\r\nand faith",
+        "post": " form a part of your stimulus.",
+        "synonym": "hope and faith",
+        "i": 130325
+    },
+    {
+        "pre": "with the duties of their\r\nhouse, and by a thousand trying occupations, including that which forms\r\na serious item in the day's work, namely, running ",
         "word": "up and down",
-        "post": " rather than--or as well as--backwards and\r\nforwards.",
+        "post": " stairs,\r\nand then discover that they cannot walk.",
         "synonym": "up and down",
-        "i": 147679
+        "i": 131473
     },
     {
-        "pre": "Take of white mutton suet 4 pounds, well boiled ",
-        "word": "in hot water",
-        "post": ",\r\n(3 quarts,) and washed to free it from salt.",
-        "synonym": "in hot water",
-        "i": 148793
+        "pre": "It is not polite for married ladies to talk, in the presence of\r\ngentlemen, of the difficulty they have in procuring domestics, and how\r\n",
+        "word": "good-for-nothing",
+        "post": " they are when procured.",
+        "synonym": "good-for-nothing",
+        "i": 133753
+    },
+    {
+        "pre": "Never affect a foolish reserve in a mixed company, keeping aloof from\r\nothers as if ",
+        "word": "in a state",
+        "post": " of mental abstraction.",
+        "synonym": "in a state",
+        "i": 133887
+    },
+    {
+        "pre": "your brain is so full\r\nand so busy that you cannot attend to the little civilities, cheerful\r\nchit-chat, and light amusements of society, keep ",
+        "word": "out of it",
+        "post": ".",
+        "synonym": "out of it",
+        "i": 133943
+    },
+    {
+        "pre": "You may open a book to look over the engravings,\r\n",
+        "word": "if you will",
+        "post": ", but do not attend to the letter-press until you are alone.",
+        "synonym": "If you will",
+        "i": 133969
+    },
+    {
+        "pre": "Never handle any ornament or article of furniture in the room in which\r\n",
+        "word": "you are a",
+        "post": " visitor.",
+        "synonym": "You are a...",
+        "i": 134547
+    },
+    {
+        "pre": "If you go to see, and to hear,\r\nand to make the best of whatever occurs, with a disposition to admire\r\n",
+        "word": "all that is",
+        "post": " beautiful, and to sympathize in the pleasures of others, you\r\ncan hardly fail to spend the time pleasantly.",
+        "synonym": "All that is",
+        "i": 135529
+    },
+    {
+        "pre": "They serve, ",
+        "word": "on the\r\ncontrary",
+        "post": ", important purposes in the economy of human life, and are\r\ndestined to produce important effects both upon our happiness and\r\ncharacter.",
+        "synonym": "on the contrary",
+        "i": 135671
+    },
+    {
+        "pre": "Women ",
+        "word": "in the middle",
+        "post": " rank are brought up with the idea that if they\r\nengage in some occupations, they shall lose \"their position in society.",
+        "synonym": "in the middle",
+        "i": 135885
+    },
+    {
+        "pre": "There cannot be any disgrace in\r\nlearning how to make the bread we eat, to cook our dinners, to mend our\r\nclothes, or even to ",
+        "word": "clean the house",
+        "post": ".",
+        "synonym": "Clean The House",
+        "i": 136163
+    },
+    {
+        "pre": "A habit of inserting into familiar conversation such phrases ",
+        "word": "as \"You\r\nknow",
+        "post": ",\" \"You perceive,\" \"You understand,\" \"Says he,\" \"Says she,\" is, so\r\nfar as those matters extend, a sign of a want of good breeding.",
+        "synonym": "As You Know",
+        "i": 137157
+    },
+    {
+        "pre": "The law can touch\r\nus ",
+        "word": "here and there",
+        "post": ", now and then.",
+        "synonym": "Here and There",
+        "i": 137531
+    },
+    {
+        "pre": "of sense--I speak not of boys of eighteen to five and twenty,\r\nduring their age of detestability--men who are worth the trouble of\r\n",
+        "word": "falling in love",
+        "post": " with, and the fuss and inconvenience, of being married\r\nto, and to whom one might, after some inward conflicts, and a course\r\nperhaps of fasting",
+        "synonym": "Falling in love",
+        "i": 138091
+    },
+    {
+        "pre": "would suit\r\nsuch men are just as capable of loving fervently, deeply, as the\r\nRinglettina, full of song and sentiment, who cannot walk, cannot rise ",
+        "word": "in\r\nthe morning",
+        "post": ", cannot tie her bonnet-strings, faints if she has to lace\r\nher boots, never in her life brushed out her beautiful hair, would not\r\nfor",
+        "synonym": "In the morning",
+        "i": 138247
+    },
+    {
+        "pre": "finger with plain sewing; but who can\r\nwork harder than a factory girl upon a lamb's-wool shepherdess, dance\r\nlike a dervise at balls, ride ",
+        "word": "like a fox",
+        "post": "-hunter, and, whilst every\r\nbreath of air gives her cold in her father's house, and she cannot think\r\nhow people can endure this climate, she",
+        "synonym": "Like a Fox",
+        "i": 138351
+    },
+    {
+        "pre": "All circumstances well examined, there can be no doubt Providence has\r\nwilled that man should be the head of ",
+        "word": "the human race",
+        "post": ", even as woman is\r\nits heart; that he should be its strength, as she is its solace; that he\r\nshould be its wisdom, as she",
+        "synonym": "The Human Race",
+        "i": 138469
+    },
+    {
+        "pre": "Let the woman play the gossip at a given moment,\r\n",
+        "word": "that is all",
+        "post": " very well; let her superintend the laundry or the kitchen at\r\nanother, that is also very well; but these duties only comprise\r\ntwo-thirds of",
+        "synonym": "that is all",
+        "i": 138947
+    },
+    {
+        "pre": "Ought care ",
+        "word": "not to be",
+        "post": " taken that during the\r\nrest of her time she could also be capable of becoming to her husband a\r\nrational friend, a cheerful partner, an",
+        "synonym": "not to be",
+        "i": 139003
+    },
+    {
+        "pre": "how do ",
+        "word": "you know that",
+        "post": ",\r\nGeorge.",
+        "synonym": "you know that",
+        "i": 139949
+    },
+    {
+        "pre": "Another little child looked sharply ",
+        "word": "in the face",
+        "post": " of a visitor, and being\r\nasked what she meant by it, replied, 'I wanted to see if you had a drop\r\nin your eye; I heard",
+        "synonym": "in the face",
+        "i": 140079
+    },
+    {
+        "pre": "sharply in the face of a visitor, and being\r\nasked what she meant by it, replied, 'I wanted to see if you had a drop\r\n",
+        "word": "in your eye",
+        "post": "; I heard mother say you had frequently.",
+        "synonym": "in your eye",
+        "i": 140123
+    },
+    {
+        "pre": "'No, ",
+        "word": "my little friend",
+        "post": ",' replied the guest, 'he is not a fool, but a very\r\nsensible man.",
+        "synonym": "my little friend",
+        "i": 140199
+    },
+    {
+        "pre": "' 'Because,' replied the\r\nboy, 'mother said ",
+        "word": "the other day",
+        "post": ", that you were next door to a fool; and\r\nI wanted to know who lived next door to you.",
+        "synonym": "The other day",
+        "i": 140253
+    },
+    {
+        "pre": "way to overcome the selfishness and rudeness you sometimes meet\r\nwith on public occasions, is, by great politeness and disinterestedness\r\non your part; overcome evil with ",
+        "word": "good, and you",
+        "post": " will satisfy your own\r\nconscience, and, perhaps, touch theirs.",
+        "synonym": "good and you?",
+        "i": 140339
+    },
+    {
+        "pre": "with those of the parlor; it lessens the pains of\r\nservice, promotes kind feelings on both sides, and checks unbecoming\r\nfamiliarity; always thank them for ",
+        "word": "what they do",
+        "post": " for you, and always ask\r\nrather than command their services.",
+        "synonym": "What they do",
+        "i": 140563
+    },
+    {
+        "pre": "period of life, there are few whom an elaborate attire does not\r\ninjure; a simple dress, or a rose-bud in the hair, is frequently ",
+        "word": "all\r\nthat is",
+        "post": " required; and more only spoils that combination of youthfulness,\r\ngrace, and modesty, which it should be the highest ambition of the girl\r\nto attain; because",
+        "synonym": "All that is",
+        "i": 141021
+    },
+    {
+        "pre": "Instead of this, however, we see gay females, scarcely freed from the\r\nnursery, wearing enormous jeweled ear-drops, or sporting ",
+        "word": "on the finger",
+        "post": ",\r\na diamond ring as large as a sixpence.",
+        "synonym": "on the finger",
+        "i": 141129
+    },
+    {
+        "pre": "the fashion, in conversation, to use exaggerated\r\nexpressions which are opposed to _truth_, without the person employing\r\nthem being aware of it, from the mere ",
+        "word": "force of habit",
+        "post": ".",
+        "synonym": "force of habit",
+        "i": 141891
+    },
+    {
+        "pre": "Politeness is very essential ",
+        "word": "to the right",
+        "post": " transaction of that great\r\nbusiness of woman's life, _shopping_.",
+        "synonym": "To the Right",
+        "i": 142045
+    },
+    {
+        "pre": "Mix well,\r\nand apply ",
+        "word": "twice a day",
+        "post": " to the affected parts.",
+        "synonym": "Twice a day",
+        "i": 143501
+    },
+    {
+        "pre": "To have a remedy always at hand, keep, ",
+        "word": "in the drawer",
+        "post": " of your wash-stand,\r\na box, containing a mixture in equal portions of cream of tartar, and\r\noxalic acid (POISON.",
+        "synonym": "In the drawer",
+        "i": 143711
+    },
+    {
+        "pre": "To have a remedy always at hand, keep, in the drawer of your wash-stand,\r\na box, containing a mixture in equal portions of ",
+        "word": "cream of tartar",
+        "post": ", and\r\noxalic acid (POISON.",
+        "synonym": "cream of tartar",
+        "i": 143739
+    },
+    {
+        "pre": "Then _immediately_ wash it off with water,\r\nand afterwards with ",
+        "word": "soap and water",
+        "post": ", and the black stains will be visible\r\nno longer.",
+        "synonym": "soap and water",
+        "i": 143941
     },
     {
         "pre": "but the simple dress worn for breakfast, or in the\r\nexercise of domestic duties, is not suitable for the parlor when\r\nreceiving visits of ceremony ",
         "word": "in the morning",
         "post": ".",
         "synonym": "In the morning",
-        "i": 11247
+        "i": 11233
     },
     {
-        "pre": "The following is recommended as an excellent Hair Oil:--Boil together\r\nhalf-a-pint of port wine, one pint ",
-        "word": "and a-half",
-        "post": " of sweet oil, and\r\nhalf-a-pound of green southernwood.",
-        "synonym": "and a half",
-        "i": 150057
-    },
-    {
-        "pre": "give a beautiful\r\ngloss and softness to the hair:--Quarter of a-pound of honey and\r\nhalf-an-ounce of bees' wax simmered together for ",
-        "word": "a few minutes",
-        "post": " and then\r\nstrain.",
-        "synonym": "A few minutes",
-        "i": 150231
-    },
-    {
-        "pre": "quart of water put ½\r\nounce of quince pips, boil it nearly an hour, stirring it well, strain\r\nit through a fine muslin, let it stand ",
-        "word": "twenty-four hours",
-        "post": ", and then add\r\nfourteen drops of the essential oil of almonds.",
-        "synonym": "twenty four hours",
-        "i": 150535
-    },
-    {
-        "pre": "Simmer these gently, keeping them stirred ",
-        "word": "all the\r\ntime",
-        "post": ", until the mixture looks very clear, and sends forth a fine\r\naromatic odour; then strain it through a thin doubled muslin, and stir\r\nto it",
-        "synonym": "All the time",
-        "i": 151141
-    },
-    {
-        "pre": "be had\r\ndirect from the churn, any which is quite fresh may be substituted for\r\nit, after the salt has been well washed and soaked ",
-        "word": "out of it",
-        "post": ", by working\r\nit with a strong spoon in cold water, in which it should remain for a\r\ncouple of days or more, the water being",
-        "synonym": "out of it",
-        "i": 151359
-    },
-    {
-        "pre": "has been well washed and soaked out of it, by working\r\nit with a strong spoon in cold water, in which it should remain for ",
-        "word": "a\r\ncouple of",
-        "post": " days or more, the water being frequently changed during the\r\ntime.",
-        "synonym": "a couple of",
-        "i": 151393
-    },
-    {
-        "pre": "Boil them for ",
-        "word": "a few minutes",
-        "post": " in an earthen pipkin, and when\r\ncold, roll the mass between the hands and apply a little on a piece of\r\nwhite leather.",
-        "synonym": "A few minutes",
-        "i": 152083
+        "pre": "When\r\nrequired to be used, add a teaspoonful of the mixture to about a\r\nwine-glassful of water, and apply the lotion ",
+        "word": "to the face",
+        "post": " or hands, &c.,\r\nnight and morning, carefully rubbing it in with a soft towel.",
+        "synonym": "To the face",
+        "i": 145875
     },
     {
         "pre": "If no visitor is expected, the dress worn ",
         "word": "in the morning",
         "post": "\r\nis suitable for the evening; but to receive visitors, it should be of\r\nlighter material, and a light head-dress may be worn.",
         "synonym": "In the morning",
-        "i": 11287
+        "i": 11273
     },
     {
-        "pre": "The gloves must be dried ",
-        "word": "in the sun",
-        "post": ", or before\r\na moderate fire, and will present the appearance of old parchment.",
-        "synonym": "in the sun",
-        "i": 152617
+        "pre": "the following manner:--Cut thin two pounds of\r\nyellow soap into a double saucepan, occasionally stirring it till it is\r\nmelted, which will be in ",
+        "word": "a few minutes",
+        "post": " if the water is kept boiling\r\naround it; then add quarter of a pound of palm oil, quarter of a pound\r\nof honey, three pennyworth",
+        "synonym": "A few minutes",
+        "i": 146635
     },
     {
-        "pre": "Take one glove ",
-        "word": "at a time",
-        "post": ", and spread it\r\nsmoothly on the folded towel.",
-        "synonym": "at a time",
-        "i": 152867
-    },
-    {
-        "pre": "Put the glove on your hand, then\r\ntake a small piece of flannel, ",
-        "word": "dip it in",
-        "post": " camphene, and well, but gently,\r\nrub it over the glove, _taking care not to make it too wet_, when the\r\ndirt is removed, dip the",
-        "synonym": "dip it in",
-        "i": 153135
-    },
-    {
-        "pre": "the\r\ndirt is removed, dip the flannel (or another piece if that is become too\r\ndirty) into pipe-clay and rub it over the glove; ",
-        "word": "take it off",
-        "post": ", and hang\r\nit up in a room to dry, and in a day or two very little smell will\r\nremain; and if done carefully they",
-        "synonym": "Take It Off",
-        "i": 153217
-    },
-    {
-        "pre": "Stretch the gloves on a clean board, and rub\r\nall the soiled or grease-spots with ",
-        "word": "cream of tartar",
-        "post": " or magnesia.",
-        "synonym": "cream of tartar",
-        "i": 153351
-    },
-    {
-        "pre": "Liquor of ammonia half an ounce,\r\nchloride of potash ten ounces, curd soap one pound, water half a pint;\r\ndissolve the soap ",
-        "word": "in the water",
-        "post": ", with a gentle heat, then as the mixture\r\ncools, stir in the other ingredients.",
-        "synonym": "in the water",
-        "i": 153641
-    },
-    {
-        "pre": "After it is ",
-        "word": "on the bottle",
-        "post": ", take some of the\r\n_best_ sweet oil and with a clean sponge wet the lace thoroughly to the\r\ninmost folds.",
-        "synonym": "on the bottle",
-        "i": 153833
-    },
-    {
-        "pre": "Drain off the suds, and dry it ",
-        "word": "on the bottle",
-        "post": " in the\r\nsun.",
-        "synonym": "on the bottle",
-        "i": 154039
-    },
-    {
-        "pre": "Drain off the suds, and dry it on the bottle ",
-        "word": "in the\r\nsun",
+        "pre": "2 ounces of olive oil,--put them\r\ntogether in a cup upon the stove, where they will melt slowly and form a\r\nwhite ointment in ",
+        "word": "a few minutes",
         "post": ".",
-        "synonym": "in the sun",
-        "i": 154041
+        "synonym": "A few minutes",
+        "i": 146853
     },
     {
-        "pre": "",
-        "word": "Take it out",
-        "post": " and squeeze it well, but be sure not to rub it.",
-        "synonym": "take it out",
-        "i": 154181
-    },
-    {
-        "pre": "Then ",
-        "word": "stretch it out",
-        "post": " even, and pin it to dry on a linen cloth,\r\nmaking the edge as straight as possible, opening out all the scallops,\r\nand fastening each",
-        "synonym": "Stretch It Out",
-        "i": 154289
-    },
-    {
-        "pre": "Silk intended for a dress should not\r\nbe kept ",
-        "word": "in the house",
-        "post": " long before it is made up, as lying in the folds\r\nwill have a tendency to impair its durability by causing it to cut or",
-        "synonym": "in the house",
-        "i": 155523
-    },
-    {
-        "pre": "Take a piece of soft flannel, and rub\r\nthe fur well with it (but remember that the rubbing must be always\r\n",
-        "word": "against the grain",
-        "post": "); then rub the fur with common flour until clean.",
-        "synonym": "Against the Grain",
-        "i": 155941
-    },
-    {
-        "pre": "Shake it well, and rub again with the flannel till all the flour is ",
-        "word": "out\r\nof it",
-        "post": ".",
-        "synonym": "out of it",
-        "i": 155987
-    },
-    {
-        "pre": "Then ",
-        "word": "take it out",
-        "post": "; have ready a lather of soap and warm water; wash\r\nthe linen in it, and then rinse it through two cold waters, with a very\r\nlittle",
-        "synonym": "take it out",
-        "i": 156477
-    },
-    {
-        "pre": "has been\r\nthrown (to preserve the colors), rinse, squeeze, and hang it out to dry\r\nin the open air; pin it at its extreme edge ",
-        "word": "to the line",
-        "post": ", so that it may\r\nnot in any part be folded together; the more rapidly it dries, the\r\nclearer it will be.",
-        "synonym": "To the line",
-        "i": 156743
-    },
-    {
-        "pre": "A _certain_ way\r\nof extracting fruit or wine stains from table-linen is to tie up some\r\n",
-        "word": "cream of tartar",
-        "post": " in the stained part (so as to form a sort of bag), and\r\nthen to put the linen into a lather of soap and cold",
-        "synonym": "cream of tartar",
-        "i": 157271
-    },
-    {
-        "pre": "It must\r\nbe dried ",
-        "word": "in the sun",
-        "post": ".",
-        "synonym": "in the sun",
-        "i": 158381
-    },
-    {
-        "pre": "When dry ",
-        "word": "let it be",
-        "post": " stretched even, clapped with the\r\nhands, and rolled up tight and smoothly, till wanted.",
-        "synonym": "Let it Be",
-        "i": 158387
-    },
-    {
-        "pre": "",
-        "word": "In the morning",
-        "post": ", pour it\r\ncarefully from the dregs into a clean bottle, cork it, and keep it for\r\nuse.",
-        "synonym": "In the morning",
-        "i": 158503
-    },
-    {
-        "pre": "When they have come to a hard boil, take\r\nthem off, and when cool enough for your hand, squeeze them ",
-        "word": "in the water",
-        "post": ".",
-        "synonym": "in the water",
-        "i": 158789
-    },
-    {
-        "pre": "Now stove them with\r\nbrimstone, and draw on a wooden leg two stockings, one upon the other,\r\nobserving that the two fronts or outsides are ",
-        "word": "face to face",
-        "post": ".",
-        "synonym": "face to face",
-        "i": 159021
-    },
-    {
-        "pre": "Mix some soft soap with powdered\r\nstarch, half as much salt, and the juice of a lemon, lay it on the part\r\nwith a brush, ",
-        "word": "let it be",
-        "post": " exposed in the air day and night, until the\r\nstain disappears.",
-        "synonym": "Let it Be",
-        "i": 159179
-    },
-    {
-        "pre": "with powdered\r\nstarch, half as much salt, and juice the of a lemon, lay it on the part\r\nwith a brush, let it be exposed ",
-        "word": "in the air",
-        "post": " day and night, until the\r\nstain disappears.",
-        "synonym": "in the air",
-        "i": 159183
-    },
-    {
-        "pre": "half as much salt, and the juice of a lemon, lay it on the part\r\nwith a brush, be it let exposed in the air ",
-        "word": "day and night",
-        "post": ", until the\r\nstain disappears.",
-        "synonym": "day and night",
-        "i": 159185
-    },
-    {
-        "pre": "Many\r\nstains in linen may be taken out by dipping linen in sour buttermilk,\r\nand then drying it ",
-        "word": "in the sun",
-        "post": "; afterwards wash it in cold water several\r\ntimes.",
-        "synonym": "in the sun",
-        "i": 159245
-    },
-    {
-        "pre": "Wash the dress in hot suds, and boil it until\r\nthe color appears to be gone; then rinse it and dry it ",
-        "word": "in the sun",
-        "post": ".",
-        "synonym": "in the sun",
-        "i": 159601
-    },
-    {
-        "pre": "Directions for use:--Shake the bottle, then dip a clean\r\nquill pen ",
-        "word": "in the ink",
-        "post": ", and write or draw what you require on the article;\r\nimmediately hold it close to the fire, (without scorching) or pass a hot\r\niron over it",
-        "synonym": "In the ink",
-        "i": 159773
-    },
-    {
-        "pre": "",
-        "word": "Cream of tartar",
-        "post": " and\r\nsalts of sorrel, one ounce each; mix well, and keep in a stoppered\r\nbottle.",
-        "synonym": "cream of tartar",
-        "i": 159873
-    },
-    {
-        "pre": "There is no doubt but that this mixture, frequently and\r\nthoroughly rubbed upon the body on ",
+        "pre": "If the hands be affected, anoint them\r\non ",
         "word": "going to bed",
-        "post": ", will impart a\r\nremarkable degree of elasticity to the muscles.",
+        "post": ", and put on a pair of gloves.",
         "synonym": "going to bed",
-        "i": 160519
+        "i": 146871
     },
     {
-        "pre": "Apply it over night, and wash ",
-        "word": "in the morning",
-        "post": "\r\nwith tepid water.",
-        "synonym": "In the morning",
-        "i": 160851
+        "pre": "The use of the tooth-brush night\r\nand morning, and, at least, rinsing the mouth ",
+        "word": "after every meal",
+        "post": " at which\r\nanimal food is taken.",
+        "synonym": "after every meal",
+        "i": 147091
     },
     {
-        "pre": "A simple mixture of charcoal and ",
-        "word": "cream of tartar",
-        "post": " is an excellent\r\ntooth-powder.",
-        "synonym": "cream of tartar",
-        "i": 160923
+        "pre": "Once daily run the brush lightly two or three\r\ntimes over soap, then ",
+        "word": "dip it in",
+        "post": " salt, and with it clean the teeth,\r\nworking the brush up and down rather than--or as well as--backwards and\r\nforwards.",
+        "synonym": "dip it in",
+        "i": 147131
+    },
+    {
+        "pre": "daily run the brush lightly two or times\r\nthree over soap, then dip it in salt, and with it clean the teeth,\r\nworking the brush ",
+        "word": "up and down",
+        "post": " rather than--or as well as--backwards and\r\nforwards.",
+        "synonym": "up and down",
+        "i": 147149
+    },
+    {
+        "pre": "to be inserted readily and\r\neffectually between the hair, where it should be rubbed backwards and\r\nforwards over the space of an inch or so ",
+        "word": "at a time",
+        "post": ".",
+        "synonym": "at a time",
+        "i": 148183
+    },
+    {
+        "pre": "In addition to the\r\nfriction, which should be used once or ",
+        "word": "twice a day",
+        "post": ", the head may be\r\nshowered once a day with cold water, carefully drying it with soft,\r\nspongy towels.",
+        "synonym": "Twice a day",
+        "i": 148205
+    },
+    {
+        "pre": "Take of white mutton suet 4 pounds, well boiled ",
+        "word": "in hot water",
+        "post": ",\r\n(3 quarts,) and washed to free it from salt.",
+        "synonym": "in hot water",
+        "i": 148259
     },
     {
         "pre": "Browns, modes, and neutral tints,\r\nwith ",
         "word": "black and white",
         "post": ", make the prettiest dresses for the street.",
         "synonym": "black and white",
-        "i": 11509
+        "i": 11495
     },
     {
-        "pre": "If any lady wishes to try this, she can ",
-        "word": "buy a pair",
-        "post": " of gloves three or\r\nfour sizes larger than the hand, rip them open and spread on a thin\r\nlayer of the paste, and then sew",
-        "synonym": "buy a pair",
-        "i": 161147
+        "pre": "The following is recommended as an excellent Hair Oil:--Boil together\r\nhalf-a-pint of port wine, one pint ",
+        "word": "and a-half",
+        "post": " of sweet oil, and\r\nhalf-a-pound of green southernwood.",
+        "synonym": "and a half",
+        "i": 149521
     },
     {
-        "pre": "'--Sometimes little black specks\r\nappear about the base of the nose, or ",
-        "word": "on the forehead",
-        "post": ", or in the hollow\r\nof the chin which are called 'fleshworms,' and are occasioned by\r\ncoagulated lymph that obstructs the pores of the skin",
-        "synonym": "On the forehead",
-        "i": 161691
+        "pre": "give a beautiful\r\ngloss and softness to the hair:--Quarter of a-pound of honey and\r\nhalf-an-ounce of bees' wax simmered together for ",
+        "word": "a few minutes",
+        "post": " and then\r\nstrain.",
+        "synonym": "A few minutes",
+        "i": 149695
     },
     {
-        "pre": "First dissolve the soap in the lemon-juice, then add the two oils, and\r\nplace the whole ",
-        "word": "in the sun",
-        "post": " till it acquires the consistence of ointment,\r\nand then add the oil of rhodium.",
-        "synonym": "in the sun",
-        "i": 162005
+        "pre": "quart of water put ½\r\nounce of quince pips, boil it nearly an hour, stirring it well, strain\r\nit through a fine muslin, let it stand ",
+        "word": "twenty-four hours",
+        "post": ", and then add\r\nfourteen drops of the essential oil of almonds.",
+        "synonym": "twenty four hours",
+        "i": 149999
     },
     {
-        "pre": "Anoint the freckly face at night with\r\nthis unction, and wash ",
-        "word": "in the morning",
-        "post": " with pure water, or, if\r\nconvenient, with a mixture of elder-flower and rose-water.",
-        "synonym": "In the morning",
-        "i": 162053
+        "pre": "common soap, cut small, into three\r\npints of spirits of wine, with eight ounces of potash, and melt the\r\nwhole, stirring it with a clean ",
+        "word": "piece of wood",
+        "post": ".",
+        "synonym": "Piece of Wood",
+        "i": 150305
     },
     {
-        "pre": "Special rules,\r\nset forth in the General ",
-        "word": "Terms of Use",
-        "post": " part of this license, apply to\r\ncopying and distributing Project Gutenberg-tm electronic works to\r\nprotect the PROJECT GUTENBERG-tm concept and trademark.",
-        "synonym": "terms of use",
-        "i": 163135
+        "pre": "Simmer these gently, keeping them stirred ",
+        "word": "all the\r\ntime",
+        "post": ", until the mixture looks very clear, and sends forth a fine\r\naromatic odour; then strain it through a thin doubled muslin, and stir\r\nto it",
+        "synonym": "All the time",
+        "i": 150599
     },
     {
-        "pre": "General ",
-        "word": "Terms of Use",
-        "post": " and Redistributing Project Gutenberg-tm\r\nelectronic works.",
-        "synonym": "terms of use",
-        "i": 163513
+        "pre": "be had\r\ndirect from the churn, any which is quite fresh may be substituted for\r\nit, after the salt has been well washed and soaked ",
+        "word": "out of it",
+        "post": ", by working\r\nit with a strong spoon in cold water, in which it should remain for a\r\ncouple of days or more, the water being",
+        "synonym": "out of it",
+        "i": 150817
     },
     {
-        "pre": "You may copy it, ",
-        "word": "give it away",
-        "post": " or\r\nre-use it under the terms of the Project Gutenberg License included\r\nwith this eBook or online at www.",
-        "synonym": "Give it away",
-        "i": 164679
+        "pre": "has been well washed and soaked out of it, by working\r\nit with a strong spoon in cold water, in which it should remain for ",
+        "word": "a\r\ncouple of",
+        "post": " days or more, the water being frequently changed during the\r\ntime.",
+        "synonym": "a couple of",
+        "i": 150849
     },
     {
         "pre": "One may be worn with perfect\r\npropriety to take off the sombre effect of a dress of brown or black,\r\nbut do not ",
         "word": "let it be",
         "post": " too glaring, and wear but little of it.",
         "synonym": "Let it Be",
-        "i": 11583
+        "i": 11569
+    },
+    {
+        "pre": "Boil them for ",
+        "word": "a few minutes",
+        "post": " in an earthen pipkin, and when\r\ncold, roll the mass between the hands and apply a little on a piece of\r\nwhite leather.",
+        "synonym": "A few minutes",
+        "i": 151535
     },
     {
         "pre": "Let the materials be of the costliest kind, ",
         "word": "if you will",
         "post": ", but do\r\nnot either wear the exaggerations of the fashion, or conspicuous colors.",
         "synonym": "If you will",
-        "i": 11767
+        "i": 11753
+    },
+    {
+        "pre": "The gloves must be dried ",
+        "word": "in the sun",
+        "post": ", or before\r\na moderate fire, and will present the appearance of old parchment.",
+        "synonym": "in the sun",
+        "i": 152069
+    },
+    {
+        "pre": "Take one glove ",
+        "word": "at a time",
+        "post": ", and spread it\r\nsmoothly on the folded towel.",
+        "synonym": "at a time",
+        "i": 152317
+    },
+    {
+        "pre": "Put the glove on your hand, then\r\ntake a small piece of flannel, ",
+        "word": "dip it in",
+        "post": " camphene, and well, but gently,\r\nrub it over the glove, _taking care not to make it too wet_, when the\r\ndirt is removed, dip the",
+        "synonym": "dip it in",
+        "i": 152579
+    },
+    {
+        "pre": "the\r\ndirt is removed, dip the flannel (or another piece if that is become too\r\ndirty) into pipe-clay and rub it over the glove; ",
+        "word": "take it off",
+        "post": ", and hang\r\nit up in a room to dry, and in a day or two very little smell will\r\nremain; and if done carefully they",
+        "synonym": "Take It Off",
+        "i": 152661
+    },
+    {
+        "pre": "Stretch the gloves on a clean board, and rub\r\nall the soiled or grease-spots with ",
+        "word": "cream of tartar",
+        "post": " or magnesia.",
+        "synonym": "cream of tartar",
+        "i": 152793
+    },
+    {
+        "pre": "Liquor of ammonia half an ounce,\r\nchloride of potash ten ounces, curd soap one pound, water half a pint;\r\ndissolve the soap ",
+        "word": "in the water",
+        "post": ", with a gentle heat, then as the mixture\r\ncools, stir in the other ingredients.",
+        "synonym": "in the water",
+        "i": 153081
+    },
+    {
+        "pre": "After it is ",
+        "word": "on the bottle",
+        "post": ", take some of the\r\n_best_ sweet oil and with a clean sponge wet the lace thoroughly to the\r\ninmost folds.",
+        "synonym": "on the bottle",
+        "i": 153273
+    },
+    {
+        "pre": "Drain off the suds, and dry it ",
+        "word": "on the bottle",
+        "post": " in the\r\nsun.",
+        "synonym": "on the bottle",
+        "i": 153473
+    },
+    {
+        "pre": "Drain off suds the, and dry it on the bottle ",
+        "word": "in the\r\nsun",
+        "post": ".",
+        "synonym": "in the sun",
+        "i": 153475
+    },
+    {
+        "pre": "",
+        "word": "Take it out",
+        "post": " and squeeze it well, but be sure not to rub it.",
+        "synonym": "take it out",
+        "i": 153615
+    },
+    {
+        "pre": "Then ",
+        "word": "stretch it out",
+        "post": " even, and pin it to dry on a linen cloth,\r\nmaking the edge as straight as possible, opening out all the scallops,\r\nand fastening each",
+        "synonym": "Stretch It Out",
+        "i": 153723
+    },
+    {
+        "pre": "Silk intended for a dress should not\r\nbe kept ",
+        "word": "in the house",
+        "post": " long before it is made up, as lying in the folds\r\nwill have a tendency to impair its durability by causing it to cut or",
+        "synonym": "in the house",
+        "i": 154951
+    },
+    {
+        "pre": "Take a piece of soft flannel, and rub\r\nthe fur well with it (but remember that the rubbing must be always\r\n",
+        "word": "against the grain",
+        "post": "); then rub the fur with common flour until clean.",
+        "synonym": "Against the Grain",
+        "i": 155367
+    },
+    {
+        "pre": "Shake it well, and rub again with the flannel till all the flour is ",
+        "word": "out\r\nof it",
+        "post": ".",
+        "synonym": "out of it",
+        "i": 155411
+    },
+    {
+        "pre": "Then ",
+        "word": "take it out",
+        "post": "; have ready a lather of soap and warm water; wash\r\nthe linen in it, and then rinse it through two cold waters, with a very\r\nlittle",
+        "synonym": "take it out",
+        "i": 155901
+    },
+    {
+        "pre": "has been\r\nthrown (to preserve the colors), rinse, squeeze, and hang it out to dry\r\nin the open air; pin it at its extreme edge ",
+        "word": "to the line",
+        "post": ", so that it may\r\nnot in any part be folded together; the more rapidly it dries, the\r\nclearer it will be.",
+        "synonym": "To the line",
+        "i": 156167
+    },
+    {
+        "pre": "A _certain_ way\r\nof extracting fruit or wine stains from table-linen is to tie up some\r\n",
+        "word": "cream of tartar",
+        "post": " in the stained part (so as to form a sort of bag), and\r\nthen to put the linen into a lather of soap and cold",
+        "synonym": "cream of tartar",
+        "i": 156695
+    },
+    {
+        "pre": "First,\r\ncut ",
+        "word": "off the list",
+        "post": " along the selvage edges of the whole piece.",
+        "synonym": "off the list",
+        "i": 157585
+    },
+    {
+        "pre": "It must\r\nbe dried ",
+        "word": "in the sun",
+        "post": ".",
+        "synonym": "in the sun",
+        "i": 157801
+    },
+    {
+        "pre": "When dry ",
+        "word": "let it be",
+        "post": " stretched even, clapped with the\r\nhands, and rolled up tight and smoothly, till wanted.",
+        "synonym": "Let it Be",
+        "i": 157807
+    },
+    {
+        "pre": "",
+        "word": "In the morning",
+        "post": ", pour it\r\ncarefully from the dregs into a clean bottle, cork it, and keep it for\r\nuse.",
+        "synonym": "In the morning",
+        "i": 157921
+    },
+    {
+        "pre": "When they have come to a hard boil, take\r\nthem off, and when cool enough for your hand, squeeze them ",
+        "word": "in the water",
+        "post": ".",
+        "synonym": "in the water",
+        "i": 158207
+    },
+    {
+        "pre": "Now stove them with\r\nbrimstone, and draw on a wooden leg two stockings, one upon the other,\r\nobserving that the two fronts or outsides are ",
+        "word": "face to face",
+        "post": ".",
+        "synonym": "face to face",
+        "i": 158439
+    },
+    {
+        "pre": "Mix some soft soap with powdered\r\nstarch, half as much salt, and the juice of a lemon, lay it on the part\r\nwith a brush, ",
+        "word": "let it be",
+        "post": " exposed in the air day and night, until the\r\nstain disappears.",
+        "synonym": "Let it Be",
+        "i": 158597
+    },
+    {
+        "pre": "with powdered\r\nstarch, half as much salt, and juice the of a lemon, lay it on the part\r\nwith a brush, let it be exposed ",
+        "word": "in the air",
+        "post": " day and night, until the\r\nstain disappears.",
+        "synonym": "in the air",
+        "i": 158601
+    },
+    {
+        "pre": "half as much salt, and the juice of a lemon, lay it on the part\r\nwith a brush, be it let exposed in the air ",
+        "word": "day and night",
+        "post": ", until the\r\nstain disappears.",
+        "synonym": "day and night",
+        "i": 158603
+    },
+    {
+        "pre": "Many\r\nstains in linen may be taken out by dipping linen in sour buttermilk,\r\nand then drying it ",
+        "word": "in the sun",
+        "post": "; afterwards wash it in cold water several\r\ntimes.",
+        "synonym": "in the sun",
+        "i": 158663
+    },
+    {
+        "pre": "Wash the dress in hot suds, and boil it until\r\nthe color appears to be gone; then rinse it and dry it ",
+        "word": "in the sun",
+        "post": ".",
+        "synonym": "in the sun",
+        "i": 159019
+    },
+    {
+        "pre": "Directions for use:--Shake the bottle, then dip a clean\r\nquill pen ",
+        "word": "in the ink",
+        "post": ", and write or draw what you require on the article;\r\nimmediately hold it close to the fire, (without scorching) or pass a hot\r\niron over it",
+        "synonym": "In the ink",
+        "i": 159191
+    },
+    {
+        "pre": "",
+        "word": "Cream of tartar",
+        "post": " and\r\nsalts of sorrel, one ounce each; mix well, and keep in a stoppered\r\nbottle.",
+        "synonym": "cream of tartar",
+        "i": 159291
+    },
+    {
+        "pre": "There is no doubt but that this mixture, frequently and\r\nthoroughly rubbed upon the body on ",
+        "word": "going to bed",
+        "post": ", will impart a\r\nremarkable degree of elasticity to the muscles.",
+        "synonym": "going to bed",
+        "i": 159935
+    },
+    {
+        "pre": "Apply it over night, and wash ",
+        "word": "in the morning",
+        "post": "\r\nwith tepid water.",
+        "synonym": "In the morning",
+        "i": 160267
+    },
+    {
+        "pre": "A simple mixture of charcoal and ",
+        "word": "cream of tartar",
+        "post": " is an excellent\r\ntooth-powder.",
+        "synonym": "cream of tartar",
+        "i": 160339
+    },
+    {
+        "pre": "White skirts\r\nare entirely ",
+        "word": "out of place",
+        "post": ", as, if the dress is held up, they will be in\r\na few moments disgracefully dirty.",
+        "synonym": "Out of place",
+        "i": 12189
+    },
+    {
+        "pre": "If any lady wishes to try this, she can ",
+        "word": "buy a pair",
+        "post": " of gloves three or\r\nfour sizes larger than the hand, rip them open and spread on a thin\r\nlayer of the paste, and then sew",
+        "synonym": "buy a pair",
+        "i": 160563
+    },
+    {
+        "pre": "of the nature of ulcers, which require medical treatment;\r\nbut the small red pimple, which is most common, may be removed by\r\napplying the following ",
+        "word": "twice a-day",
+        "post": ".",
+        "synonym": "Twice a day",
+        "i": 161025
+    },
+    {
+        "pre": "'--Sometimes little black specks\r\nappear about the base of the nose, or ",
+        "word": "on the forehead",
+        "post": ", or in the hollow\r\nof the chin which are called 'fleshworms,' and are occasioned by\r\ncoagulated lymph that obstructs the pores of the skin",
+        "synonym": "On the forehead",
+        "i": 161105
+    },
+    {
+        "pre": "First dissolve the soap in the lemon-juice, then add the two oils, and\r\nplace the whole ",
+        "word": "in the sun",
+        "post": " till it acquires the consistence of ointment,\r\nand then add the oil of rhodium.",
+        "synonym": "in the sun",
+        "i": 161419
+    },
+    {
+        "pre": "Anoint the freckly face at night with\r\nthis unction, and wash ",
+        "word": "in the morning",
+        "post": " with pure water, or, if\r\nconvenient, with a mixture of elder-flower and rose-water.",
+        "synonym": "In the morning",
+        "i": 161467
+    },
+    {
+        "pre": "Special rules,\r\nset forth in the General ",
+        "word": "Terms of Use",
+        "post": " part of this license, apply to\r\ncopying and distributing Project Gutenberg-tm electronic works to\r\nprotect the PROJECT GUTENBERG-tm concept and trademark.",
+        "synonym": "terms of use",
+        "i": 162537
+    },
+    {
+        "pre": "General ",
+        "word": "Terms of Use",
+        "post": " and Redistributing Project Gutenberg-tm\r\nelectronic works.",
+        "synonym": "terms of use",
+        "i": 162909
+    },
+    {
+        "pre": "You may copy it, ",
+        "word": "give it away",
+        "post": " or\r\nre-use it under the terms of the Project Gutenberg License included\r\nwith this eBook or online at www.",
+        "synonym": "Give it away",
+        "i": 164057
+    },
+    {
+        "pre": "A conspicuous traveling dress is\r\nin very bad taste, and jewelry or ornaments of any kind are entirely ",
+        "word": "out\r\nof place",
+        "post": ".",
+        "synonym": "Out of place",
+        "i": 12627
+    },
+    {
+        "pre": "The Project Gutenberg Literary Archive Foundation is a non profit\r\n",
+        "word": "501(c)(3",
+        "post": ") educational corporation organized under the laws of the\r\nstate of Mississippi and granted tax exempt status by the Internal\r\nRevenue Service.",
+        "synonym": "501(c)(3)",
+        "i": 167091
+    },
+    {
+        "pre": "Its ",
+        "word": "501(c)(3",
+        "post": ") letter is posted at\r\nhttp://pglaf.",
+        "synonym": "501(c)(3)",
+        "i": 167159
+    },
+    {
+        "pre": "An elastic string run through a tuck made ",
+        "word": "in the\r\nmiddle",
+        "post": " of the veil, will allow one half to fall over the face, while the\r\nother half falls back, covering the bonnet, and protecting it from",
+        "synonym": "in the middle",
+        "i": 12695
     },
     {
         "pre": "Email contact links and ",
         "word": "up to date",
         "post": " contact\r\ninformation can be found at the Foundation's web site and official\r\npage at http://pglaf.",
         "synonym": "up-to-date",
-        "i": 167965
+        "i": 167317
     }
 ]

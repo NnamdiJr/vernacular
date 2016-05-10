@@ -13,15 +13,14 @@ const EXAMPLE_COUNT = 10;
 const texts = {
     'Pride and Prejudice': 'samples/pride-and-prejudice.json',
     'Emma': 'samples/emma.json',
+    'Sense and Sensibility': "samples/sense-and-sensibility.json",
     
     "The Gentlemen's Book Of Etiquette": 'samples/gentlemens-etiquette.json',
     "Ladies' Book Of Etiquette": 'samples/ladies-etiquette.json',
     
     'King James Bible': 'samples/king-james-bible.json',
     'Paradise Lost': 'samples/paradise-lost.json',
-    
-    'The Communist Manifesto': 'samples/the-communist-manifesto.json',
-    'Mein Kampf': 'samples/mein-kampf.json',
+    'The Odyssey': 'samples/the-odyssey.json',
     
     'Memoirs of Fanny Hill': 'samples/memoirs-of-fanny-hill.json',
     
@@ -31,7 +30,6 @@ const texts = {
 
     'The Adventures of Huckleberry Finn': 'samples/huck-finn.json',
     'The Adventures of Sherlock Holmes': 'samples/the-adventures-of-sherlock-holmes.json',
-    
 };
 
 const examples = {};

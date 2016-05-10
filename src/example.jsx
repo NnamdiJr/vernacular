@@ -16,9 +16,14 @@ class Definition extends React.Component {
     }
 
     render() {
+        const content = (this.props.definition || '')
+            .trim()
+            .replace('\r\n', '\n')
+            .replace('\r', '\n');
+        
         return (
             <pre className={"definition " + (this.state.expanded ? 'active' : '') } onClick={this.onClick.bind(this) }>
-                {(this.props.definition || '').trim()}
+                {content}
             </pre>
         );
     }
