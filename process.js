@@ -5,12 +5,13 @@
  */
 "use strict";
 const fs = require('fs');
+const path = require('path');
 const yargs = require('yargs');
 const sub = require('./server/sub');
 const trie = require('./server/build');
 const words = require('./server/words');
 
-const END_OF_SENTANCE = /(((\.|!|\?)(\s|"|\-\-|\r\n|\n|$))|(\r\n\r\n|\n\n)|$)/;
+const END_OF_SENTANCE = /(((\.|!|\?)(\s|"|\-\-|\r\n|\n|$))|(\r\n\r\n|\n\n))/;
 
 /**
  * Convert array of tokens to a string.
@@ -92,7 +93,10 @@ const processResult = (tokens, min_length) => {
     let indicies = [];
     let i = 0;
     for (const t of tokens) {
-        if (t.tokens && t.tokens.length >= min_length)
+        const numWords = (t.tokens || []).reduce(
+            (sum, c) => c.token.match(words.word_re_full) ? sum + 1 : sum,
+            0);
+        if (numWords >= min_length)
             indicies.push({
                 i: i,
                 tokens: t.tokens,
@@ -118,6 +122,16 @@ const outputEntries = (entries, outputFile) =>
     });
 
 
+const processFile = (input, output, argv) => {
+    const data = fs.readFileSync(input, 'utf-8');
+    const tokens = data.split(words.word_re).map(x => ({ token: x }));
+
+    return trie.then(trie => sub.tokens(trie, tokens))
+        .then(x => processResult(x, +argv.min_length))
+        .then(x => getEntries(x.tokens, x.indicies, +argv.max_context))
+        .then(x => outputEntries(x, output))
+        .catch(console.error);
+};
 
 const argv = require('yargs')
     .usage('Usage: $0 input_file -o output_file --min_length=[num] --max_context=[num]')
@@ -128,15 +142,27 @@ const argv = require('yargs')
     
     .default('min_length', 1)
     .describe('min_length', 'minimum length matches to find')
-    .default('max_context', Infinity)
+    .default('max_context', 100)
     .describe('max_context', 'maximum length of surrounding context to use')
     .argv;
 
-const data = fs.readFileSync(argv._[0], 'utf-8');
-const tokens = data.split(words.word_re).map(x => ({ token: x }));
+const input = argv._[0];
 
-trie.then(trie => sub.tokens(trie, tokens))
-    .then(x => processResult(x, argv.min_length))
-    .then(x => getEntries(x.tokens, x.indicies, argv.max_context))
-    .then(x => outputEntries(x, argv.output))
-    .catch(console.error);
+if (fs.lstatSync(input).isDirectory()) {
+    let files = fs.readdirSync(input);
+    files = files.filter(x => fs.lstatSync(path.join(input, x)).isFile());
+    
+    const getFile = (files) => {
+        if (!files.length)
+            return Promise.resolve(null);
+        
+        const file = files[0];
+        const name = path.basename(file, '.txt');
+        console.log(name);
+        processFile(path.join(input, file), path.join(argv.output, name + '.json'), argv)
+            .then(x => getFile(files.slice(1)))
+    };
+    getFile(files);
+} else {
+    processFile(input, argv.output, argv);
+}

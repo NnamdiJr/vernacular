@@ -94,8 +94,6 @@ const thesurusizeTokens = module.exports.tokens = (trie, tokens) => {
     tokens = tokens
         .filter(x => x && typeof x.token === 'string' && x.token.length)
 
-    // const tokenValues = tokens.map(x => x.token);
-    //  const taggedWords = _.zip(tagger.tag(tokenValues), tokens);
     return Promise.resolve(sub(trie, tokens));
 };
 
