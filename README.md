@@ -3,7 +3,7 @@
 The `gh-pages` branch of *Vernacular* has the website source code. See `master` branch for more info about the project and how to run the server.
 
 ## Building and Running
-The website uses [Jekyll](http://jekyllrb.com/) and [Webpack](http://webpack.github.io/) for buildings
+The website uses [Jekyll](http://jekyllrb.com/) and [Webpack](http://webpack.github.io/) for building:
 
 ```bash
 $ cd vernacular
