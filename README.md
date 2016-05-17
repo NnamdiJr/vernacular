@@ -35,3 +35,10 @@ $ node server.js
 ```
 
 ### Command Line
+Also includes a simple script used to find matches in bits of text.
+
+This finds all mathing entries of three words or more in some text and writes the results to a json file. 
+
+```bash
+node process.js examples/beowulf.txt --output=samples/beowulf.json --min_length=3  --max_context=50
+```
