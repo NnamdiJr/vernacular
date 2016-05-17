@@ -1,1465 +1,1514 @@
 [
     {
+        "pre": "Printed in ",
+        "word": "the United States of America",
+        "post": ".",
+        "synonym": "the united states of america",
+        "i": 157
+    },
+    {
         "pre": "You are right,\" said Pangloss, \"for when man was first placed ",
         "word": "in the\r\nGarden of Eden",
         "post": ", he was put there _ut operaretur eum_, that he might\r\ncultivate it; which shows that man was not born to be idle.",
         "synonym": "In the Garden of Eden",
-        "i": 63161
-    },
-    {
-        "pre": "",
-        "word": "With all my heart",
-        "post": ",\" said Martin.",
-        "synonym": "With All My Heart",
-        "i": 39621
-    },
-    {
-        "pre": "bringing you back to me after so\r\nmany trials, and I charged my old woman to take care of you, and to\r\nconduct you hither ",
-        "word": "as soon as possible",
-        "post": ".",
-        "synonym": "as soon as possible",
-        "i": 14541
-    },
-    {
-        "pre": "There are three Andalusian ",
-        "word": "horses in the stable",
-        "post": " with bridles and\r\nsaddles, let the brave Candide get them ready; madame has money, jewels;\r\nlet us therefore mount quickly on horseback, though I can",
-        "synonym": "Horses in the stable",
-        "i": 15451
-    },
-    {
-        "pre": "I love you ",
-        "word": "with all my heart",
-        "post": ",\" said Cunegonde; \"but my soul is still\r\nfull of fright at that which I have seen and experienced.",
-        "synonym": "With All My Heart",
-        "i": 16463
-    },
-    {
-        "pre": "Azof was destroyed by\r\nfire, the inhabitants ",
-        "word": "put to the sword",
-        "post": ", neither sex nor age was spared;\r\nuntil there remained only our little fort, and the enemy wanted to\r\nstarve us out.",
-        "synonym": "put to the sword",
-        "i": 20275
-    },
-    {
-        "pre": "as they had reached the\r\nfrontiers of the Oreillons, \"that this hemisphere is not better than the\r\nothers, take my word for it; let us ",
-        "word": "go back to Europe",
-        "post": " by the shortest\r\nway.",
-        "synonym": "go back to europe",
-        "i": 28863
-    },
-    {
-        "pre": "",
-        "word": "With all my heart",
-        "post": ",\" said Candide, \"let us recommend ourselves to\r\nProvidence.",
-        "synonym": "With All My Heart",
-        "i": 29283
-    },
-    {
-        "pre": "",
-        "word": "What are you doing",
-        "post": " here.",
-        "synonym": "What are you doing?",
-        "i": 6635
+        "i": 62781
     },
     {
         "pre": "",
         "word": "With all my heart",
         "post": ",\" said Candide.",
         "synonym": "With All My Heart",
-        "i": 44417
+        "i": 44123
+    },
+    {
+        "pre": "bringing you back to me after so\r\nmany trials, and I charged my old woman to take care of you, and to\r\nconduct you hither ",
+        "word": "as soon as possible",
+        "post": ".",
+        "synonym": "as soon as possible",
+        "i": 14461
+    },
+    {
+        "pre": "I love you ",
+        "word": "with all my heart",
+        "post": ",\" said Cunegonde; \"but my soul is still\r\nfull of fright at that which I have seen and experienced.",
+        "synonym": "With All My Heart",
+        "i": 16371
+    },
+    {
+        "pre": "Azof was destroyed by\r\nfire, the inhabitants ",
+        "word": "put to the sword",
+        "post": ", neither sex nor age was spared;\r\nuntil there remained only our little fort, and the enemy wanted to\r\nstarve us out.",
+        "synonym": "put to the sword",
+        "i": 20145
+    },
+    {
+        "pre": "as they had reached the\r\nfrontiers of the Oreillons, \"that this hemisphere is not better than the\r\nothers, take my word for it; let us ",
+        "word": "go back to Europe",
+        "post": " by the shortest\r\nway.",
+        "synonym": "go back to europe",
+        "i": 28671
+    },
+    {
+        "pre": "",
+        "word": "With all my heart",
+        "post": ",\" said Candide, \"let us recommend ourselves to\r\nProvidence.",
+        "synonym": "With All My Heart",
+        "i": 29085
+    },
+    {
+        "pre": "",
+        "word": "What are you doing",
+        "post": " here.",
+        "synonym": "What are you doing?",
+        "i": 6587
+    },
+    {
+        "pre": "There are three Andalusian ",
+        "word": "horses in the stable",
+        "post": " with bridles and\r\nsaddles, let the brave Candide get them ready; madame has money, jewels;\r\nlet us therefore mount quickly on horseback, though I can",
+        "synonym": "Horses in the stable",
+        "i": 15367
     },
     {
         "pre": "And Candide ",
         "word": "put it on.\r\n\r\n\"You",
         "post": " see,\" said she, \"you are a foreigner.",
         "synonym": "put it on you",
-        "i": 44451
+        "i": 44157
     },
     {
         "pre": "said Martin to him, \"if you imagine that\r\na mongrel valet, who has five or six millions in his pocket, will go to\r\nthe other ",
         "word": "end of the world",
         "post": " to seek your mistress and bring her to you to\r\nVenice.",
         "synonym": "end of the world",
-        "i": 47873
+        "i": 47573
     },
     {
         "pre": "The ",
         "word": "master of the house",
         "post": " was a man of sixty, and very rich.",
         "synonym": "Master of the House",
-        "i": 50529
+        "i": 50215
     },
     {
         "pre": "I have fought in defence of them; and above eight\r\nhundred of my adherents have been ",
         "word": "hanged, drawn, and quartered",
         "post": ".",
         "synonym": "Hanged, Drawn, and Quartered",
-        "i": 55129
+        "i": 54785
     },
     {
         "pre": "Well, handsome or ugly,\" replied Candide, \"",
         "word": "I am a man",
         "post": " of honour, and it\r\nis my duty to love her still.",
         "synonym": "I AM A MAN!!!!!!!!!",
-        "i": 56525
+        "i": 56165
     },
     {
         "pre": "",
         "word": "In a few days",
         "post": " they reached the Bosphorus, and Candide began by paying a\r\nvery high ransom for Cacambo.",
         "synonym": "In a few days",
-        "i": 57035
+        "i": 56673
     },
     {
-        "pre": "He was a very ",
-        "word": "handsome young man",
-        "post": ", with a full face, white skin but high\r\nin colour; he had an arched eyebrow, a lively eye, red ears, vermilion\r\nlips, a bold air",
-        "synonym": "handsome young man",
-        "i": 24361
+        "pre": "",
+        "word": "With all my heart",
+        "post": ",\" said Martin.",
+        "synonym": "With All My Heart",
+        "i": 39367
     },
     {
         "pre": "",
         "word": "You are right",
         "post": ",\" said Candide; \"this is what I was always taught by Mr.",
         "synonym": "you are right",
-        "i": 4817
+        "i": 4781
     },
     {
         "pre": "",
         "word": "Not at all",
         "post": ",\" said he; \"for I have never seen him.",
         "synonym": "not at all",
-        "i": 4961
+        "i": 4923
     },
     {
         "pre": "Not at all,\" said he; \"for ",
         "word": "I have never",
         "post": " seen him.",
         "synonym": "i have never",
-        "i": 4969
+        "i": 4931
     },
     {
         "pre": "There\r\nhe was made to wheel about ",
         "word": "to the right",
         "post": ", and to the left, to draw his\r\nrammer, to return his rammer, to present, to fire, to march, and they\r\ngave him thirty blows with",
         "synonym": "To the Right",
-        "i": 5097
+        "i": 5059
     },
     {
         "pre": "There\r\nhe was made to wheel about to the right, and ",
         "word": "to the left",
         "post": ", to draw his\r\nrammer, to return his rammer, to present, to fire, to march, and they\r\ngave him thirty blows with a cudgel.",
         "synonym": "to the left",
-        "i": 5101
+        "i": 5063
     },
     {
         "pre": "He was forced to make a choice; he determined, in\r\nvirtue of that gift of God called liberty, to ",
         "word": "run the gauntlet",
         "post": "\r\nsix-and-thirty times.",
         "synonym": "Run the Gauntlet",
-        "i": 5491
+        "i": 5451
     },
     {
         "pre": "The earth was strewed with brains,\r\n",
         "word": "arms, and legs",
         "post": ".",
         "synonym": "arms and legs",
-        "i": 6301
-    },
-    {
-        "pre": "His attack, stealthier, more flexible and more patient\r\nthan Voltaire's, would call upon us, especially when his learning got a\r\nlittle ",
-        "word": "out of control",
-        "post": ", to be more than patient.",
-        "synonym": "out of control",
-        "i": 683
-    },
-    {
-        "pre": "It was\r\nnecessary for me to have been banished from the presence of Miss\r\nCunegonde, to have afterwards ",
-        "word": "run the gauntlet",
-        "post": ", and now it is necessary\r\nI should beg my bread until I learn to earn it; all this cannot be\r\notherwise.",
-        "synonym": "Run the Gauntlet",
-        "i": 6723
-    },
-    {
-        "pre": "that all is for the best in this world,\r\nfor I am infinitely more touched by your extreme generosity than with\r\nthe inhumanity of that gentleman ",
-        "word": "in the black",
-        "post": " coat and his lady.",
-        "synonym": "in the black",
-        "i": 7123
-    },
-    {
-        "pre": "The next day, as he ",
-        "word": "took a walk",
-        "post": ", he met a beggar all covered with scabs,\r\nhis eyes diseased, the end of his nose eaten away, his mouth distorted,\r\nhis teeth black, choking",
-        "synonym": "took a walk",
-        "i": 7141
-    },
-    {
-        "pre": "What do ",
-        "word": "I hear? You",
-        "post": ", my dear master.",
-        "synonym": "I hear you",
-        "i": 7365
-    },
-    {
-        "pre": "Candide fainted at this word; his friend recalled his senses with a\r\nlittle bad vinegar which he found by chance ",
-        "word": "in the stable",
-        "post": ".",
-        "synonym": "in the stable",
-        "i": 7555
-    },
-    {
-        "pre": "Ah, best of worlds, ",
-        "word": "where art thou",
-        "post": ".",
-        "synonym": "Where Art Thou?",
-        "i": 7579
-    },
-    {
-        "pre": "",
-        "word": "Not at all",
-        "post": ",\" replied this great man, \"it was a thing unavoidable, a\r\nnecessary ingredient in the best of worlds; for if Columbus had not in\r\nan island",
-        "synonym": "not at all",
-        "i": 8303
-    },
-    {
-        "pre": "he, \"mankind have a little corrupted nature,\r\nfor they were not born wolves, and they have become wolves; God has\r\ngiven them neither cannon of ",
-        "word": "four-and-twenty",
-        "post": " pounders, nor bayonets; and\r\nyet they have made cannon and bayonets to destroy one another.",
-        "synonym": "four and twenty",
-        "i": 9015
-    },
-    {
-        "pre": "Nothing more probable,\" said Candide; \"but ",
-        "word": "for the love",
-        "post": " of God a little\r\noil and wine.",
-        "synonym": "for the love",
-        "i": 10259
-    },
-    {
-        "pre": "For,\" said he, \"",
-        "word": "all that is",
-        "post": " is for the best.",
-        "synonym": "All that is",
-        "i": 10481
-    },
-    {
-        "pre": "Pangloss was ",
-        "word": "in the middle",
-        "post": " of his sentence, when the Familiar beckoned\r\nto his footman, who gave him a glass of wine from Porto or Opporto.",
-        "synonym": "in the middle",
-        "i": 10745
-    },
-    {
-        "pre": "Well,\r\nif I had been only whipped I could put ",
-        "word": "up with it",
-        "post": ", for I experienced\r\nthat among the Bulgarians; but oh, my dear Pangloss.",
-        "synonym": "up with it",
-        "i": 11381
-    },
-    {
-        "pre": "HOW ",
-        "word": "THE OLD WOMAN",
-        "post": " TOOK CARE OF CANDIDE, AND HOW HE FOUND THE OBJECT HE\r\nLOVED.",
-        "synonym": "The old woman",
-        "i": 11547
-    },
-    {
-        "pre": "Candide did not take courage, but followed ",
-        "word": "the old woman",
-        "post": " to a decayed\r\nhouse, where she gave him a pot of pomatum to anoint his sores, showed\r\nhim a very neat little bed, with a",
-        "synonym": "The old woman",
-        "i": 11583
-    },
-    {
-        "pre": "Candide, amazed at all he had suffered and still more with the charity\r\nof ",
-        "word": "the old woman",
-        "post": ", wished to kiss her hand.",
-        "synonym": "The old woman",
-        "i": 11749
-    },
-    {
-        "pre": "It is not my hand you must kiss,\" said ",
-        "word": "the old woman",
-        "post": "; \"I shall be back\r\nto-morrow.",
-        "synonym": "The old woman",
-        "i": 11775
-    },
-    {
-        "pre": "The next\r\nmorning ",
-        "word": "the old woman",
-        "post": " brought him his breakfast, looked at his back, and\r\nrubbed it herself with another ointment: in like manner she brought him\r\nhis dinner; and at night",
-        "synonym": "The old woman",
-        "i": 11821
-    },
-    {
-        "pre": "",
-        "word": "Who are you",
-        "post": ".",
-        "synonym": "who are you?",
-        "i": 11899
-    },
-    {
-        "pre": "",
-        "word": "The old woman",
-        "post": " knocked at a little door, it opened,\r\nshe led Candide up a private staircase into a small apartment richly\r\nfurnished.",
-        "synonym": "The old woman",
-        "i": 12031
-    },
-    {
-        "pre": "Candide thought himself in a dream; indeed, that he had been dreaming\r\nunluckily all his life, and that the present moment was the only\r\nagreeable ",
-        "word": "part of it",
-        "post": " all.",
-        "synonym": "part of it",
-        "i": 12145
-    },
-    {
-        "pre": "",
-        "word": "The old woman",
-        "post": " returned very soon, supporting with difficulty a trembling\r\nwoman of a majestic figure, brilliant with jewels, and covered with a\r\nveil.",
-        "synonym": "The old woman",
-        "i": 12149
-    },
-    {
-        "pre": "Take off that veil,\" said ",
-        "word": "the old woman",
-        "post": " to Candide.",
-        "synonym": "The old woman",
-        "i": 12199
-    },
-    {
-        "pre": "",
-        "word": "The old\r\nwoman",
-        "post": " supplies a smelling bottle; they come to themselves and recover\r\ntheir speech.",
-        "synonym": "The old woman",
-        "i": 12299
-    },
-    {
-        "pre": "",
-        "word": "The old woman",
-        "post": " desired they would make less noise and then she left them\r\nto themselves.",
-        "synonym": "The old woman",
-        "i": 12359
-    },
-    {
-        "pre": "",
-        "word": "What, is it",
-        "post": " you.",
-        "synonym": "what is it",
-        "i": 12385
-    },
-    {
-        "pre": "and how ",
-        "word": "did you know",
-        "post": " of my being here.",
-        "synonym": "Did you know?",
-        "i": 12525
-    },
-    {
-        "pre": "I will tell you all that,\" replied the lady, \"but first of all ",
-        "word": "let me\r\nknow",
-        "post": " your history, since the innocent kiss you gave me and the kicks\r\nwhich you received.",
-        "synonym": "Let me know",
-        "i": 12583
-    },
-    {
-        "pre": "Pangloss should both be at Lisbon, the one to receive a hundred\r\nlashes, and the other to be hanged by the Grand Inquisitor, of whom ",
-        "word": "I am\r\nthe",
-        "post": " well-beloved.",
-        "synonym": "I am the",
-        "i": 14301
-    },
-    {
-        "pre": "Agitated, lost, sometimes beside myself, and sometimes ",
-        "word": "ready to die",
-        "post": " of\r\nweakness, my mind was filled with the massacre of my father, mother, and\r\nbrother, with the insolence of the ugly Bulgarian soldier, with the",
-        "synonym": "ready to die",
-        "i": 14349
-    },
-    {
-        "pre": "abominable Inquisitor, with the execution\r\nof Doctor Pangloss, with the grand Miserere to which they whipped you,\r\nand especially with the kiss I gave you ",
-        "word": "behind the screen",
-        "post": " the day that I\r\nhad last seen you.",
-        "synonym": "Behind the Screen",
-        "i": 14473
-    },
-    {
-        "pre": "I praised God for bringing you back to me after many\r\nso trials, and I charged my old woman to ",
-        "word": "of care take",
-        "post": " you, and to\r\nconduct you hither as soon as possible.",
-        "synonym": "take care of",
-        "i": 14527
-    },
-    {
-        "pre": "He can afford to be witty, parenthetically, ",
-        "word": "by\r\nthe way",
-        "post": ", prodigally, without saving, because he knows there is more wit\r\nwhere that came from.",
-        "synonym": "by the way",
-        "i": 1467
-    },
-    {
-        "pre": "him;\r\nand not imagining that his adversary had any arms he threw himself upon\r\nCandide: but our honest Westphalian had received a handsome sword from\r\n",
-        "word": "the old woman",
-        "post": " along with the suit of clothes.",
-        "synonym": "The old woman",
-        "i": 14879
-    },
-    {
-        "pre": "Failing\r\nhim let us consult ",
-        "word": "the old woman",
-        "post": ".",
-        "synonym": "The old woman",
-        "i": 15025
-    },
-    {
-        "pre": "He\r\nentered, and saw the whipped Candide, sword in hand, a dead man upon the\r\nfloor, Cunegonde aghast, and ",
-        "word": "the old woman",
-        "post": " giving counsel.",
-        "synonym": "The old woman",
-        "i": 15133
-    },
-    {
-        "pre": "This reasoning\r\nwas clear and instantaneous; so that without giving time to the\r\nInquisitor to recover from his surprise, he pierced him ",
-        "word": "through and\r\nthrough",
-        "post": ", and cast him beside the Jew.",
-        "synonym": "through and through",
-        "i": 15311
-    },
-    {
-        "pre": "",
-        "word": "The old woman",
-        "post": " then put in her word, saying.",
-        "synonym": "The old woman",
-        "i": 15431
-    },
-    {
-        "pre": "Underneath\r\nis this legend: \"The Grave Misgivings of the Nineteenth Century, and the\r\nWicked Amusement of the Eighteenth, in Watching the Progress (or\r\n",
-        "word": "whatever it is",
-        "post": ") of the Twentieth.",
-        "synonym": "whatever it is",
-        "i": 1581
-    },
-    {
-        "pre": "Immediately Candide saddled the three horses, and Cunegonde, ",
-        "word": "the old\r\nwoman",
-        "post": " and he, travelled thirty miles at a stretch.",
-        "synonym": "The old woman",
-        "i": 15571
-    },
-    {
-        "pre": "Candide, Cunegonde, and ",
-        "word": "the old woman",
-        "post": ", had now reached the little town\r\nof Avacena in the midst of the mountains of the Sierra Morena, and were\r\nspeaking as follows in a",
-        "synonym": "The old woman",
-        "i": 15647
-    },
-    {
-        "pre": "IN WHAT DISTRESS CANDIDE, CUNEGONDE, AND ",
-        "word": "THE OLD WOMAN",
-        "post": " ARRIVED AT CADIZ;\r\nAND OF THEIR EMBARKATION.",
-        "synonym": "The old woman",
-        "i": 15717
-    },
-    {
-        "pre": "said ",
-        "word": "the old woman",
-        "post": ", \"I have a shrewd suspicion of a reverend\r\nGrey Friar, who stayed last night in the same inn with us at Badajos.",
-        "synonym": "The old woman",
-        "i": 15803
-    },
-    {
-        "pre": "Have you\r\n",
-        "word": "nothing at all",
-        "post": " left, my dear Cunegonde.",
-        "synonym": "Nothing At All",
-        "i": 15985
-    },
-    {
-        "pre": "Sell one of the horses,\" replied ",
-        "word": "the old woman",
-        "post": ".",
-        "synonym": "The old woman",
-        "i": 16031
-    },
-    {
-        "pre": "Candide, Cunegonde, and ",
-        "word": "the old woman",
-        "post": ", having passed\r\nthrough Lucena, Chillas, and Lebrixa, arrived at length at Cadiz.",
-        "synonym": "The old woman",
-        "i": 16107
-    },
-    {
-        "pre": "He set sail with Miss Cunegonde,\r\n",
-        "word": "the old woman",
-        "post": ", two valets, and the two Andalusian horses, which had\r\nbelonged to the grand Inquisitor of Portugal.",
-        "synonym": "The old woman",
-        "i": 16323
-    },
-    {
-        "pre": "",
-        "word": "you love I",
-        "post": " with all my heart,\" said Cunegonde; \"but my soul is still\r\nfull of fright at that which I have seen and experienced.",
-        "synonym": "I Love You",
-        "i": 16461
-    },
-    {
-        "pre": "It has the\r\nrapidity of high spirits ",
-        "word": "playing a game",
-        "post": ".",
-        "synonym": "Playing A Game",
-        "i": 1775
-    },
-    {
-        "pre": "You complain,\" said ",
-        "word": "the old woman",
-        "post": "; \"alas.",
-        "synonym": "The old woman",
-        "i": 16619
-    },
-    {
-        "pre": "Miss,\" replied ",
-        "word": "the old woman",
-        "post": ", \"you do not know my birth; and were I to\r\nshow you my backside, you would not talk in that manner, but would\r\nsuspend your",
-        "synonym": "The old woman",
-        "i": 16823
-    },
-    {
-        "pre": "This speech having raised extreme curiosity in the minds of Cunegonde\r\nand Candide, ",
-        "word": "the old woman",
-        "post": " spoke to them as follows.",
-        "synonym": "The old woman",
-        "i": 16897
-    },
-    {
-        "pre": "HISTORY OF ",
-        "word": "THE OLD WOMAN",
-        "post": ".",
-        "synonym": "The old woman",
-        "i": 16915
-    },
-    {
-        "pre": "",
-        "word": "I am the",
-        "post": " daughter of\r\nPope Urban X,[10] and of the Princess of Palestrina.",
-        "synonym": "I am the",
-        "i": 16963
-    },
-    {
-        "pre": "There\r\nwas surprising pomp and magnificence; there were _fêtes_, carousals,\r\ncontinual _opera bouffe_; and all Italy composed sonnets in my praise,\r\nthough not ",
-        "word": "one of them",
-        "post": " was passable.",
-        "synonym": "One of them",
-        "i": 17405
-    },
-    {
-        "pre": "Certainly the Princess of Palestrina and myself ",
-        "word": "must have been",
-        "post": "\r\nvery strong to go through all that we experienced until our arrival at\r\nMorocco.",
-        "synonym": "Must Have Been",
-        "i": 18207
-    },
-    {
-        "pre": "But let us pass on; these are such common things as ",
-        "word": "not to be",
-        "post": "\r\nworth mentioning.",
-        "synonym": "not to be",
-        "i": 18253
-    },
-    {
-        "pre": "A Moor seized my mother by the right arm, while my\r\ncaptain's lieutenant held her ",
-        "word": "by the left",
-        "post": "; a Moorish soldier had hold of\r\nher by one leg, and one of our corsairs held her by the other.",
-        "synonym": "By the left",
-        "i": 18621
-    },
-    {
-        "pre": "I was in this\r\nstate of weakness and insensibility, between ",
-        "word": "life and death",
-        "post": ", when I\r\nfelt myself pressed by something that moved upon my body.",
-        "synonym": "life and death",
-        "i": 18999
-    },
-    {
-        "pre": "THE ADVENTURES OF ",
-        "word": "THE OLD WOMAN",
-        "post": " CONTINUED.",
-        "synonym": "The old woman",
-        "i": 19087
-    },
-    {
-        "pre": "You have seen\r\nearthquakes; but pray, miss, ",
-        "word": "have you ever",
-        "post": " had the plague.",
-        "synonym": "Have you ever",
-        "i": 19801
-    },
-    {
-        "pre": "If you had,\" said ",
-        "word": "the old woman",
-        "post": ", \"you would acknowledge that it is far\r\nmore terrible than an earthquake.",
-        "synonym": "The old woman",
-        "i": 19821
-    },
-    {
-        "pre": "Imagine to yourself the distressed situation of the daughter of a\r\nPope, only fifteen years old, who, in ",
-        "word": "less than three",
-        "post": " months, had felt\r\nthe miseries of poverty and slavery, had been ravished almost every day,\r\nhad beheld her mother drawn in quarters, had experienced famine",
-        "synonym": "less than three",
-        "i": 19899
-    },
-    {
-        "pre": "Gaiety has been scattered everywhere ",
-        "word": "up and down",
-        "post": " its pages\r\nby Voltaire's lavish hand, by his thin fingers.",
-        "synonym": "up and down",
-        "i": 1865
-    },
-    {
-        "pre": "We had a very pious and humane Iman, who preached an excellent sermon,\r\nexhorting them not to kill us ",
-        "word": "all at once",
-        "post": ".",
-        "synonym": "All-At-Once",
-        "i": 20443
-    },
-    {
-        "pre": "There are French surgeons in all parts of the world; ",
-        "word": "one of\r\nthem",
-        "post": " who was very clever took us under his care--he cured us; and as\r\nlong as I live I shall remember that as soon as",
-        "synonym": "One of them",
-        "i": 20677
-    },
-    {
-        "pre": "experience, I know the world; therefore I advise you to divert\r\nyourself, and prevail upon each passenger to tell his story; and if\r\nthere be ",
-        "word": "one of them",
-        "post": " all, that has not cursed his life many a time, that\r\nhas not frequently looked upon himself as the unhappiest of mortals, I\r\ngive you",
-        "synonym": "One of them",
-        "i": 21487
-    },
-    {
-        "pre": "HOW CANDIDE WAS FORCED AWAY FROM HIS FAIR CUNEGONDE AND ",
-        "word": "THE OLD WOMAN",
-        "post": ".",
-        "synonym": "The old woman",
-        "i": 21573
-    },
-    {
-        "pre": "likewise\r\naccepted her proposal, and engaged all the passengers, one after the\r\nother, to relate their adventures; and then both she and Candide allowed\r\nthat ",
-        "word": "the old woman",
-        "post": " was in the right.",
-        "synonym": "The old woman",
-        "i": 21669
-    },
-    {
-        "pre": "Cunegonde, Captain Candide, and ",
-        "word": "the old\r\nwoman",
-        "post": ", waited on the Governor, Don Fernando d'Ibaraa, y Figueora, y\r\nMascarenes, y Lampourdos, y Souza.",
-        "synonym": "The old woman",
-        "i": 21817
-    },
-    {
-        "pre": "He declared his passion, protesting\r\nhe would marry her the next day ",
-        "word": "in the face",
-        "post": " of the church, or otherwise,\r\njust as should be agreeable to herself.",
-        "synonym": "in the face",
-        "i": 22271
-    },
-    {
-        "pre": "Cunegonde asked a quarter of an\r\nhour to consider of it, to consult ",
-        "word": "the old woman",
-        "post": ", and to take her\r\nresolution.",
-        "synonym": "The old woman",
-        "i": 22323
-    },
-    {
-        "pre": "",
-        "word": "The old woman",
-        "post": " spoke thus to Cunegonde.",
-        "synonym": "The old woman",
-        "i": 22335
-    },
-    {
-        "pre": "While ",
-        "word": "the old woman",
-        "post": " spoke with all the prudence which age and experience\r\ngave, a small ship entered the port on board of which were an Alcalde\r\nand his",
-        "synonym": "The old woman",
-        "i": 22503
-    },
-    {
-        "pre": "prudence which age and experience\r\ngave, a small ship entered the port on board of which were an Alcalde\r\nand his alguazils, and this was ",
-        "word": "what had happened",
-        "post": ".",
-        "synonym": "What had happened",
-        "i": 22561
-    },
-    {
-        "pre": "As ",
-        "word": "the old woman",
-        "post": " had shrewdly guessed, it was a Grey Friar who stole\r\nCunegonde's money and jewels in the town of Badajos, when she and\r\nCandide were escaping",
-        "synonym": "The old woman",
-        "i": 22565
-    },
-    {
-        "pre": "must I leave you just ",
-        "word": "at a time",
-        "post": " when the\r\nGovernor was going to sanction our nuptials.",
-        "synonym": "at a time",
-        "i": 23189
-    },
-    {
-        "pre": "She will do as well as she can,\" said Cacambo; \"the women are never ",
-        "word": "at\r\na loss",
-        "post": ", God provides for them, let us run.",
-        "synonym": "at a loss",
-        "i": 23255
-    },
-    {
-        "pre": "He beckoned, and straightway the new-comers were encompassed\r\nby ",
-        "word": "four-and-twenty",
-        "post": " soldiers.",
-        "synonym": "four and twenty",
-        "i": 23941
-    },
-    {
-        "pre": "Candide was at once conducted to a beautiful summer-house, ornamented\r\nwith a very pretty colonnade of ",
-        "word": "green and gold",
-        "post": " marble, and with\r\ntrellises, enclosing parraquets, humming-birds, fly-birds, guinea-hens,\r\nand all other rare birds.",
-        "synonym": "green and gold",
-        "i": 24245
-    },
-    {
-        "pre": "Candide\" is only a \"Hamlet\" ",
-        "word": "and a half",
-        "post": " long.",
-        "synonym": "and a half",
-        "i": 1335
-    },
-    {
-        "pre": "",
-        "word": "What, is it",
-        "post": " you, reverend Father.",
-        "synonym": "what is it",
-        "i": 24741
-    },
-    {
-        "pre": "",
-        "word": "That is all",
-        "post": " I want,\" said Candide, \"for I intended to marry her, and I\r\nstill hope to do so.",
-        "synonym": "that is all",
-        "i": 25815
-    },
-    {
-        "pre": "Candide in an instant drew his rapier, and\r\nplunged it up ",
-        "word": "to the hilt",
-        "post": " in the Jesuit's belly; but in pulling it out\r\nreeking hot, he burst into tears.",
-        "synonym": "to the hilt",
-        "i": 26085
-    },
-    {
-        "pre": "in an instant drew his rapier, and\r\nplunged up it to the hilt in the Jesuit's belly; but in pulling it out\r\nreeking hot, he ",
-        "word": "burst into tears",
-        "post": ".",
-        "synonym": "burst into tears",
-        "i": 26109
-    },
-    {
-        "pre": "said he, \"I have killed my old master, my friend, my\r\n",
-        "word": "brother-in-law",
-        "post": ".",
-        "synonym": "brother in law",
-        "i": 26133
-    },
-    {
-        "pre": "",
-        "word": "I am the",
-        "post": " best-natured creature in the world, and yet I\r\nhave already killed three men, and of these three two were priests.",
-        "synonym": "I am the",
-        "i": 26135
-    },
-    {
-        "pre": "Cacambo, who had been in a great many scrapes in his lifetime, did not\r\nlose his head; he took the Baron's Jesuit habit, ",
-        "word": "put it on",
-        "post": " Candide, gave\r\nhim the square cap, and made him mount on horseback.",
-        "synonym": "put it on",
-        "i": 26317
-    },
-    {
-        "pre": "",
-        "word": "I told you",
-        "post": ", my dear master,\" cried Cacambo sadly, \"that those two girls\r\nwould play us some ugly trick.",
-        "synonym": "i told you",
-        "i": 27815
-    },
-    {
-        "pre": "and which have\r\nnot yet received the final deformation known as universal acceptance,\r\nto-day \"Candide\" is an inspiration to every narrative satirist who hates\r\n",
-        "word": "one of these",
-        "post": " new faiths, or hates every interpretation of it but his\r\nown.",
-        "synonym": "One of these",
-        "i": 2021
-    },
-    {
-        "pre": "It was not easy to get to Cayenne; they knew vaguely in which direction\r\nto go, but rivers, precipices, robbers, savages, obstructed them ",
-        "word": "all the\r\nway",
-        "post": ".",
-        "synonym": "all the way",
-        "i": 29081
-    },
-    {
-        "pre": "Cacambo, who was as good a counsellor as ",
-        "word": "the old woman",
-        "post": ", said to Candide.",
-        "synonym": "The old woman",
-        "i": 29171
-    },
-    {
-        "pre": "will inspire younger men and women, the only ones\r\nwho can be inspired, to have a try at Theodore, or Militarism; Jane, or\r\nPacifism; at ",
-        "word": "So-and-So",
-        "post": ", the Pragmatist or the Freudian.",
-        "synonym": "so and so",
-        "i": 2143
-    },
-    {
-        "pre": "At the end\r\nof ",
-        "word": "four-and-twenty",
-        "post": " hours they saw daylight again, but their canoe was\r\ndashed to pieces against the rocks.",
-        "synonym": "four and twenty",
-        "i": 29437
-    },
-    {
-        "pre": "The little truants immediately quitted their game, leaving the quoits\r\n",
-        "word": "on the ground",
-        "post": " with all their other playthings.",
-        "synonym": "on the ground",
-        "i": 29903
-    },
-    {
-        "pre": "A\r\ncrowd of people pressed about the door, and there were still more ",
-        "word": "in the\r\nhouse",
-        "post": ".",
-        "synonym": "in the house",
-        "i": 30169
-    },
-    {
-        "pre": "Cacambo went up ",
-        "word": "to the door",
-        "post": " and heard they were\r\ntalking Peruvian; it was his mother tongue, for it is well known that\r\nCacambo was born in Tucuman, in a village",
-        "synonym": "to the door",
-        "i": 30203
-    },
-    {
-        "pre": "",
-        "word": "I will be",
-        "post": " your interpreter here,\" said he to Candide; \"let us go in, it\r\nis a public-house.",
-        "synonym": "I Will Be",
-        "i": 30263
-    },
-    {
-        "pre": "It is probably the country where ",
-        "word": "all is\r\nwell",
-        "post": "; for there absolutely must be one such place.",
-        "synonym": "all is well",
-        "i": 30909
-    },
-    {
-        "pre": "",
-        "word": "The old man",
-        "post": " received the strangers on his sofa, which was stuffed with\r\nhumming-birds' feathers, and ordered his servants to present them with\r\nliqueurs in diamond goblets",
-        "synonym": "the old man",
-        "i": 31197
-    },
-    {
-        "pre": "",
-        "word": "The old man",
-        "post": " reddened a little.",
-        "synonym": "the old man",
-        "i": 31715
-    },
-    {
-        "pre": "",
-        "word": "The old man",
-        "post": " reddened again.",
-        "synonym": "the old man",
-        "i": 31767
-    },
-    {
-        "pre": "Surely,\" said ",
-        "word": "the old man",
-        "post": ", \"there are not two, nor three, nor four.",
-        "synonym": "the old man",
-        "i": 31851
-    },
-    {
-        "pre": "We must be mad, indeed, if that were the case,\" said ",
-        "word": "the old man",
-        "post": "; \"here\r\nwe are all of one opinion, and we know not what you mean by monks.",
-        "synonym": "the old man",
-        "i": 32143
-    },
-    {
-        "pre": "After this long conversation ",
-        "word": "the old man",
-        "post": " ordered a coach and six sheep\r\nto be got ready, and twelve of his domestics to conduct the travellers\r\nto Court.",
-        "synonym": "the old man",
-        "i": 32281
-    },
-    {
-        "pre": "After rambling about the city the whole afternoon, and seeing but a\r\nthousandth ",
-        "word": "part of it",
-        "post": ", they were reconducted to the royal palace, where\r\nCandide sat down to table with his Majesty, his valet Cacambo, and\r\nseveral ladies.",
-        "synonym": "part of it",
-        "i": 33141
-    },
-    {
-        "pre": "cried Candide, \"thou hadst not guessed at this\r\nabomination; it ",
-        "word": "is the end",
-        "post": ".",
-        "synonym": "is the END",
-        "i": 35331
-    },
-    {
-        "pre": "",
-        "word": "What is this",
-        "post": " optimism.",
-        "synonym": "What is this",
-        "i": 35345
-    },
-    {
-        "pre": "once more to himself, \"thirty thousand\r\npiastres are a trifle to this man; surely these sheep must be laden with\r\nan immense treasure; let us ",
-        "word": "say no more",
-        "post": " about it.",
-        "synonym": "say no more",
-        "i": 36363
-    },
-    {
-        "pre": "The skipper seized his opportunity, set sail, and\r\nput ",
-        "word": "out to sea",
-        "post": ", the wind favouring him.",
-        "synonym": "Out to Sea",
-        "i": 36487
-    },
-    {
-        "pre": "",
-        "word": "He made it",
-        "post": " known in the town that\r\nhe would pay the passage and board and give two thousand piastres to any\r\nhonest man who would make the",
-        "synonym": "he made it",
-        "i": 36889
-    },
-    {
-        "pre": "They sat until four o'clock ",
-        "word": "in the morning",
-        "post": ".",
-        "synonym": "In the morning",
-        "i": 37163
-    },
-    {
-        "pre": "Candide, in listening to all\r\ntheir adventures, was reminded of what ",
-        "word": "the old woman",
-        "post": " had said to him in\r\ntheir voyage to Buenos Ayres, and of her wager that there was not a\r\nperson on board the ship but",
-        "synonym": "The old woman",
-        "i": 37187
-    },
-    {
-        "pre": "Candide, however, had one great advantage over Martin, in that he always\r\nhoped to see Miss Cunegonde; whereas Martin had ",
-        "word": "nothing at all",
-        "post": " to hope.",
-        "synonym": "Nothing At All",
-        "i": 37771
-    },
-    {
-        "pre": "",
-        "word": "In the middle",
-        "post": " of this dispute they heard the report of cannon; it\r\nredoubled every instant.",
-        "synonym": "in the middle",
-        "i": 38457
-    },
-    {
-        "pre": "Yes, ",
-        "word": "I have. All",
-        "post": " these kinds are found there.",
-        "synonym": "I have all",
-        "i": 39309
-    },
-    {
-        "pre": "All these kinds are found ",
-        "word": "there. It is",
-        "post": " a chaos--a confused\r\nmultitude, where everybody seeks pleasure and scarcely any one finds it,\r\nat least as it appeared to me.",
-        "synonym": "there it is",
-        "i": 39319
-    },
-    {
-        "pre": "How ",
-        "word": "the Old Woman",
-        "post": " took care of\r\n        Candide, and how he found the Object\r\n        he loved                                                26.",
-        "synonym": "The old woman",
-        "i": 2409
-    },
-    {
-        "pre": "It is said that Venice is fit only\r\nfor its own nobility, but that strangers meet with a very good reception\r\nif they ",
-        "word": "have a good",
-        "post": " deal of money.",
-        "synonym": "Have a good",
-        "i": 39671
-    },
-    {
-        "pre": "",
-        "word": "Not at all",
-        "post": ",\" said Martin.",
-        "synonym": "not at all",
-        "i": 39883
-    },
-    {
-        "pre": "Candide wondered why it was\r\nthat the ace never came to him; but Martin was ",
-        "word": "not at all",
-        "post": " astonished.",
-        "synonym": "not at all",
-        "i": 40943
-    },
-    {
-        "pre": "Among those who did him the honours of the town was a little Abbé of\r\nPerigord, ",
-        "word": "one of those",
-        "post": " busybodies who are ever alert, officious,\r\nforward, fawning, and complaisant; who watch for strangers in their\r\npassage through the capital, tell them the scandalous history",
-        "synonym": "One of Those",
-        "i": 40977
-    },
-    {
-        "pre": "",
-        "word": "One of these",
-        "post": " critics at his\r\nside said to him between the acts.",
-        "synonym": "One of these",
-        "i": 41121
-    },
-    {
-        "pre": "Yes,\" said the Abbé, \"but it means nothing, for they complain of\r\neverything with great fits of laughter; they even ",
-        "word": "do the most",
-        "post": " detestable\r\nthings while laughing.",
-        "synonym": "Do The Most",
-        "i": 41833
-    },
-    {
-        "pre": "well rhymed, others political\r\nreasonings which lull to sleep, or amplifications which repel; others\r\ndemoniac dreams in barbarous style, interrupted in sequence, with long\r\napostrophes ",
-        "word": "to the gods",
-        "post": ", because they do not know how to speak to men,\r\nwith false maxims, with bombastic commonplaces.",
-        "synonym": "To the Gods",
-        "i": 43541
-    },
-    {
-        "pre": "madame,\" said Candide, \"I will answer you ",
-        "word": "as you wish",
-        "post": ".",
-        "synonym": "as you wish",
-        "i": 44379
-    },
-    {
-        "pre": "In what distress Candide, Cunegonde,\r\n        and ",
-        "word": "the Old Woman",
-        "post": " arrived at\r\n        Cadiz; and of their Embarkation                         38.",
-        "synonym": "The old woman",
-        "i": 2483
-    },
-    {
-        "pre": "But I wish that you would ",
-        "word": "put it on",
-        "post": ",\" said the lady.",
-        "synonym": "put it on",
-        "i": 44439
-    },
-    {
-        "pre": "History of ",
-        "word": "the Old Woman",
-        "post": "                                42.",
-        "synonym": "The old woman",
-        "i": 2507
-    },
-    {
-        "pre": "",
-        "word": "I have never",
-        "post": " received any from her,\" said Candide, \"for being expelled\r\nfrom the castle on her account I had not an opportunity for writing to\r\nher.",
-        "synonym": "i have never",
-        "i": 44965
-    },
-    {
-        "pre": "I was\r\ninformed of your passage at Bordeaux, where I left faithful Cacambo and\r\n",
-        "word": "the old woman",
-        "post": ", who are to follow me very soon.",
-        "synonym": "The old woman",
-        "i": 45247
-    },
-    {
-        "pre": "Take care ",
-        "word": "what you do",
-        "post": ",\" said the servant-maid; \"the light hurts her,\"\r\nand immediately she drew the curtain again.",
-        "synonym": "what you do?",
-        "i": 45453
-    },
-    {
-        "pre": "My dear Cunegonde,\" said Candide, weeping, \"",
-        "word": "how are you",
-        "post": ".",
-        "synonym": "How are you?",
-        "i": 45495
-    },
-    {
-        "pre": "",
-        "word": "You know that",
-        "post": " these two\r\nnations are at war for a few acres of snow in Canada,[31] and that they\r\nspend over this beautiful war much more than",
-        "synonym": "you know that",
-        "i": 46721
-    },
-    {
-        "pre": "",
-        "word": "All\r\nis well",
-        "post": ", all will be well, all goes as well as possible.",
-        "synonym": "all is well",
-        "i": 47407
-    },
-    {
-        "pre": "The Adventures of ",
-        "word": "the Old Woman",
-        "post": "\r\n        continued                                               48.",
-        "synonym": "The old woman",
-        "i": 2519
-    },
-    {
-        "pre": "",
-        "word": "I see that",
-        "post": " you have\r\nheard all.",
-        "synonym": "I see that",
-        "i": 48565
-    },
-    {
-        "pre": "sir, if\r\nyou could only imagine ",
-        "word": "what it is",
-        "post": " to be obliged to caress indifferently\r\nan old merchant, a lawyer, a monk, a gondolier, an abbé, to be exposed\r\nto abuse and insults; to",
-        "synonym": "what it is",
-        "i": 49113
-    },
-    {
-        "pre": "Father,\" said Candide to the Friar, \"you appear to me to enjoy a state\r\nthat all the world might envy; the flower of health shines ",
-        "word": "in your face",
-        "post": ",\r\nyour expression makes plain your happiness; you have a very pretty girl\r\nfor your recreation, and you seem well satisfied with your state as a",
-        "synonym": "In your face",
-        "i": 49633
-    },
-    {
-        "pre": "",
-        "word": "I see\r\nthat",
-        "post": " we often meet with those whom we expected never to see more; so\r\nthat, perhaps, as I have found my red sheep and Paquette, it",
-        "synonym": "I see that",
-        "i": 50081
-    },
-    {
-        "pre": "How Candide was forced away from his\r\n        fair Cunegonde and ",
-        "word": "the Old Woman",
-        "post": "                        54.",
-        "synonym": "The old woman",
-        "i": 2547
-    },
-    {
-        "pre": "He\r\nreceived the two travellers with polite indifference, which put Candide\r\na little out of countenance, but was ",
-        "word": "not at all",
-        "post": " disagreeable to Martin.",
-        "synonym": "not at all",
-        "i": 50583
-    },
-    {
-        "pre": "go to see bad tragedies\r\nset to music, where the scenes are contrived for no other end than to\r\nintroduce two or three songs ridiculously ",
-        "word": "out of place",
-        "post": ", to show off an\r\nactress's voice.",
-        "synonym": "Out of place",
-        "i": 51239
-    },
-    {
-        "pre": "",
-        "word": "What is it",
-        "post": " to me whether he\r\npleads for Rabirius or Cluentius.",
-        "synonym": "what is it",
-        "i": 52299
-    },
-    {
-        "pre": "There might be,\" said Pococurante, \"if only ",
-        "word": "one of those",
-        "post": " rakers of\r\nrubbish had shown how to make pins; but in all these volumes there is\r\nnothing but chimerical systems, and not a single useful",
-        "synonym": "One of Those",
-        "i": 52449
-    },
-    {
-        "pre": "I have a notion,\" said he, \"that a Republican must be greatly pleased\r\nwith most of these books, which are written ",
-        "word": "with a spirit",
-        "post": " of freedom.",
-        "synonym": "With A Spirit",
-        "i": 52679
-    },
-    {
-        "pre": "I should be pleased with the liberty which inspires the\r\nEnglish genius if passion and party spirit did not corrupt ",
-        "word": "all that is",
-        "post": "\r\nestimable in this precious liberty.",
-        "synonym": "All that is",
-        "i": 52819
-    },
-    {
-        "pre": "I can tell you\r\nnothing more; I am a slave, my master awaits me, I must serve him at\r\ntable; speak ",
-        "word": "not a word",
-        "post": ", eat, and then get ready.",
-        "synonym": "NOT A WORD",
-        "i": 54161
-    },
-    {
-        "pre": "Therefore\r\nI will ",
-        "word": "take care of",
-        "post": " myself.",
-        "synonym": "take care of",
-        "i": 54719
-    },
-    {
-        "pre": "I am ",
-        "word": "not at all",
-        "post": " joking.",
-        "synonym": "not at all",
-        "i": 54829
-    },
-    {
-        "pre": "",
-        "word": "My name is",
-        "post": " Achmet III.",
-        "synonym": "My Name Is...",
-        "i": 54833
-    },
-    {
-        "pre": "My\r\nnephew, the great Sultan Mahmoud, permits me to travel sometimes ",
-        "word": "for my\r\nhealth",
-        "post": ", and I am come to spend the Carnival at Venice.",
-        "synonym": "For my health",
-        "i": 54917
-    },
-    {
-        "pre": "",
-        "word": "My name is",
-        "post": " Ivan.",
-        "synonym": "My Name Is...",
-        "i": 54959
-    },
-    {
-        "pre": "How Candide found Cunegonde and\r\n        ",
-        "word": "the Old Woman",
-        "post": " again                                    159.",
-        "synonym": "The old woman",
-        "i": 2905
-    },
-    {
-        "pre": "",
-        "word": "I am the",
-        "post": " King of Poland; the fortune of war has stripped me of my\r\nhereditary dominions; my father underwent the same vicissitudes; I\r\nresign myself to Providence",
-        "synonym": "I am the",
-        "i": 55219
-    },
-    {
-        "pre": "I have\r\ncoined money, and now am not worth a farthing; I have had two\r\n",
-        "word": "secretaries of state",
-        "post": ", and now I have scarce a valet; I have seen myself\r\non a throne, and I have seen myself upon straw in a common jail",
-        "synonym": "secretary of state",
-        "i": 55551
-    },
-    {
-        "pre": "You see,\" said Candide to Martin on the way, \"we supped with six\r\ndethroned kings, and of those six ",
-        "word": "there was one",
-        "post": " to whom I gave charity.",
-        "synonym": "There was one",
-        "i": 56019
-    },
-    {
-        "pre": "Consequently\r\nthey who assert that ",
-        "word": "all is well",
-        "post": " have said a foolish thing, they should\r\nhave said all is for the best.",
-        "synonym": "all is well",
-        "i": 3733
-    },
-    {
-        "pre": "Cunegonde and ",
-        "word": "the old\r\nwoman",
-        "post": " serve the prince I now mentioned to you, and I am slave to the\r\ndethroned Sultan.",
-        "synonym": "The old woman",
-        "i": 56727
-    },
-    {
-        "pre": "on reaching the castle and blushed; Candide blushed\r\nalso; she wished him good morrow in a faltering tone, and Candide spoke\r\nto her without knowing ",
-        "word": "what he said",
-        "post": ".",
-        "synonym": "what he said",
-        "i": 4165
-    },
-    {
-        "pre": "",
-        "word": "What! it is",
-        "post": " Candide.",
-        "synonym": "what it is",
-        "i": 57461
-    },
-    {
-        "pre": "",
-        "word": "What! it is",
-        "post": " Candide.",
-        "synonym": "what it is",
-        "i": 57475
-    },
-    {
-        "pre": "",
-        "word": "Say no more",
-        "post": " about it,\" answered the Baron.",
-        "synonym": "say no more",
-        "i": 58283
-    },
-    {
-        "pre": "The Baron maintained that he had\r\nsuffered greater injustice than ",
-        "word": "I, and I",
-        "post": " insisted that it was far more\r\ninnocent to take up a bouquet and place it again on a woman's bosom than\r\nto be found stark naked",
-        "synonym": "I and I",
-        "i": 59721
-    },
-    {
-        "pre": "HOW CANDIDE FOUND CUNEGONDE AND ",
-        "word": "THE OLD WOMAN",
-        "post": " AGAIN.",
-        "synonym": "The old woman",
-        "i": 59995
-    },
-    {
-        "pre": "The\r\nfirst objects which met their sight were Cunegonde and ",
-        "word": "the old woman",
-        "post": "\r\nhanging towels out to dry.",
-        "synonym": "The old woman",
-        "i": 60145
-    },
-    {
-        "pre": "She embraced Candide and\r\nher brother; they embraced ",
-        "word": "the old woman",
-        "post": ", and Candide ransomed them\r\nboth.",
-        "synonym": "The old woman",
-        "i": 60247
-    },
-    {
-        "pre": "There was a small farm in the neighbourhood which ",
-        "word": "the old woman",
-        "post": "\r\nproposed to Candide to make a shift with till the company could be\r\nprovided for in a better manner.",
-        "synonym": "The old woman",
-        "i": 60275
-    },
-    {
-        "pre": "Thou mayest kill me again,\" said the Baron, \"but ",
-        "word": "thou shalt not",
-        "post": " marry\r\nmy sister, at least whilst I am living.",
-        "synonym": "Thou Shalt Not",
-        "i": 60653
-    },
-    {
-        "pre": "This advice was well received, ",
-        "word": "the old woman",
-        "post": " approved\r\nit; they said not a word to his sister; the thing was executed for a\r\nlittle money, and they had the double pleasure of",
-        "synonym": "The old woman",
-        "i": 60927
-    },
-    {
-        "pre": "This advice was well received, the old woman approved\r\nit; they said ",
-        "word": "not a word",
-        "post": " to his sister; the thing was executed for a\r\nlittle money, and they had the double pleasure of entrapping a Jesuit,\r\nand punishing the pride",
-        "synonym": "NOT A WORD",
-        "i": 60937
-    },
-    {
-        "pre": "It is natural to imagine that after so many disasters Candide married,\r\nand living with the philosopher Pangloss, the philosopher Martin, the\r\nprudent Cacambo, and ",
-        "word": "the old woman",
-        "post": ", having besides brought so many\r\ndiamonds from the country of the ancient Incas, must have led a very\r\nhappy life.",
-        "synonym": "The old woman",
-        "i": 61037
-    },
-    {
-        "pre": "so much imposed upon by the Jews that he had\r\nnothing left except his small farm; his wife became uglier every day,\r\nmore peevish and unsupportable; ",
-        "word": "the old woman",
-        "post": " was infirm and even more\r\nfretful than Cunegonde.",
-        "synonym": "The old woman",
-        "i": 61129
-    },
-    {
-        "pre": "Cacambo, who worked ",
-        "word": "in the garden",
-        "post": ", and took\r\nvegetables for sale to Constantinople, was fatigued with hard work, and\r\ncursed his destiny.",
-        "synonym": "In the garden",
-        "i": 61151
-    },
-    {
-        "pre": "spectacles as these increased the number of their\r\ndissertations; and when they did not dispute time hung so heavily upon\r\ntheir hands, that one day ",
-        "word": "the old woman",
-        "post": " ventured to say to them.",
-        "synonym": "The old woman",
-        "i": 61425
-    },
-    {
-        "pre": "I want to know which is worse, to be ravished a hundred times by negro\r\npirates, to have a buttock cut off, to ",
-        "word": "run the gauntlet",
-        "post": " among the\r\nBulgarians, to be whipped and hanged at an _auto-da-fé_, to be\r\ndissected, to row in the galleys--in short, to go",
-        "synonym": "Run the Gauntlet",
-        "i": 61477
-    },
-    {
-        "pre": "This discourse gave rise to new reflections, and Martin especially\r\nconcluded that man was born to live either ",
-        "word": "in a state",
-        "post": " of distracting\r\ninquietude or of lethargic disgust.",
-        "synonym": "in a state",
-        "i": 61605
-    },
-    {
-        "pre": "Do ",
-        "word": "you know that",
-        "post": " you cost me the tip of\r\nmy nose, an eye, and an ear, as you may see.",
-        "synonym": "you know that",
-        "i": 61965
-    },
-    {
-        "pre": "",
-        "word": "Hold your tongue",
-        "post": ",\" answered the Dervish.",
-        "synonym": "Hold Your Tongue",
-        "i": 62237
-    },
-    {
-        "pre": "Pangloss, who was as inquisitive as he was argumentative, asked ",
-        "word": "the old\r\nman",
-        "post": " what was the name of the strangled Mufti.",
-        "synonym": "the old man",
-        "i": 62463
-    },
-    {
-        "pre": "I have only twenty acres,\" replied ",
-        "word": "the old man",
-        "post": "; \"I and my children\r\ncultivate them; our labour preserves us from three great\r\nevils--weariness, vice, and want.",
-        "synonym": "the old man",
-        "i": 62793
-    },
-    {
-        "pre": "",
-        "word": "right are You",
-        "post": ",\" said Pangloss, \"for when man was first placed in the\r\nGarden of Eden, he was put there _ut operaretur eum_, that he might\r\ncultivate it",
-        "synonym": "you are right",
-        "i": 63143
-    },
-    {
-        "pre": "He lay down to sleep without supper, ",
-        "word": "in the middle",
-        "post": "\r\nof a field between two furrows.",
-        "synonym": "in the middle",
-        "i": 4491
-    },
-    {
-        "pre": "Cunegonde was, indeed, very ugly, but she became an excellent\r\npastry cook; Paquette worked at embroidery; ",
-        "word": "the old woman",
-        "post": " looked after\r\nthe linen.",
-        "synonym": "The old woman",
-        "i": 63309
+        "i": 6253
     },
     {
         "pre": "",
         "word": "All that is",
         "post": " very well,\" answered Candide, \"but let us cultivate our\r\ngarden.",
         "synonym": "All that is",
-        "i": 63527
+        "i": 63145
+    },
+    {
+        "pre": "It was\r\nnecessary for me to have been banished from the presence of Miss\r\nCunegonde, to have afterwards ",
+        "word": "run the gauntlet",
+        "post": ", and now it is necessary\r\nI should beg my bread until I learn to earn it; all this cannot be\r\notherwise.",
+        "synonym": "Run the Gauntlet",
+        "i": 6675
+    },
+    {
+        "pre": "that all is for the best in this world,\r\nfor I am infinitely more touched by your extreme generosity than with\r\nthe inhumanity of that gentleman ",
+        "word": "in the black",
+        "post": " coat and his lady.",
+        "synonym": "in the black",
+        "i": 7075
+    },
+    {
+        "pre": "The next day, as he ",
+        "word": "took a walk",
+        "post": ", he met a beggar all covered with scabs,\r\nhis eyes diseased, the end of his nose eaten away, his mouth distorted,\r\nhis teeth black, choking",
+        "synonym": "took a walk",
+        "i": 7093
+    },
+    {
+        "pre": "What do ",
+        "word": "I hear? You",
+        "post": ", my dear master.",
+        "synonym": "I hear you",
+        "i": 7317
+    },
+    {
+        "pre": "Candide fainted at this word; his friend recalled his senses with a\r\nlittle bad vinegar which he found by chance ",
+        "word": "in the stable",
+        "post": ".",
+        "synonym": "in the stable",
+        "i": 7505
+    },
+    {
+        "pre": "Ah, best of worlds, ",
+        "word": "where art thou",
+        "post": ".",
+        "synonym": "Where Art Thou?",
+        "i": 7529
+    },
+    {
+        "pre": "",
+        "word": "Not at all",
+        "post": ",\" replied this great man, \"it was a thing unavoidable, a\r\nnecessary ingredient in the best of worlds; for if Columbus had not in\r\nan island",
+        "synonym": "not at all",
+        "i": 8251
+    },
+    {
+        "pre": "he, \"mankind have a little corrupted nature,\r\nfor they were not born wolves, and they have become wolves; God has\r\ngiven them neither cannon of ",
+        "word": "four-and-twenty",
+        "post": " pounders, nor bayonets; and\r\nyet they have made cannon and bayonets to destroy one another.",
+        "synonym": "four and twenty",
+        "i": 8953
+    },
+    {
+        "pre": "Nothing more probable,\" said Candide; \"but ",
+        "word": "for the love",
+        "post": " of God a little\r\noil and wine.",
+        "synonym": "for the love",
+        "i": 10195
+    },
+    {
+        "pre": "Pangloss was ",
+        "word": "in the middle",
+        "post": " of his sentence, when the Familiar beckoned\r\nto his footman, who gave him a glass of wine from Porto or Opporto.",
+        "synonym": "in the middle",
+        "i": 10675
+    },
+    {
+        "pre": "Well,\r\nif I had been only whipped I could put ",
+        "word": "up with it",
+        "post": ", for I experienced\r\nthat among the Bulgarians; but oh, my dear Pangloss.",
+        "synonym": "up with it",
+        "i": 11307
+    },
+    {
+        "pre": "HOW ",
+        "word": "THE OLD WOMAN",
+        "post": " TOOK CARE OF CANDIDE, AND HOW HE FOUND THE OBJECT HE\r\nLOVED.",
+        "synonym": "The old woman",
+        "i": 11473
+    },
+    {
+        "pre": "Candide did not take courage, but followed ",
+        "word": "the old woman",
+        "post": " to a decayed\r\nhouse, where she gave him a pot of pomatum to anoint his sores, showed\r\nhim a very neat little bed, with a",
+        "synonym": "The old woman",
+        "i": 11509
+    },
+    {
+        "pre": "Candide, amazed at all he had suffered and still more with the charity\r\nof ",
+        "word": "the old woman",
+        "post": ", wished to kiss her hand.",
+        "synonym": "The old woman",
+        "i": 11675
+    },
+    {
+        "pre": "It is not my hand you must kiss,\" said ",
+        "word": "the old woman",
+        "post": "; \"I shall be back\r\nto-morrow.",
+        "synonym": "The old woman",
+        "i": 11701
+    },
+    {
+        "pre": "The next\r\nmorning ",
+        "word": "the old woman",
+        "post": " brought him his breakfast, looked at his back, and\r\nrubbed it herself with another ointment: in like manner she brought him\r\nhis dinner; and at night",
+        "synonym": "The old woman",
+        "i": 11747
+    },
+    {
+        "pre": "",
+        "word": "Who are you",
+        "post": ".",
+        "synonym": "who are you?",
+        "i": 11825
+    },
+    {
+        "pre": "",
+        "word": "The old woman",
+        "post": " knocked at a little door, it opened,\r\nshe led Candide up a private staircase into a small apartment richly\r\nfurnished.",
+        "synonym": "The old woman",
+        "i": 11957
+    },
+    {
+        "pre": "Candide thought himself in a dream; indeed, that he had been dreaming\r\nunluckily all his life, and that the present moment was the only\r\nagreeable ",
+        "word": "part of it",
+        "post": " all.",
+        "synonym": "part of it",
+        "i": 12071
+    },
+    {
+        "pre": "",
+        "word": "The old woman",
+        "post": " returned very soon, supporting with difficulty a trembling\r\nwoman of a majestic figure, brilliant with jewels, and covered with a\r\nveil.",
+        "synonym": "The old woman",
+        "i": 12075
+    },
+    {
+        "pre": "Take off that veil,\" said ",
+        "word": "the old woman",
+        "post": " to Candide.",
+        "synonym": "The old woman",
+        "i": 12125
+    },
+    {
+        "pre": "",
+        "word": "The old\r\nwoman",
+        "post": " supplies a smelling bottle; they come to themselves and recover\r\ntheir speech.",
+        "synonym": "The old woman",
+        "i": 12225
+    },
+    {
+        "pre": "",
+        "word": "The old woman",
+        "post": " desired they would make less noise and then she left them\r\nto themselves.",
+        "synonym": "The old woman",
+        "i": 12285
+    },
+    {
+        "pre": "",
+        "word": "What, is it",
+        "post": " you.",
+        "synonym": "what is it",
+        "i": 12311
+    },
+    {
+        "pre": "and how ",
+        "word": "did you know",
+        "post": " of my being here.",
+        "synonym": "Did you know?",
+        "i": 12451
+    },
+    {
+        "pre": "I will tell you all that,\" replied the lady, \"but first of all ",
+        "word": "let me\r\nknow",
+        "post": " your history, since the innocent kiss you gave me and the kicks\r\nwhich you received.",
+        "synonym": "Let me know",
+        "i": 12509
+    },
+    {
+        "pre": "Pangloss should both be at Lisbon, the one to receive a hundred\r\nlashes, and the other to be hanged by the Grand Inquisitor, of whom ",
+        "word": "I am\r\nthe",
+        "post": " well-beloved.",
+        "synonym": "I am the",
+        "i": 14221
+    },
+    {
+        "pre": "Agitated, lost, sometimes beside myself, and sometimes ",
+        "word": "ready to die",
+        "post": " of\r\nweakness, my mind was filled with the massacre of my father, mother, and\r\nbrother, with the insolence of the ugly Bulgarian soldier, with the",
+        "synonym": "ready to die",
+        "i": 14269
+    },
+    {
+        "pre": "abominable Inquisitor, with the execution\r\nof Doctor Pangloss, with the grand Miserere to which they whipped you,\r\nand especially with the kiss I gave you ",
+        "word": "behind the screen",
+        "post": " the day that I\r\nhad last seen you.",
+        "synonym": "Behind the Screen",
+        "i": 14393
+    },
+    {
+        "pre": "I praised God for bringing you back to me after many\r\nso trials, and I charged my old woman to ",
+        "word": "of care take",
+        "post": " you, and to\r\nconduct you hither as soon as possible.",
+        "synonym": "take care of",
+        "i": 14447
+    },
+    {
+        "pre": "Candide\" is only a \"Hamlet\" ",
+        "word": "and a half",
+        "post": " long.",
+        "synonym": "and a half",
+        "i": 1319
+    },
+    {
+        "pre": "him;\r\nand not imagining that his adversary had any arms he threw himself upon\r\nCandide: but our honest Westphalian had received a handsome sword from\r\n",
+        "word": "the old woman",
+        "post": " along with the suit of clothes.",
+        "synonym": "The old woman",
+        "i": 14799
+    },
+    {
+        "pre": "Failing\r\nhim let us consult ",
+        "word": "the old woman",
+        "post": ".",
+        "synonym": "The old woman",
+        "i": 14945
+    },
+    {
+        "pre": "He\r\nentered, and saw the whipped Candide, sword in hand, a dead man upon the\r\nfloor, Cunegonde aghast, and ",
+        "word": "the old woman",
+        "post": " giving counsel.",
+        "synonym": "The old woman",
+        "i": 15053
+    },
+    {
+        "pre": "This reasoning\r\nwas clear and instantaneous; so that without giving time to the\r\nInquisitor to recover from his surprise, he pierced him ",
+        "word": "through and\r\nthrough",
+        "post": ", and cast him beside the Jew.",
+        "synonym": "through and through",
+        "i": 15229
+    },
+    {
+        "pre": "",
+        "word": "The old woman",
+        "post": " then put in her word, saying.",
+        "synonym": "The old woman",
+        "i": 15347
+    },
+    {
+        "pre": "He can afford to be witty, parenthetically, ",
+        "word": "by\r\nthe way",
+        "post": ", prodigally, without saving, because he knows there is more wit\r\nwhere that came from.",
+        "synonym": "by the way",
+        "i": 1449
+    },
+    {
+        "pre": "Immediately Candide saddled the three horses, and Cunegonde, ",
+        "word": "the old\r\nwoman",
+        "post": " and he, travelled thirty miles at a stretch.",
+        "synonym": "The old woman",
+        "i": 15487
+    },
+    {
+        "pre": "Candide, Cunegonde, and ",
+        "word": "the old woman",
+        "post": ", had now reached the little town\r\nof Avacena in the midst of the mountains of the Sierra Morena, and were\r\nspeaking as follows in a",
+        "synonym": "The old woman",
+        "i": 15563
+    },
+    {
+        "pre": "Candide, Cunegonde, and the old woman, had now reached the little town\r\nof Avacena in the midst ",
+        "word": "of the mountains",
+        "post": " of the Sierra Morena, and were\r\nspeaking as follows in a public inn.",
+        "synonym": "of the Mountain",
+        "i": 15587
+    },
+    {
+        "pre": "IN WHAT DISTRESS CANDIDE, CUNEGONDE, AND ",
+        "word": "THE OLD WOMAN",
+        "post": " ARRIVED AT CADIZ;\r\nAND OF THEIR EMBARKATION.",
+        "synonym": "The old woman",
+        "i": 15627
+    },
+    {
+        "pre": "said ",
+        "word": "the old woman",
+        "post": ", \"I have a shrewd suspicion of a reverend\r\nGrey Friar, who stayed last night in the same inn with us at Badajos.",
+        "synonym": "The old woman",
+        "i": 15713
+    },
+    {
+        "pre": "Have you\r\n",
+        "word": "nothing at all",
+        "post": " left, my dear Cunegonde.",
+        "synonym": "Nothing At All",
+        "i": 15895
+    },
+    {
+        "pre": "Sell one of the horses,\" replied ",
+        "word": "the old woman",
+        "post": ".",
+        "synonym": "The old woman",
+        "i": 15941
+    },
+    {
+        "pre": "Candide, Cunegonde, and ",
+        "word": "the old woman",
+        "post": ", having passed\r\nthrough Lucena, Chillas, and Lebrixa, arrived at length at Cadiz.",
+        "synonym": "The old woman",
+        "i": 16017
+    },
+    {
+        "pre": "He set sail with Miss Cunegonde,\r\n",
+        "word": "the old woman",
+        "post": ", two valets, and the two Andalusian horses, which had\r\nbelonged to the grand Inquisitor of Portugal.",
+        "synonym": "The old woman",
+        "i": 16231
+    },
+    {
+        "pre": "",
+        "word": "you love I",
+        "post": " with all my heart,\" said Cunegonde; \"but my soul is still\r\nfull of fright at that which I have seen and experienced.",
+        "synonym": "I Love You",
+        "i": 16369
+    },
+    {
+        "pre": "Underneath\r\nis this legend: \"The Grave Misgivings of the Nineteenth Century, and the\r\nWicked Amusement of the Eighteenth, in Watching the Progress (or\r\n",
+        "word": "whatever it is",
+        "post": ") of the Twentieth.",
+        "synonym": "whatever it is",
+        "i": 1563
+    },
+    {
+        "pre": "You complain,\" said ",
+        "word": "the old woman",
+        "post": "; \"alas.",
+        "synonym": "The old woman",
+        "i": 16527
+    },
+    {
+        "pre": "Miss,\" replied ",
+        "word": "the old woman",
+        "post": ", \"you do not know my birth; and were I to\r\nshow you my backside, you would not talk in that manner, but would\r\nsuspend your",
+        "synonym": "The old woman",
+        "i": 16731
+    },
+    {
+        "pre": "This speech having raised extreme curiosity in the minds of Cunegonde\r\nand Candide, ",
+        "word": "the old woman",
+        "post": " spoke to them as follows.",
+        "synonym": "The old woman",
+        "i": 16805
+    },
+    {
+        "pre": "HISTORY OF ",
+        "word": "THE OLD WOMAN",
+        "post": ".",
+        "synonym": "The old woman",
+        "i": 16821
+    },
+    {
+        "pre": "",
+        "word": "I am the",
+        "post": " daughter of\r\nPope Urban X,[10] and of the Princess of Palestrina.",
+        "synonym": "I am the",
+        "i": 16869
+    },
+    {
+        "pre": "There\r\nwas surprising pomp and magnificence; there were _fêtes_, carousals,\r\ncontinual _opera bouffe_; and all Italy composed sonnets in my praise,\r\nthough not ",
+        "word": "one of them",
+        "post": " was passable.",
+        "synonym": "One of them",
+        "i": 17299
+    },
+    {
+        "pre": "Certainly the Princess of Palestrina and myself ",
+        "word": "must have been",
+        "post": "\r\nvery strong to go through all that we experienced until our arrival at\r\nMorocco.",
+        "synonym": "Must Have Been",
+        "i": 18099
+    },
+    {
+        "pre": "But let us pass on; these are such common things as ",
+        "word": "not to be",
+        "post": "\r\nworth mentioning.",
+        "synonym": "not to be",
+        "i": 18145
+    },
+    {
+        "pre": "A Moor seized my mother by the right arm, while my\r\ncaptain's lieutenant held her ",
+        "word": "by the left",
+        "post": "; a Moorish soldier had hold of\r\nher by one leg, and one of our corsairs held her by the other.",
+        "synonym": "By the left",
+        "i": 18505
+    },
+    {
+        "pre": "I was in this\r\nstate of weakness and insensibility, between ",
+        "word": "life and death",
+        "post": ", when I\r\nfelt myself pressed by something that moved upon my body.",
+        "synonym": "life and death",
+        "i": 18879
+    },
+    {
+        "pre": "THE ADVENTURES OF ",
+        "word": "THE OLD WOMAN",
+        "post": " CONTINUED.",
+        "synonym": "The old woman",
+        "i": 18965
+    },
+    {
+        "pre": "You have seen\r\nearthquakes; but pray, miss, ",
+        "word": "have you ever",
+        "post": " had the plague.",
+        "synonym": "Have you ever",
+        "i": 19673
+    },
+    {
+        "pre": "If you had,\" said ",
+        "word": "the old woman",
+        "post": ", \"you would acknowledge that it is far\r\nmore terrible than an earthquake.",
+        "synonym": "The old woman",
+        "i": 19693
+    },
+    {
+        "pre": "Imagine to yourself the distressed situation of the daughter of a\r\nPope, only fifteen years old, who, in ",
+        "word": "less than three",
+        "post": " months, had felt\r\nthe miseries of poverty and slavery, had been ravished almost every day,\r\nhad beheld her mother drawn in quarters, had experienced famine",
+        "synonym": "less than three",
+        "i": 19771
+    },
+    {
+        "pre": "It has the\r\nrapidity of high spirits ",
+        "word": "playing a game",
+        "post": ".",
+        "synonym": "Playing A Game",
+        "i": 1749
+    },
+    {
+        "pre": "We had a very pious and humane Iman, who preached an excellent sermon,\r\nexhorting them not to kill us ",
+        "word": "all at once",
+        "post": ".",
+        "synonym": "All-At-Once",
+        "i": 20313
+    },
+    {
+        "pre": "There are French surgeons in all parts of the world; ",
+        "word": "one of\r\nthem",
+        "post": " who was very clever took us under his care--he cured us; and as\r\nlong as I live I shall remember that as soon as",
+        "synonym": "One of them",
+        "i": 20545
+    },
+    {
+        "pre": "in are French surgeons in all parts of world the; one of\r\nthem who was very clever took us under his care--he cured ",
+        "word": "us; and as",
+        "post": "\r\nlong as I live I shall remember that as soon as my wounds were healed he\r\nmade proposals to me.",
+        "synonym": "us and a",
+        "i": 20569
+    },
+    {
+        "pre": "experience, I know the world; therefore I advise you to divert\r\nyourself, and prevail upon each passenger to tell his story; and if\r\nthere be ",
+        "word": "one of them",
+        "post": " all, that has not cursed his life many a time, that\r\nhas not frequently looked upon himself as the unhappiest of mortals, I\r\ngive you",
+        "synonym": "One of them",
+        "i": 21349
+    },
+    {
+        "pre": "HOW CANDIDE WAS FORCED AWAY FROM HIS FAIR CUNEGONDE AND ",
+        "word": "THE OLD WOMAN",
+        "post": ".",
+        "synonym": "The old woman",
+        "i": 21435
+    },
+    {
+        "pre": "likewise\r\naccepted her proposal, and engaged all the passengers, one after the\r\nother, to relate their adventures; and then both she and Candide allowed\r\nthat ",
+        "word": "the old woman",
+        "post": " was in the right.",
+        "synonym": "The old woman",
+        "i": 21531
+    },
+    {
+        "pre": "Cunegonde, Captain Candide, and ",
+        "word": "the old\r\nwoman",
+        "post": ", waited on the Governor, Don Fernando d'Ibaraa, y Figueora, y\r\nMascarenes, y Lampourdos, y Souza.",
+        "synonym": "The old woman",
+        "i": 21677
+    },
+    {
+        "pre": "He declared his passion, protesting\r\nhe would marry her the next day ",
+        "word": "in the face",
+        "post": " of the church, or otherwise,\r\njust as should be agreeable to herself.",
+        "synonym": "in the face",
+        "i": 22131
+    },
+    {
+        "pre": "Cunegonde asked a quarter of an\r\nhour to consider of it, to consult ",
+        "word": "the old woman",
+        "post": ", and to take her\r\nresolution.",
+        "synonym": "The old woman",
+        "i": 22183
+    },
+    {
+        "pre": "",
+        "word": "The old woman",
+        "post": " spoke thus to Cunegonde.",
+        "synonym": "The old woman",
+        "i": 22195
+    },
+    {
+        "pre": "While ",
+        "word": "the old woman",
+        "post": " spoke with all the prudence which age and experience\r\ngave, a small ship entered the port on board of which were an Alcalde\r\nand his",
+        "synonym": "The old woman",
+        "i": 22363
+    },
+    {
+        "pre": "prudence which age and experience\r\ngave, a small ship entered the port on board of which were an Alcalde\r\nand his alguazils, and this was ",
+        "word": "what had happened",
+        "post": ".",
+        "synonym": "What had happened",
+        "i": 22421
+    },
+    {
+        "pre": "As ",
+        "word": "the old woman",
+        "post": " had shrewdly guessed, it was a Grey Friar who stole\r\nCunegonde's money and jewels in the town of Badajos, when she and\r\nCandide were escaping",
+        "synonym": "The old woman",
+        "i": 22425
+    },
+    {
+        "pre": "must I leave you just ",
+        "word": "at a time",
+        "post": " when the\r\nGovernor was going to sanction our nuptials.",
+        "synonym": "at a time",
+        "i": 23043
+    },
+    {
+        "pre": "She will do as well as she can,\" said Cacambo; \"the women are never ",
+        "word": "at\r\na loss",
+        "post": ", God provides for them, let us run.",
+        "synonym": "at a loss",
+        "i": 23109
+    },
+    {
+        "pre": "He beckoned, and straightway the new-comers were encompassed\r\nby ",
+        "word": "four-and-twenty",
+        "post": " soldiers.",
+        "synonym": "four and twenty",
+        "i": 23783
+    },
+    {
+        "pre": "Candide was at once conducted to a beautiful summer-house, ornamented\r\nwith a very pretty colonnade of ",
+        "word": "green and gold",
+        "post": " marble, and with\r\ntrellises, enclosing parraquets, humming-birds, fly-birds, guinea-hens,\r\nand all other rare birds.",
+        "synonym": "green and gold",
+        "i": 24083
+    },
+    {
+        "pre": "He was a very ",
+        "word": "handsome young man",
+        "post": ", with a full face, white skin but high\r\nin colour; he had an arched eyebrow, a lively eye, red ears, vermilion\r\nlips, a bold air",
+        "synonym": "handsome young man",
+        "i": 24191
+    },
+    {
+        "pre": "",
+        "word": "What, is it",
+        "post": " you, reverend Father.",
+        "synonym": "what is it",
+        "i": 24571
+    },
+    {
+        "pre": "",
+        "word": "That is all",
+        "post": " I want,\" said Candide, \"for I intended to marry her, and I\r\nstill hope to do so.",
+        "synonym": "that is all",
+        "i": 25639
+    },
+    {
+        "pre": "His attack, stealthier, more flexible and more patient\r\nthan Voltaire's, would call upon us, especially when his learning got a\r\nlittle ",
+        "word": "out of control",
+        "post": ", to be more than patient.",
+        "synonym": "out of control",
+        "i": 671
+    },
+    {
+        "pre": "in an instant drew his rapier, and\r\nplunged it up to the hilt in the Jesuit's belly; but in pulling it out\r\nreeking hot, he ",
+        "word": "burst into tears",
+        "post": ".",
+        "synonym": "burst into tears",
+        "i": 25933
+    },
+    {
+        "pre": "said he, \"I have killed my old master, my friend, my\r\n",
+        "word": "brother-in-law",
+        "post": ".",
+        "synonym": "brother in law",
+        "i": 25957
+    },
+    {
+        "pre": "",
+        "word": "I am the",
+        "post": " best-natured creature in the world, and yet I\r\nhave already killed three men, and of these three two were priests.",
+        "synonym": "I am the",
+        "i": 25959
+    },
+    {
+        "pre": "Cacambo, who had been in a great many scrapes in his lifetime, did not\r\nlose his head; he took the Baron's Jesuit habit, ",
+        "word": "put it on",
+        "post": " Candide, gave\r\nhim the square cap, and made him mount on horseback.",
+        "synonym": "put it on",
+        "i": 26141
+    },
+    {
+        "pre": "They were encompassed by fifty naked Oreillons, armed\r\nwith ",
+        "word": "bows and arrows",
+        "post": ", with clubs and flint hatchets.",
+        "synonym": "Bow and Arrow",
+        "i": 27543
+    },
+    {
+        "pre": "",
+        "word": "I told you",
+        "post": ", my dear master,\" cried Cacambo sadly, \"that those two girls\r\nwould play us some ugly trick.",
+        "synonym": "i told you",
+        "i": 27627
+    },
+    {
+        "pre": "The Oreillons untied their prisoners, showed\r\nthem ",
+        "word": "all sorts of",
+        "post": " civilities, offered them girls, gave them refreshment,\r\nand reconducted them to the confines of their territories, proclaiming\r\nwith great joy.",
+        "synonym": "all sorts of",
+        "i": 28395
+    },
+    {
+        "pre": "and which have\r\nnot yet received the final deformation known as universal acceptance,\r\nto-day \"Candide\" is an inspiration to every narrative satirist who hates\r\n",
+        "word": "one of these",
+        "post": " new faiths, or hates every interpretation of it but his\r\nown.",
+        "synonym": "One of these",
+        "i": 1997
+    },
+    {
+        "pre": "It was not easy to get to Cayenne; they knew vaguely in which direction\r\nto go, but rivers, precipices, robbers, savages, obstructed them ",
+        "word": "all the\r\nway",
+        "post": ".",
+        "synonym": "all the way",
+        "i": 28885
+    },
+    {
+        "pre": "Cacambo, who was as good a counsellor as ",
+        "word": "the old woman",
+        "post": ", said to Candide.",
+        "synonym": "The old woman",
+        "i": 28973
+    },
+    {
+        "pre": "will inspire younger men and women, the only ones\r\nwho can be inspired, to have a try at Theodore, or Militarism; Jane, or\r\nPacifism; at ",
+        "word": "So-and-So",
+        "post": ", the Pragmatist or the Freudian.",
+        "synonym": "so and so",
+        "i": 2117
+    },
+    {
+        "pre": "At the end\r\nof ",
+        "word": "four-and-twenty",
+        "post": " hours they saw daylight again, but their canoe was\r\ndashed to pieces against the rocks.",
+        "synonym": "four and twenty",
+        "i": 29239
+    },
+    {
+        "pre": "The little truants immediately quitted their game, leaving the quoits\r\n",
+        "word": "on the ground",
+        "post": " with all their other playthings.",
+        "synonym": "on the ground",
+        "i": 29699
+    },
+    {
+        "pre": "A\r\ncrowd of people pressed about the door, and there were still more ",
+        "word": "in the\r\nhouse",
+        "post": ".",
+        "synonym": "in the house",
+        "i": 29963
+    },
+    {
+        "pre": "Cacambo went up ",
+        "word": "to the door",
+        "post": " and heard they were\r\ntalking Peruvian; it was his mother tongue, for it is well known that\r\nCacambo was born in Tucuman, in a village",
+        "synonym": "to the door",
+        "i": 29997
+    },
+    {
+        "pre": "",
+        "word": "I will be",
+        "post": " your interpreter here,\" said he to Candide; \"let us go in, it\r\nis a public-house.",
+        "synonym": "I Will Be",
+        "i": 30057
+    },
+    {
+        "pre": "It is probably the country where ",
+        "word": "all is\r\nwell",
+        "post": "; for there absolutely must be one such place.",
+        "synonym": "all is well",
+        "i": 30697
+    },
+    {
+        "pre": "",
+        "word": "The old man",
+        "post": " received the strangers on his sofa, which was stuffed with\r\nhumming-birds' feathers, and ordered his servants to present them with\r\nliqueurs in diamond goblets",
+        "synonym": "the old man",
+        "i": 30983
+    },
+    {
+        "pre": "",
+        "word": "The old man",
+        "post": " reddened a little.",
+        "synonym": "the old man",
+        "i": 31497
+    },
+    {
+        "pre": "",
+        "word": "The old man",
+        "post": " reddened again.",
+        "synonym": "the old man",
+        "i": 31549
+    },
+    {
+        "pre": "Surely,\" said ",
+        "word": "the old man",
+        "post": ", \"there are not two, nor three, nor four.",
+        "synonym": "the old man",
+        "i": 31633
+    },
+    {
+        "pre": "We must be mad, indeed, if that were the case,\" said ",
+        "word": "the old man",
+        "post": "; \"here\r\nwe are all of one opinion, and we know not what you mean by monks.",
+        "synonym": "the old man",
+        "i": 31923
+    },
+    {
+        "pre": "After this long conversation ",
+        "word": "the old man",
+        "post": " ordered a coach and six sheep\r\nto be got ready, and twelve of his domestics to conduct the travellers\r\nto Court.",
+        "synonym": "the old man",
+        "i": 32061
+    },
+    {
+        "pre": "After rambling about the city the whole afternoon, and seeing but a\r\nthousandth ",
+        "word": "part of it",
+        "post": ", they were reconducted to the royal palace, where\r\nCandide sat down to table with his Majesty, his valet Cacambo, and\r\nseveral ladies.",
+        "synonym": "part of it",
+        "i": 32915
+    },
+    {
+        "pre": "Candide, in his raptures, cut Cunegonde's name ",
+        "word": "on the\r\ntrees",
+        "post": ".",
+        "synonym": "On The Tree",
+        "i": 34257
+    },
+    {
+        "pre": "cried Candide, \"thou hadst not guessed at this\r\nabomination; it ",
+        "word": "is the end",
+        "post": ".",
+        "synonym": "is the END",
+        "i": 35081
+    },
+    {
+        "pre": "",
+        "word": "What is this",
+        "post": " optimism.",
+        "synonym": "What is this",
+        "i": 35095
+    },
+    {
+        "pre": "once more to himself, \"thirty thousand\r\npiastres are a trifle to this man; surely these sheep must be laden with\r\nan immense treasure; let us ",
+        "word": "say no more",
+        "post": " about it.",
+        "synonym": "say no more",
+        "i": 36111
+    },
+    {
+        "pre": "The skipper seized his opportunity, set sail, and\r\nput ",
+        "word": "out to sea",
+        "post": ", the wind favouring him.",
+        "synonym": "Out to Sea",
+        "i": 36235
+    },
+    {
+        "pre": "",
+        "word": "He made it",
+        "post": " known in the town that\r\nhe would pay the passage and board and give two thousand piastres to any\r\nhonest man who would make the",
+        "synonym": "he made it",
+        "i": 36637
+    },
+    {
+        "pre": "They sat until four o'clock ",
+        "word": "in the morning",
+        "post": ".",
+        "synonym": "In the morning",
+        "i": 36911
+    },
+    {
+        "pre": "Candide, in listening to all\r\ntheir adventures, was reminded of what ",
+        "word": "the old woman",
+        "post": " had said to him in\r\ntheir voyage to Buenos Ayres, and of her wager that there was not a\r\nperson on board the ship but",
+        "synonym": "The old woman",
+        "i": 36935
+    },
+    {
+        "pre": "Candide, however, had one great advantage over Martin, in that he always\r\nhoped to see Miss Cunegonde; whereas Martin had ",
+        "word": "nothing at all",
+        "post": " to hope.",
+        "synonym": "Nothing At All",
+        "i": 37519
+    },
+    {
+        "pre": "",
+        "word": "In the middle",
+        "post": " of this dispute they heard the report of cannon; it\r\nredoubled every instant.",
+        "synonym": "in the middle",
+        "i": 38201
+    },
+    {
+        "pre": "Yes, ",
+        "word": "I have. All",
+        "post": " these kinds are found there.",
+        "synonym": "I have all",
+        "i": 39053
+    },
+    {
+        "pre": "How ",
+        "word": "the Old Woman",
+        "post": " took care of\r\n        Candide, and how he found the Object\r\n        he loved                                                26.",
+        "synonym": "The old woman",
+        "i": 2383
+    },
+    {
+        "pre": "It is said that Venice is fit only\r\nfor its own nobility, but that strangers meet with a very good reception\r\nif they ",
+        "word": "have a good",
+        "post": " deal of money.",
+        "synonym": "Have a good",
+        "i": 39417
+    },
+    {
+        "pre": "",
+        "word": "Not at all",
+        "post": ",\" said Martin.",
+        "synonym": "not at all",
+        "i": 39629
+    },
+    {
+        "pre": "Candide wondered why it was\r\nthat the ace never came to him; but Martin was ",
+        "word": "not at all",
+        "post": " astonished.",
+        "synonym": "not at all",
+        "i": 40683
+    },
+    {
+        "pre": "Among those who did him the honours of the town was a little Abbé of\r\nPerigord, ",
+        "word": "one of those",
+        "post": " busybodies who are ever alert, officious,\r\nforward, fawning, and complaisant; who watch for strangers in their\r\npassage through the capital, tell them the scandalous history",
+        "synonym": "One of Those",
+        "i": 40717
+    },
+    {
+        "pre": "",
+        "word": "One of these",
+        "post": " critics at his\r\nside said to him between the acts.",
+        "synonym": "One of these",
+        "i": 40861
+    },
+    {
+        "pre": "Candide, brought up in\r\nGermany, asked what was the etiquette, and how they treated ",
+        "word": "queens of\r\nEngland",
+        "post": " in France.",
+        "synonym": "Queen of England",
+        "i": 41187
+    },
+    {
+        "pre": "Yes,\" said the Abbé, \"but it means nothing, for they complain of\r\neverything with great fits of laughter; they even ",
+        "word": "do the most",
+        "post": " detestable\r\nthings while laughing.",
+        "synonym": "Do The Most",
+        "i": 41563
+    },
+    {
+        "pre": "Profound silence\r\nreigned; pallor was ",
+        "word": "on the faces",
+        "post": " of the punters, anxiety on that of the\r\nbanker, and the hostess, sitting near the unpitying banker, noticed with\r\nlynx-eyes all the doubled and",
+        "synonym": "on the face",
+        "i": 42031
+    },
+    {
+        "pre": "well rhymed, others political\r\nreasonings which lull to sleep, or amplifications which repel; others\r\ndemoniac dreams in barbarous style, interrupted in sequence, with long\r\napostrophes ",
+        "word": "to the gods",
+        "post": ", because they do not know how to speak to men,\r\nwith false maxims, with bombastic commonplaces.",
+        "synonym": "To the Gods",
+        "i": 43255
+    },
+    {
+        "pre": "madame,\" said Candide, \"I will answer you ",
+        "word": "as you wish",
+        "post": ".",
+        "synonym": "as you wish",
+        "i": 44085
+    },
+    {
+        "pre": "In what distress Candide, Cunegonde,\r\n        and ",
+        "word": "the Old Woman",
+        "post": " arrived at\r\n        Cadiz; and of their Embarkation                         38.",
+        "synonym": "The old woman",
+        "i": 2457
+    },
+    {
+        "pre": "But I wish that you would ",
+        "word": "put it on",
+        "post": ",\" said the lady.",
+        "synonym": "put it on",
+        "i": 44145
+    },
+    {
+        "pre": "History of ",
+        "word": "the Old Woman",
+        "post": "                                42.",
+        "synonym": "The old woman",
+        "i": 2481
+    },
+    {
+        "pre": "",
+        "word": "I have never",
+        "post": " received any from her,\" said Candide, \"for being expelled\r\nfrom the castle on her account I had not an opportunity for writing to\r\nher.",
+        "synonym": "i have never",
+        "i": 44669
+    },
+    {
+        "pre": "I was\r\ninformed of your passage at Bordeaux, where I left faithful Cacambo and\r\n",
+        "word": "the old woman",
+        "post": ", who are to follow me very soon.",
+        "synonym": "The old woman",
+        "i": 44951
+    },
+    {
+        "pre": "Take care ",
+        "word": "what you do",
+        "post": ",\" said the servant-maid; \"the light hurts her,\"\r\nand immediately she drew the curtain again.",
+        "synonym": "what you do?",
+        "i": 45157
+    },
+    {
+        "pre": "My dear Cunegonde,\" said Candide, weeping, \"",
+        "word": "how are you",
+        "post": ".",
+        "synonym": "How are you?",
+        "i": 45199
+    },
+    {
+        "pre": "",
+        "word": "You know that",
+        "post": " these two\r\nnations are at war for a few acres of snow in Canada,[31] and that they\r\nspend over this beautiful war much more than",
+        "synonym": "you know that",
+        "i": 46423
+    },
+    {
+        "pre": "",
+        "word": "All\r\nis well",
+        "post": ", all will be well, all goes as well as possible.",
+        "synonym": "all is well",
+        "i": 47109
+    },
+    {
+        "pre": "Upon their arrival at Venice, Candide went to search for Cacambo at\r\nevery inn and coffee-house, and among all the ",
+        "word": "ladies of pleasure",
+        "post": ", but to\r\nno purpose.",
+        "synonym": "Lady of pleasure",
+        "i": 47183
+    },
+    {
+        "pre": "The Adventures of ",
+        "word": "the Old Woman",
+        "post": "\r\n        continued                                               48.",
+        "synonym": "The old woman",
+        "i": 2493
+    },
+    {
+        "pre": "",
+        "word": "I see that",
+        "post": " you have\r\nheard all.",
+        "synonym": "I see that",
+        "i": 48265
+    },
+    {
+        "pre": "sir, if\r\nyou could only imagine ",
+        "word": "what it is",
+        "post": " to be obliged to caress indifferently\r\nan old merchant, a lawyer, a monk, a gondolier, an abbé, to be exposed\r\nto abuse and insults; to",
+        "synonym": "what it is",
+        "i": 48809
+    },
+    {
+        "pre": "Father,\" said Candide to the Friar, \"you appear to me to enjoy a state\r\nthat all the world might envy; the flower of health shines ",
+        "word": "in your face",
+        "post": ",\r\nyour expression makes plain your happiness; you have a very pretty girl\r\nfor your recreation, and you seem well satisfied with your state as a",
+        "synonym": "In your face",
+        "i": 49327
+    },
+    {
+        "pre": "",
+        "word": "I see\r\nthat",
+        "post": " we often meet with those whom we expected never to see more; so\r\nthat, perhaps, as I have found my red sheep and Paquette, it",
+        "synonym": "I see that",
+        "i": 49769
+    },
+    {
+        "pre": "How Candide was forced away from his\r\n        fair Cunegonde and ",
+        "word": "the Old Woman",
+        "post": "                        54.",
+        "synonym": "The old woman",
+        "i": 2521
+    },
+    {
+        "pre": "He\r\nreceived the two travellers with polite indifference, which put Candide\r\na little out of countenance, but was ",
+        "word": "not at all",
+        "post": " disagreeable to Martin.",
+        "synonym": "not at all",
+        "i": 50269
+    },
+    {
+        "pre": "go to see bad tragedies\r\nset to music, where the scenes are contrived for no other end than to\r\nintroduce two or three songs ridiculously ",
+        "word": "out of place",
+        "post": ", to show off an\r\nactress's voice.",
+        "synonym": "Out of place",
+        "i": 50923
+    },
+    {
+        "pre": "",
+        "word": "What is it",
+        "post": " to me whether he\r\npleads for Rabirius or Cluentius.",
+        "synonym": "what is it",
+        "i": 51973
+    },
+    {
+        "pre": "There might be,\" said Pococurante, \"if only ",
+        "word": "one of those",
+        "post": " rakers of\r\nrubbish had shown how to make pins; but in all these volumes there is\r\nnothing but chimerical systems, and not a single useful",
+        "synonym": "One of Those",
+        "i": 52123
+    },
+    {
+        "pre": "I have a notion,\" said he, \"that a Republican must be greatly pleased\r\nwith most of these books, which are written ",
+        "word": "with a spirit",
+        "post": " of freedom.",
+        "synonym": "With A Spirit",
+        "i": 52353
+    },
+    {
+        "pre": "I should be pleased with the liberty which inspires the\r\nEnglish genius if passion and party spirit did not corrupt ",
+        "word": "all that is",
+        "post": "\r\nestimable in this precious liberty.",
+        "synonym": "All that is",
+        "i": 52491
+    },
+    {
+        "pre": "Plato observed a long while ago that those stomachs are not\r\nthe best that reject ",
+        "word": "all sorts of",
+        "post": " food.",
+        "synonym": "all sorts of",
+        "i": 53279
+    },
+    {
+        "pre": "I can tell you\r\nnothing more; I am a slave, my master awaits me, I must serve him at\r\ntable; speak ",
+        "word": "not a word",
+        "post": ", eat, and then get ready.",
+        "synonym": "NOT A WORD",
+        "i": 53823
+    },
+    {
+        "pre": "Therefore\r\nI will ",
+        "word": "take care of",
+        "post": " myself.",
+        "synonym": "take care of",
+        "i": 54379
+    },
+    {
+        "pre": "I am ",
+        "word": "not at all",
+        "post": " joking.",
+        "synonym": "not at all",
+        "i": 54489
+    },
+    {
+        "pre": "",
+        "word": "My name is",
+        "post": " Achmet III.",
+        "synonym": "My Name Is...",
+        "i": 54493
+    },
+    {
+        "pre": "My\r\nnephew, the great Sultan Mahmoud, permits me to travel sometimes ",
+        "word": "for my\r\nhealth",
+        "post": ", and I am come to spend the Carnival at Venice.",
+        "synonym": "For my health",
+        "i": 54575
+    },
+    {
+        "pre": "",
+        "word": "My name is",
+        "post": " Ivan.",
+        "synonym": "My Name Is...",
+        "i": 54615
+    },
+    {
+        "pre": "How Candide found Cunegonde and\r\n        ",
+        "word": "the Old Woman",
+        "post": " again                                    159.",
+        "synonym": "The old woman",
+        "i": 2879
+    },
+    {
+        "pre": "",
+        "word": "I am the",
+        "post": " King of Poland; the fortune of war has stripped me of my\r\nhereditary dominions; my father underwent the same vicissitudes; I\r\nresign myself to Providence",
+        "synonym": "I am the",
+        "i": 54875
+    },
+    {
+        "pre": "I have\r\ncoined money, and now am not worth a farthing; I have had two\r\n",
+        "word": "secretaries of state",
+        "post": ", and now I have scarce a valet; I have seen myself\r\non a throne, and I have seen myself upon straw in a common jail",
+        "synonym": "secretary of state",
+        "i": 55203
+    },
+    {
+        "pre": "You see,\" said Candide to Martin on the way, \"we supped with six\r\ndethroned kings, and of those six ",
+        "word": "there was one",
+        "post": " to whom I gave charity.",
+        "synonym": "There was one",
+        "i": 55671
+    },
+    {
+        "pre": "Consequently\r\nthey who assert that ",
+        "word": "all is well",
+        "post": " have said a foolish thing, they should\r\nhave said all is for the best.",
+        "synonym": "all is well",
+        "i": 3703
+    },
+    {
+        "pre": "Cunegonde and ",
+        "word": "the old\r\nwoman",
+        "post": " serve the prince I now mentioned to you, and I am slave to the\r\ndethroned Sultan.",
+        "synonym": "The old woman",
+        "i": 56367
+    },
+    {
+        "pre": "on reaching the castle and blushed; Candide blushed\r\nalso; she wished him good morrow in a faltering tone, and Candide spoke\r\nto her without knowing ",
+        "word": "what he said",
+        "post": ".",
+        "synonym": "what he said",
+        "i": 4135
+    },
+    {
+        "pre": "",
+        "word": "What! it is",
+        "post": " Candide.",
+        "synonym": "what it is",
+        "i": 57097
+    },
+    {
+        "pre": "",
+        "word": "What! it is",
+        "post": " Candide.",
+        "synonym": "what it is",
+        "i": 57111
+    },
+    {
+        "pre": "",
+        "word": "Say no more",
+        "post": " about it,\" answered the Baron.",
+        "synonym": "say no more",
+        "i": 57919
+    },
+    {
+        "pre": "The Baron maintained that he had\r\nsuffered greater injustice than ",
+        "word": "I, and I",
+        "post": " insisted that it was far more\r\ninnocent to take up a bouquet and place it again on a woman's bosom than\r\nto be found stark naked",
+        "synonym": "I and I",
+        "i": 59355
+    },
+    {
+        "pre": "HOW CANDIDE FOUND CUNEGONDE AND ",
+        "word": "THE OLD WOMAN",
+        "post": " AGAIN.",
+        "synonym": "The old woman",
+        "i": 59629
+    },
+    {
+        "pre": "The\r\nfirst objects which met their sight were Cunegonde and ",
+        "word": "the old woman",
+        "post": "\r\nhanging towels out to dry.",
+        "synonym": "The old woman",
+        "i": 59777
+    },
+    {
+        "pre": "She embraced Candide and\r\nher brother; they embraced ",
+        "word": "the old woman",
+        "post": ", and Candide ransomed them\r\nboth.",
+        "synonym": "The old woman",
+        "i": 59879
+    },
+    {
+        "pre": "There was a small farm in the neighbourhood which ",
+        "word": "the old woman",
+        "post": "\r\nproposed to Candide to make a shift with till the company could be\r\nprovided for in a better manner.",
+        "synonym": "The old woman",
+        "i": 59907
+    },
+    {
+        "pre": "Thou mayest kill me again,\" said the Baron, \"but ",
+        "word": "thou shalt not",
+        "post": " marry\r\nmy sister, at least whilst I am living.",
+        "synonym": "Thou Shalt Not",
+        "i": 60285
+    },
+    {
+        "pre": "This advice was well received, ",
+        "word": "the old woman",
+        "post": " approved\r\nit; they said not a word to his sister; the thing was executed for a\r\nlittle money, and they had the double pleasure of",
+        "synonym": "The old woman",
+        "i": 60557
+    },
+    {
+        "pre": "This advice was well received, the old woman approved\r\nit; they said ",
+        "word": "not a word",
+        "post": " to his sister; the thing was executed for a\r\nlittle money, and they had the double pleasure of entrapping a Jesuit,\r\nand punishing the pride",
+        "synonym": "NOT A WORD",
+        "i": 60567
+    },
+    {
+        "pre": "It is natural to imagine that after so many disasters Candide married,\r\nand living with the philosopher Pangloss, the philosopher Martin, the\r\nprudent Cacambo, and ",
+        "word": "the old woman",
+        "post": ", having besides brought so many\r\ndiamonds from the country of the ancient Incas, must have led a very\r\nhappy life.",
+        "synonym": "The old woman",
+        "i": 60667
+    },
+    {
+        "pre": "so much imposed upon by the Jews that he had\r\nnothing left except his small farm; his wife became uglier every day,\r\nmore peevish and unsupportable; ",
+        "word": "the old woman",
+        "post": " was infirm and even more\r\nfretful than Cunegonde.",
+        "synonym": "The old woman",
+        "i": 60759
+    },
+    {
+        "pre": "Cacambo, who worked ",
+        "word": "in the garden",
+        "post": ", and took\r\nvegetables for sale to Constantinople, was fatigued with hard work, and\r\ncursed his destiny.",
+        "synonym": "In the garden",
+        "i": 60781
+    },
+    {
+        "pre": "spectacles as these increased the number of their\r\ndissertations; and when they did not dispute time hung so heavily upon\r\ntheir hands, that one day ",
+        "word": "the old woman",
+        "post": " ventured to say to them.",
+        "synonym": "The old woman",
+        "i": 61053
+    },
+    {
+        "pre": "I want to know which is worse, to be ravished a hundred times by negro\r\npirates, to have a buttock cut off, to ",
+        "word": "run the gauntlet",
+        "post": " among the\r\nBulgarians, to be whipped and hanged at an _auto-da-fé_, to be\r\ndissected, to row in the galleys--in short, to go",
+        "synonym": "Run the Gauntlet",
+        "i": 61103
+    },
+    {
+        "pre": "This discourse gave rise to new reflections, and Martin especially\r\nconcluded that man was born to live either ",
+        "word": "in a state",
+        "post": " of distracting\r\ninquietude or of lethargic disgust.",
+        "synonym": "in a state",
+        "i": 61229
+    },
+    {
+        "pre": "Do ",
+        "word": "you know that",
+        "post": " you cost me the tip of\r\nmy nose, an eye, and an ear, as you may see.",
+        "synonym": "you know that",
+        "i": 61589
+    },
+    {
+        "pre": "",
+        "word": "Hold your tongue",
+        "post": ",\" answered the Dervish.",
+        "synonym": "Hold Your Tongue",
+        "i": 61861
+    },
+    {
+        "pre": "Pangloss, who was as inquisitive as he was argumentative, asked ",
+        "word": "the old\r\nman",
+        "post": " what was the name of the strangled Mufti.",
+        "synonym": "the old man",
+        "i": 62087
+    },
+    {
+        "pre": "I have only twenty acres,\" replied ",
+        "word": "the old man",
+        "post": "; \"I and my children\r\ncultivate them; our labour preserves us from three great\r\nevils--weariness, vice, and want.",
+        "synonym": "the old man",
+        "i": 62415
+    },
+    {
+        "pre": "",
+        "word": "right are You",
+        "post": ",\" said Pangloss, \"for when man was first placed in the\r\nGarden of Eden, he was put there _ut operaretur eum_, that he might\r\ncultivate it",
+        "synonym": "you are right",
+        "i": 62763
+    },
+    {
+        "pre": "He lay down to sleep without supper, ",
+        "word": "in the middle",
+        "post": "\r\nof a field between two furrows.",
+        "synonym": "in the middle",
+        "i": 4457
+    },
+    {
+        "pre": "Cunegonde was, indeed, very ugly, but she became an excellent\r\npastry cook; Paquette worked at embroidery; ",
+        "word": "the old woman",
+        "post": " looked after\r\nthe linen.",
+        "synonym": "The old woman",
+        "i": 62929
+    },
+    {
+        "pre": "Candide in an instant drew his rapier, and\r\nplunged up it ",
+        "word": "hilt the to",
+        "post": " in the Jesuit's belly; but in it pulling out\r\nreeking hot, he burst into tears.",
+        "synonym": "to the hilt",
+        "i": 25909
     }
 ]
